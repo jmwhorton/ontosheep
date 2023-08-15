@@ -1,1 +1,11 @@
 # ontosheep
+
+## Usage
+
+Instructions for running a containerized version with a triplestore loaded with example data can be found in `test-deploy/`.  The following instructions will explain how to set up the `ews-calculator.py` script to work with a triplestore of your choosing (GraphDB will require the least amount of manual changes).  Instructions will assume a triplestore is already available.
+
+1. Process the input files into triples.  Example input files for two organizations (orgA and orgB) are provided in `test-deploy/example/input/`.  A python script has been provided as an example that converts the input .csv files into .ttl files.  To use, alter `csv2rdf.py` to select your desired input/output files and run `python csv2rdf.py`.
+2. Import the EWS and UO ontologies into your triplestore.  A version already merged with imports is located in `test-deploy/`.  Import both `test-deploy/full_ews.owl` and `test-deploy/uo.owl`.
+3. Import the .ttl files from the example organizations into your triplestore.  If you did not create your own in Step 1, examples are provided: `test-deploy/orgA.ttl` and `test-deploy/orgB.ttl`.
+4. Modify `ews-calculator.py` to point to the address of your triplestore.  As is, the request defined in `ews-calculator.py` works with GraphDB.  The request, parameters, or SPARQL query may need to be modified for other triplestores.
+5. Run `python ews-calculator.py`. Once complete, the output will be stored in `results.txt`.  Your output can be compared to the example output in `test-deploy/example/output/results.txt`.
