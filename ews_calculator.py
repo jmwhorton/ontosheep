@@ -4,8 +4,6 @@ import json
 import requests
 from importlib import import_module
 
-def get_all_ews():
-    print('get_all_ews')
 
 def get_ews_dict(pid):
     query = """
@@ -22,7 +20,7 @@ select * where {{
     body = {'query': query, 'Accept': 'application/sparql-results+json' }
     headers = {'content-type': 'application/x-www-form-urlencoded'}
     try:
-        r = requests.request('POST', "https://triplestore-ews.apps.dbmi.cloud/repositories/EWS-Test", data=body, headers=headers)
+        r = requests.request('POST', "http://triplestore:7200/repositories/ontosheep-test", data=body, headers=headers)
         if r.ok:
             try:
                 data = r.json()
@@ -38,10 +36,8 @@ select * where {{
                 return ewsResults
             except ValueError:
                 print('Bad json data')
-                print(r.content)
                 return []
         else:
-            print(r)
             return []
     except:
         print('failed rdf')
@@ -56,6 +52,11 @@ def get_spec():
         data = json.load(f)
     return data
 
+directory_path = "lib"
+
+if not os.path.exists(directory_path):
+    os.makedirs(directory_path)
+
 if not os.path.exists('lib/ews_calc.py'):
     url = 'https://raw.githubusercontent.com/jmwhorton/ontosheep-ews/main/ews_calc.py'
     r = requests.get(url, allow_redirects=True)
@@ -66,8 +67,9 @@ sys.path.insert(0, HERE)
 module = import_module('lib.ews_calc')
 spec = get_spec()
 with open('results.txt', 'w') as out:
-    for i in range(1, 1001):
+    for i in range(1, 2001):
         person = get_ews_dict(i)
         results = module.run(person, spec)
         results['Person ID'] = i
         out.write(str(results) + '\n')
+        print(results)

@@ -1,0 +1,2084 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns="http://www.zayascilia.owl#"
+     xml:base="http://www.zayascilia.owl"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:obo="http://purl.obolibrary.org/obo/"
+     xmlns:owl="http://www.w3.org/2002/07/owl#"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:xml="http://www.w3.org/XML/1998/namespace"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+     xmlns:oboInOwl="oboInOwl:">
+    <owl:Ontology rdf:about="http://www.zayascilia.owl"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Annotation properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/BFO_0000179 -->
+
+    <owl:AnnotationProperty rdf:about="http://purl.obolibrary.org/obo/BFO_0000179">
+        <obo:IAO_0000115 xml:lang="en">Relates an entity in the ontology to the name of the variable that is used to represent it in the code that generates the BFO OWL file from the lispy specification.</obo:IAO_0000115>
+        <obo:IAO_0000232 xml:lang="en">Really of interest to developers only</obo:IAO_0000232>
+        <rdfs:label xml:lang="en">BFO OWL specification label</rdfs:label>
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2000/01/rdf-schema#label"/>
+    </owl:AnnotationProperty>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/BFO_0000180 -->
+
+    <owl:AnnotationProperty rdf:about="http://purl.obolibrary.org/obo/BFO_0000180">
+        <obo:IAO_0000115 xml:lang="en">Relates an entity in the ontology to the term that is used to represent it in the the CLIF specification of BFO2</obo:IAO_0000115>
+        <obo:IAO_0000119>Person:Alan Ruttenberg</obo:IAO_0000119>
+        <obo:IAO_0000232 xml:lang="en">Really of interest to developers only</obo:IAO_0000232>
+        <rdfs:label xml:lang="en">BFO CLIF specification label</rdfs:label>
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2000/01/rdf-schema#label"/>
+    </owl:AnnotationProperty>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/IAO_0000111 -->
+
+    <owl:AnnotationProperty rdf:about="http://purl.obolibrary.org/obo/IAO_0000111">
+        <obo:IAO_0000111>editor preferred label</obo:IAO_0000111>
+        <obo:IAO_0000111 xml:lang="en">editor preferred label</obo:IAO_0000111>
+        <obo:IAO_0000111>editor preferred term</obo:IAO_0000111>
+        <obo:IAO_0000111 xml:lang="en">editor preferred term</obo:IAO_0000111>
+        <obo:IAO_0000111>editor preferred term~editor preferred label</obo:IAO_0000111>
+        <obo:IAO_0000114 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000122"/>
+        <obo:IAO_0000115 xml:lang="en">The concise, meaningful, and human-friendly name for a class or property preferred by the ontology developers. (US-English)</obo:IAO_0000115>
+        <obo:IAO_0000117 xml:lang="en">PERSON:Daniel Schober</obo:IAO_0000117>
+        <obo:IAO_0000119 xml:lang="en">GROUP:OBI:&lt;http://purl.obolibrary.org/obo/obi&gt;</obo:IAO_0000119>
+        <rdfs:isDefinedBy rdf:resource="http://purl.obolibrary.org/obo/iao.owl"/>
+        <rdfs:label>editor preferred label</rdfs:label>
+        <rdfs:label xml:lang="en">editor preferred label</rdfs:label>
+        <rdfs:label>editor preferred term</rdfs:label>
+        <rdfs:label xml:lang="en">editor preferred term</rdfs:label>
+        <rdfs:label>editor preferred term~editor preferred label</rdfs:label>
+    </owl:AnnotationProperty>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/IAO_0000112 -->
+
+    <owl:AnnotationProperty rdf:about="http://purl.obolibrary.org/obo/IAO_0000112">
+        <obo:IAO_0000111 xml:lang="en">example of usage</obo:IAO_0000111>
+        <obo:IAO_0000114 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000122"/>
+        <obo:IAO_0000115 xml:lang="en">A phrase describing how a term should be used and/or a citation to a work which uses it. May also include other kinds of examples that facilitate immediate understanding, such as widely know prototypes or instances of a class, or cases where a relation is said to hold.</obo:IAO_0000115>
+        <obo:IAO_0000117 xml:lang="en">PERSON:Daniel Schober</obo:IAO_0000117>
+        <obo:IAO_0000119 xml:lang="en">GROUP:OBI:&lt;http://purl.obolibrary.org/obo/obi&gt;</obo:IAO_0000119>
+        <rdfs:isDefinedBy rdf:resource="http://purl.obolibrary.org/obo/iao.owl"/>
+        <rdfs:label xml:lang="en">example of usage</rdfs:label>
+    </owl:AnnotationProperty>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/IAO_0000114 -->
+
+    <owl:AnnotationProperty rdf:about="http://purl.obolibrary.org/obo/IAO_0000114">
+        <obo:IAO_0000111 xml:lang="en">has curation status</obo:IAO_0000111>
+        <obo:IAO_0000117 xml:lang="en">PERSON:Alan Ruttenberg</obo:IAO_0000117>
+        <obo:IAO_0000117 xml:lang="en">PERSON:Bill Bug</obo:IAO_0000117>
+        <obo:IAO_0000117 xml:lang="en">PERSON:Melanie Courtot</obo:IAO_0000117>
+        <rdfs:label xml:lang="en">has curation status</rdfs:label>
+    </owl:AnnotationProperty>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/IAO_0000115 -->
+
+    <owl:AnnotationProperty rdf:about="http://purl.obolibrary.org/obo/IAO_0000115">
+        <obo:IAO_0000111>definition</obo:IAO_0000111>
+        <obo:IAO_0000111 xml:lang="en">definition</obo:IAO_0000111>
+        <obo:IAO_0000111>textual definition</obo:IAO_0000111>
+        <obo:IAO_0000114 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000122"/>
+        <obo:IAO_0000115 xml:lang="en">The official OBI definition, explaining the meaning of a class or property. Shall be Aristotelian, formalized and normalized. Can be augmented with colloquial definitions.</obo:IAO_0000115>
+        <obo:IAO_0000115 xml:lang="en">The official definition, explaining the meaning of a class or property. Shall be Aristotelian, formalized and normalized. Can be augmented with colloquial definitions.</obo:IAO_0000115>
+        <obo:IAO_0000116 xml:lang="en">2012-04-05: 
+Barry Smith
+
+The official OBI definition, explaining the meaning of a class or property: &apos;Shall be Aristotelian, formalized and normalized. Can be augmented with colloquial definitions&apos;  is terrible.
+
+Can you fix to something like:
+
+A statement of necessary and sufficient conditions explaining the meaning of an expression referring to a class or property.
+
+Alan Ruttenberg
+
+Your proposed definition is a reasonable candidate, except that it is very common that necessary and sufficient conditions are not given. Mostly they are necessary, occasionally they are necessary and sufficient or just sufficient. Often they use terms that are not themselves defined and so they effectively can&apos;t be evaluated by those criteria. 
+
+On the specifics of the proposed definition:
+
+We don&apos;t have definitions of &apos;meaning&apos; or &apos;expression&apos; or &apos;property&apos;. For &apos;reference&apos; in the intended sense I think we use the term &apos;denotation&apos;. For &apos;expression&apos;, I think we you mean symbol, or identifier. For &apos;meaning&apos; it differs for class and property. For class we want documentation that let&apos;s the intended reader determine whether an entity is instance of the class, or not. For property we want documentation that let&apos;s the intended reader determine, given a pair of potential relata, whether the assertion that the relation holds is true. The &apos;intended reader&apos; part suggests that we also specify who, we expect, would be able to understand the definition, and also generalizes over human and computer reader to include textual and logical definition. 
+
+Personally, I am more comfortable weakening definition to documentation, with instructions as to what is desirable. 
+
+We also have the outstanding issue of how to aim different definitions to different audiences. A clinical audience reading chebi wants a different sort of definition documentation/definition from a chemistry trained audience, and similarly there is a need for a definition that is adequate for an ontologist to work with.  </obo:IAO_0000116>
+        <obo:IAO_0000117 xml:lang="en">PERSON:Daniel Schober</obo:IAO_0000117>
+        <obo:IAO_0000119 xml:lang="en">GROUP:OBI:&lt;http://purl.obolibrary.org/obo/obi&gt;</obo:IAO_0000119>
+        <rdfs:isDefinedBy rdf:resource="http://purl.obolibrary.org/obo/iao.owl"/>
+        <rdfs:label>definition</rdfs:label>
+        <rdfs:label xml:lang="en">definition</rdfs:label>
+        <rdfs:label>textual definition</rdfs:label>
+    </owl:AnnotationProperty>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/IAO_0000116 -->
+
+    <owl:AnnotationProperty rdf:about="http://purl.obolibrary.org/obo/IAO_0000116">
+        <obo:IAO_0000111 xml:lang="en">editor note</obo:IAO_0000111>
+        <obo:IAO_0000114 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000122"/>
+        <obo:IAO_0000115 xml:lang="en">An administrative note intended for its editor. It may not be included in the publication version of the ontology, so it should contain nothing necessary for end users to understand the ontology.</obo:IAO_0000115>
+        <obo:IAO_0000117 xml:lang="en">PERSON:Daniel Schober</obo:IAO_0000117>
+        <obo:IAO_0000119 xml:lang="en">GROUP:OBI:&lt;http://purl.obofoundry.org/obo/obi&gt;</obo:IAO_0000119>
+        <rdfs:isDefinedBy rdf:resource="http://purl.obolibrary.org/obo/iao.owl"/>
+        <rdfs:label xml:lang="en">editor note</rdfs:label>
+    </owl:AnnotationProperty>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/IAO_0000117 -->
+
+    <owl:AnnotationProperty rdf:about="http://purl.obolibrary.org/obo/IAO_0000117">
+        <obo:IAO_0000111 xml:lang="en">term editor</obo:IAO_0000111>
+        <obo:IAO_0000114 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000122"/>
+        <obo:IAO_0000115 xml:lang="en">Name of editor entering the term in the file. The term editor is a point of contact for information regarding the term. The term editor may be, but is not always, the author of the definition, which may have been worked upon by several people</obo:IAO_0000115>
+        <obo:IAO_0000116 xml:lang="en">20110707, MC: label update to term editor and definition modified accordingly. See https://github.com/information-artifact-ontology/IAO/issues/115.</obo:IAO_0000116>
+        <obo:IAO_0000117 xml:lang="en">PERSON:Daniel Schober</obo:IAO_0000117>
+        <obo:IAO_0000119 xml:lang="en">GROUP:OBI:&lt;http://purl.obolibrary.org/obo/obi&gt;</obo:IAO_0000119>
+        <rdfs:isDefinedBy rdf:resource="http://purl.obolibrary.org/obo/iao.owl"/>
+        <rdfs:label xml:lang="en">term editor</rdfs:label>
+    </owl:AnnotationProperty>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/IAO_0000118 -->
+
+    <owl:AnnotationProperty rdf:about="http://purl.obolibrary.org/obo/IAO_0000118">
+        <obo:IAO_0000111 xml:lang="en">alternative term</obo:IAO_0000111>
+        <obo:IAO_0000114 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000125"/>
+        <obo:IAO_0000115 xml:lang="en">An alternative name for a class or property which means the same thing as the preferred name (semantically equivalent)</obo:IAO_0000115>
+        <obo:IAO_0000117 xml:lang="en">PERSON:Daniel Schober</obo:IAO_0000117>
+        <obo:IAO_0000119 xml:lang="en">GROUP:OBI:&lt;http://purl.obolibrary.org/obo/obi&gt;</obo:IAO_0000119>
+        <rdfs:isDefinedBy rdf:resource="http://purl.obolibrary.org/obo/iao.owl"/>
+        <rdfs:label xml:lang="en">alternative term</rdfs:label>
+    </owl:AnnotationProperty>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/IAO_0000119 -->
+
+    <owl:AnnotationProperty rdf:about="http://purl.obolibrary.org/obo/IAO_0000119">
+        <obo:IAO_0000111 xml:lang="en">definition source</obo:IAO_0000111>
+        <obo:IAO_0000114 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000122"/>
+        <obo:IAO_0000115 xml:lang="en">Formal citation, e.g. identifier in external database to indicate / attribute source(s) for the definition. Free text indicate / attribute source(s) for the definition. EXAMPLE: Author Name, URI, MeSH Term C04, PUBMED ID, Wiki uri on 31.01.2007</obo:IAO_0000115>
+        <obo:IAO_0000117 xml:lang="en">PERSON:Daniel Schober</obo:IAO_0000117>
+        <obo:IAO_0000119 xml:lang="en">Discussion on obo-discuss mailing-list, see http://bit.ly/hgm99w</obo:IAO_0000119>
+        <obo:IAO_0000119 xml:lang="en">GROUP:OBI:&lt;http://purl.obolibrary.org/obo/obi&gt;</obo:IAO_0000119>
+        <rdfs:isDefinedBy rdf:resource="http://purl.obolibrary.org/obo/iao.owl"/>
+        <rdfs:label xml:lang="en">definition source</rdfs:label>
+    </owl:AnnotationProperty>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/IAO_0000232 -->
+
+    <owl:AnnotationProperty rdf:about="http://purl.obolibrary.org/obo/IAO_0000232">
+        <obo:IAO_0000111 xml:lang="en">curator note</obo:IAO_0000111>
+        <obo:IAO_0000114 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000122"/>
+        <obo:IAO_0000115 xml:lang="en">An administrative note of use for a curator but of no use for a user</obo:IAO_0000115>
+        <obo:IAO_0000117 xml:lang="en">PERSON:Alan Ruttenberg</obo:IAO_0000117>
+        <rdfs:isDefinedBy rdf:resource="http://purl.obolibrary.org/obo/iao.owl"/>
+        <rdfs:label xml:lang="en">curator note</rdfs:label>
+    </owl:AnnotationProperty>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/IAO_0000412 -->
+
+    <owl:AnnotationProperty rdf:about="http://purl.obolibrary.org/obo/IAO_0000412">
+        <obo:IAO_0000111 xml:lang="en">imported from</obo:IAO_0000111>
+        <obo:IAO_0000114 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000125"/>
+        <obo:IAO_0000115 xml:lang="en">For external terms/classes, the ontology from which the term was imported</obo:IAO_0000115>
+        <obo:IAO_0000117 xml:lang="en">PERSON:Alan Ruttenberg</obo:IAO_0000117>
+        <obo:IAO_0000117 xml:lang="en">PERSON:Melanie Courtot</obo:IAO_0000117>
+        <obo:IAO_0000119 xml:lang="en">GROUP:OBI:&lt;http://purl.obolibrary.org/obo/obi&gt;</obo:IAO_0000119>
+        <rdfs:isDefinedBy rdf:resource="http://purl.obolibrary.org/obo/iao.owl"/>
+        <rdfs:label xml:lang="en">imported from</rdfs:label>
+    </owl:AnnotationProperty>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/IAO_0000600 -->
+
+    <owl:AnnotationProperty rdf:about="http://purl.obolibrary.org/obo/IAO_0000600">
+        <obo:IAO_0000111 xml:lang="en">elucidation</obo:IAO_0000111>
+        <obo:IAO_0000117 xml:lang="en">person:Alan Ruttenberg</obo:IAO_0000117>
+        <obo:IAO_0000119 xml:lang="en">Person:Barry Smith</obo:IAO_0000119>
+        <obo:IAO_0000600 xml:lang="en">Primitive terms in a highest-level ontology such as BFO are terms which are so basic to our understanding of reality that there is no way of defining them in a non-circular fashion. For these, therefore, we can provide only elucidations, supplemented by examples and by axioms</obo:IAO_0000600>
+        <rdfs:isDefinedBy rdf:resource="http://purl.obolibrary.org/obo/iao.owl"/>
+        <rdfs:label xml:lang="en">elucidation</rdfs:label>
+    </owl:AnnotationProperty>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/IAO_0000601 -->
+
+    <owl:AnnotationProperty rdf:about="http://purl.obolibrary.org/obo/IAO_0000601">
+        <obo:IAO_0000111 xml:lang="en">has associated axiom(nl)</obo:IAO_0000111>
+        <obo:IAO_0000117 xml:lang="en">Person:Alan Ruttenberg</obo:IAO_0000117>
+        <obo:IAO_0000119 xml:lang="en">Person:Alan Ruttenberg</obo:IAO_0000119>
+        <obo:IAO_0000600 xml:lang="en">An axiom associated with a term expressed using natural language</obo:IAO_0000600>
+        <rdfs:isDefinedBy rdf:resource="http://purl.obolibrary.org/obo/iao.owl"/>
+        <rdfs:label xml:lang="en">has associated axiom(nl)</rdfs:label>
+    </owl:AnnotationProperty>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/IAO_0000602 -->
+
+    <owl:AnnotationProperty rdf:about="http://purl.obolibrary.org/obo/IAO_0000602">
+        <obo:IAO_0000111 xml:lang="en">has associated axiom(fol)</obo:IAO_0000111>
+        <obo:IAO_0000117 xml:lang="en">Person:Alan Ruttenberg</obo:IAO_0000117>
+        <obo:IAO_0000119 xml:lang="en">Person:Alan Ruttenberg</obo:IAO_0000119>
+        <obo:IAO_0000600 xml:lang="en">An axiom expressed in first order logic using CLIF syntax</obo:IAO_0000600>
+        <rdfs:isDefinedBy rdf:resource="http://purl.obolibrary.org/obo/iao.owl"/>
+        <rdfs:label xml:lang="en">has associated axiom(fol)</rdfs:label>
+    </owl:AnnotationProperty>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OBI_0001847 -->
+
+    <owl:AnnotationProperty rdf:about="http://purl.obolibrary.org/obo/OBI_0001847">
+        <obo:IAO_0000111 xml:lang="en">ISA alternative term</obo:IAO_0000111>
+        <obo:IAO_0000114 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000122"/>
+        <obo:IAO_0000115>An alternative term used by the ISA tools project (http://isa-tools.org).</obo:IAO_0000115>
+        <obo:IAO_0000116>Requested by Alejandra Gonzalez-Beltran
+https://sourceforge.net/tracker/?func=detail&amp;aid=3603413&amp;group_id=177891&amp;atid=886178</obo:IAO_0000116>
+        <obo:IAO_0000117>Person: Alejandra Gonzalez-Beltran</obo:IAO_0000117>
+        <obo:IAO_0000117>Person: Philippe Rocca-Serra</obo:IAO_0000117>
+        <obo:IAO_0000119>ISA tools project (http://isa-tools.org)</obo:IAO_0000119>
+        <rdfs:label xml:lang="en">ISA alternative term</rdfs:label>
+        <rdfs:subPropertyOf rdf:resource="http://purl.obolibrary.org/obo/IAO_0000118"/>
+    </owl:AnnotationProperty>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OBI_9991118 -->
+
+    <owl:AnnotationProperty rdf:about="http://purl.obolibrary.org/obo/OBI_9991118">
+        <obo:IAO_0000111>IEDB alternative term</obo:IAO_0000111>
+        <obo:IAO_0000114 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000122"/>
+        <obo:IAO_0000115>An alternative term used by the IEDB.</obo:IAO_0000115>
+        <obo:IAO_0000117>PERSON:Randi Vita, Jason Greenbaum, Bjoern Peters</obo:IAO_0000117>
+        <obo:IAO_0000119>IEDB</obo:IAO_0000119>
+        <rdfs:label>IEDB alternative term</rdfs:label>
+        <rdfs:subPropertyOf rdf:resource="http://purl.obolibrary.org/obo/IAO_0000118"/>
+    </owl:AnnotationProperty>
+    
+
+
+    <!-- http://purl.org/dc/elements/1.1/description -->
+
+    <owl:AnnotationProperty rdf:about="http://purl.org/dc/elements/1.1/description">
+        <dc:description xml:lang="en-us">Description may include but is not limited to: an abstract,
+         table of contents, reference to a graphical representation
+         of content or a free-text account of the content.</dc:description>
+        <rdfs:comment xml:lang="en-us">An account of the content of the resource.</rdfs:comment>
+        <rdfs:isDefinedBy rdf:resource="http://purl.org/dc/elements/1.1/"/>
+        <rdfs:label>Description</rdfs:label>
+        <rdfs:label xml:lang="en-us">Description</rdfs:label>
+    </owl:AnnotationProperty>
+    
+
+
+    <!-- http://purl.org/dc/elements/1.1/source -->
+
+    <owl:AnnotationProperty rdf:about="http://purl.org/dc/elements/1.1/source">
+        <dc:description xml:lang="en-us">The present resource may be derived from the Source resource
+         in whole or in part.  Recommended best practice is to reference
+         the resource by means of a string or number conforming to a
+         formal identification system.</dc:description>
+        <rdfs:comment xml:lang="en-us">A reference to a resource from which the present resource
+         is derived.</rdfs:comment>
+        <rdfs:isDefinedBy rdf:resource="http://purl.org/dc/elements/1.1/"/>
+        <rdfs:label>Source</rdfs:label>
+        <rdfs:label xml:lang="en-us">Source</rdfs:label>
+    </owl:AnnotationProperty>
+    
+
+
+    <!-- http://www.w3.org/2000/01/rdf-schema#comment -->
+
+    <owl:AnnotationProperty rdf:about="http://www.w3.org/2000/01/rdf-schema#comment"/>
+    
+
+
+    <!-- http://www.w3.org/2000/01/rdf-schema#isDefinedBy -->
+
+    <owl:AnnotationProperty rdf:about="http://www.w3.org/2000/01/rdf-schema#isDefinedBy"/>
+    
+
+
+    <!-- http://www.w3.org/2000/01/rdf-schema#label -->
+
+    <owl:AnnotationProperty rdf:about="http://www.w3.org/2000/01/rdf-schema#label">
+        <obo:IAO_0000111>label</obo:IAO_0000111>
+        <rdfs:label>label</rdfs:label>
+    </owl:AnnotationProperty>
+    
+
+
+    <!-- oboInOwl:hasExactSynonym -->
+
+    <owl:AnnotationProperty rdf:about="oboInOwl:hasExactSynonym"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Object Properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/BFO_0000050 -->
+
+    <owl:ObjectProperty rdf:about="http://purl.obolibrary.org/obo/BFO_0000050">
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#TransitiveProperty"/>
+        <rdfs:label xml:lang="en">part of</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/BFO_0000051 -->
+
+    <owl:ObjectProperty rdf:about="http://purl.obolibrary.org/obo/BFO_0000051">
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#TransitiveProperty"/>
+        <rdfs:label xml:lang="en">has part</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/BFO_0000055 -->
+
+    <owl:ObjectProperty rdf:about="http://purl.obolibrary.org/obo/BFO_0000055">
+        <rdfs:label xml:lang="en">realizes</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/IAO_0000039 -->
+
+    <owl:ObjectProperty rdf:about="http://purl.obolibrary.org/obo/IAO_0000039">
+        <rdfs:subPropertyOf rdf:resource="http://purl.obolibrary.org/obo/BFO_0000051"/>
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#FunctionalProperty"/>
+        <rdfs:range rdf:resource="http://purl.obolibrary.org/obo/IAO_0000003"/>
+        <rdfs:label xml:lang="en">has measurement unit label</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/IAO_0000136 -->
+
+    <owl:ObjectProperty rdf:about="http://purl.obolibrary.org/obo/IAO_0000136">
+        <rdfs:domain rdf:resource="http://purl.obolibrary.org/obo/IAO_0000030"/>
+        <obo:IAO_0000112 xml:lang="en">This document is about information artifacts and their representations</obo:IAO_0000112>
+        <obo:IAO_0000114 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000125"/>
+        <obo:IAO_0000115 xml:lang="en">A (currently) primitive relation that relates an information artifact to an entity.</obo:IAO_0000115>
+        <obo:IAO_0000116 xml:lang="en">7/6/2009 Alan Ruttenberg. Following discussion with Jonathan Rees, and introduction of &quot;mentions&quot; relation. Weaken the is_about relationship to be primitive. 
+
+We will try to build it back up by elaborating the various subproperties that are more precisely defined.
+
+Some currently missing phenomena that should be considered &quot;about&quot; are predications - &quot;The only person who knows the answer is sitting beside me&quot; , Allegory, Satire, and other literary forms that can be topical without explicitly mentioning the topic.</obo:IAO_0000116>
+        <obo:IAO_0000117 xml:lang="en">person:Alan Ruttenberg</obo:IAO_0000117>
+        <obo:IAO_0000119 xml:lang="en">Smith, Ceusters, Ruttenberg, 2000 years of philosophy</obo:IAO_0000119>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/iao.owl"/>
+        <rdfs:label xml:lang="en">is about</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OBI_0000293 -->
+
+    <owl:ObjectProperty rdf:about="http://purl.obolibrary.org/obo/OBI_0000293">
+        <owl:equivalentProperty>
+            <rdf:Description>
+                <owl:inverseOf rdf:resource="http://purl.obolibrary.org/obo/OBI_0000295"/>
+            </rdf:Description>
+        </owl:equivalentProperty>
+        <rdfs:subPropertyOf rdf:resource="http://purl.obolibrary.org/obo/RO_0000057"/>
+        <owl:inverseOf rdf:resource="http://purl.obolibrary.org/obo/OBI_0000295"/>
+        <obo:IAO_0000111>has_specified_input</obo:IAO_0000111>
+        <obo:IAO_0000111 xml:lang="en">has_specified_input</obo:IAO_0000111>
+        <obo:IAO_0000112 xml:lang="en">see is_input_of example_of_usage</obo:IAO_0000112>
+        <obo:IAO_0000114 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000122"/>
+        <obo:IAO_0000115 xml:lang="en">The inverse property of is_specified_input_of</obo:IAO_0000115>
+        <obo:IAO_0000116>8/17/09: specified inputs of one process are not necessarily specified inputs of a larger process that it is part of. This is in contrast to how &apos;has participant&apos; works.</obo:IAO_0000116>
+        <obo:IAO_0000117 xml:lang="en">PERSON: Alan Ruttenberg</obo:IAO_0000117>
+        <obo:IAO_0000117>PERSON: Bjoern Peters</obo:IAO_0000117>
+        <obo:IAO_0000117>PERSON: Larry Hunter</obo:IAO_0000117>
+        <obo:IAO_0000117>PERSON: Melanie Coutot</obo:IAO_0000117>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/obi.owl"/>
+        <rdfs:label xml:lang="en">has_specified_input</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OBI_0000295 -->
+
+    <owl:ObjectProperty rdf:about="http://purl.obolibrary.org/obo/OBI_0000295">
+        <rdfs:subPropertyOf rdf:resource="http://purl.obolibrary.org/obo/RO_0000057"/>
+        <obo:IAO_0000111>is_specified_input_of</obo:IAO_0000111>
+        <obo:IAO_0000112 xml:lang="en">some Autologous EBV(Epstein-Barr virus)-transformed B-LCL (B lymphocyte cell line) is_input_for instance of Chromum Release Assay described at https://wiki.cbil.upenn.edu/obiwiki/index.php/Chromium_Release_assay</obo:IAO_0000112>
+        <obo:IAO_0000114 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000122"/>
+        <obo:IAO_0000115 xml:lang="en">A relation between a planned process and a continuant participating in that process that is not created during  the process. The presence of the continuant during the process is explicitly specified in the plan specification which the process realizes the concretization of.</obo:IAO_0000115>
+        <obo:IAO_0000117 xml:lang="en">Alan Ruttenberg</obo:IAO_0000117>
+        <obo:IAO_0000117>PERSON:Bjoern Peters</obo:IAO_0000117>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/obi.owl"/>
+        <rdfs:label xml:lang="en">is_specified_input_of</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OBI_0000299 -->
+
+    <owl:ObjectProperty rdf:about="http://purl.obolibrary.org/obo/OBI_0000299">
+        <owl:equivalentProperty>
+            <rdf:Description>
+                <owl:inverseOf rdf:resource="http://purl.obolibrary.org/obo/OBI_0000312"/>
+            </rdf:Description>
+        </owl:equivalentProperty>
+        <rdfs:subPropertyOf rdf:resource="http://purl.obolibrary.org/obo/RO_0000057"/>
+        <owl:inverseOf rdf:resource="http://purl.obolibrary.org/obo/OBI_0000312"/>
+        <obo:IAO_0000111>has_specified_output</obo:IAO_0000111>
+        <obo:IAO_0000111 xml:lang="en">has_specified_output</obo:IAO_0000111>
+        <obo:IAO_0000114 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000122"/>
+        <obo:IAO_0000115 xml:lang="en">The inverse property of is_specified_output_of</obo:IAO_0000115>
+        <obo:IAO_0000117 xml:lang="en">PERSON: Alan Ruttenberg</obo:IAO_0000117>
+        <obo:IAO_0000117>PERSON: Bjoern Peters</obo:IAO_0000117>
+        <obo:IAO_0000117>PERSON: Larry Hunter</obo:IAO_0000117>
+        <obo:IAO_0000117>PERSON: Melanie Courtot</obo:IAO_0000117>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/obi.owl"/>
+        <rdfs:label xml:lang="en">has_specified_output</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OBI_0000312 -->
+
+    <owl:ObjectProperty rdf:about="http://purl.obolibrary.org/obo/OBI_0000312">
+        <owl:equivalentProperty>
+            <rdf:Description>
+                <owl:inverseOf rdf:resource="http://purl.obolibrary.org/obo/OBI_0000299"/>
+            </rdf:Description>
+        </owl:equivalentProperty>
+        <rdfs:subPropertyOf rdf:resource="http://purl.obolibrary.org/obo/RO_0000056"/>
+        <obo:IAO_0000111>is_specified_output_of</obo:IAO_0000111>
+        <obo:IAO_0000111 xml:lang="en">is_specified_output_of</obo:IAO_0000111>
+        <obo:IAO_0000114 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000122"/>
+        <obo:IAO_0000115 xml:lang="en">A relation between a planned process and a continuant participating in that process. The presence of the continuant at the end of the process is explicitly specified in the objective specification which the process realizes the concretization of.</obo:IAO_0000115>
+        <obo:IAO_0000117 xml:lang="en">Alan Ruttenberg</obo:IAO_0000117>
+        <obo:IAO_0000117>PERSON:Bjoern Peters</obo:IAO_0000117>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/obi.owl"/>
+        <rdfs:label xml:lang="en">is_specified_output_of</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OBI_0000417 -->
+
+    <owl:ObjectProperty rdf:about="http://purl.obolibrary.org/obo/OBI_0000417">
+        <rdfs:label>achieves_planned_objective</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/RO_0000053 -->
+
+    <owl:ObjectProperty rdf:about="http://purl.obolibrary.org/obo/RO_0000053">
+        <rdfs:subPropertyOf rdf:resource="http://purl.obolibrary.org/obo/RO_0002330"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/RO_0000056 -->
+
+    <owl:ObjectProperty rdf:about="http://purl.obolibrary.org/obo/RO_0000056">
+        <owl:inverseOf rdf:resource="http://purl.obolibrary.org/obo/RO_0000057"/>
+        <obo:IAO_0000111 xml:lang="en">participates in</obo:IAO_0000111>
+        <obo:IAO_0000112 xml:lang="en">this blood clot participates in this blood coagulation</obo:IAO_0000112>
+        <obo:IAO_0000112 xml:lang="en">this input material (or this output material) participates in this process</obo:IAO_0000112>
+        <obo:IAO_0000112 xml:lang="en">this investigator participates in this investigation</obo:IAO_0000112>
+        <obo:IAO_0000115 xml:lang="en">a relation between a continuant and a process, in which the continuant is somehow involved in the process</obo:IAO_0000115>
+        <obo:IAO_0000118 xml:lang="en">participates_in</obo:IAO_0000118>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/obi.owl"/>
+        <rdfs:label xml:lang="en">participates in</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/RO_0000057 -->
+
+    <owl:ObjectProperty rdf:about="http://purl.obolibrary.org/obo/RO_0000057">
+        <obo:IAO_0000111 xml:lang="en">has participant</obo:IAO_0000111>
+        <obo:IAO_0000112 xml:lang="en">this blood coagulation has participant this blood clot</obo:IAO_0000112>
+        <obo:IAO_0000112 xml:lang="en">this investigation has participant this investigator</obo:IAO_0000112>
+        <obo:IAO_0000112 xml:lang="en">this process has participant this input material (or this output material)</obo:IAO_0000112>
+        <obo:IAO_0000115 xml:lang="en">a relation between a process and a continuant, in which the continuant is somehow involved in the process</obo:IAO_0000115>
+        <obo:IAO_0000116 xml:lang="en">Has_participant is a primitive instance-level relation between a process, a continuant, and a time at which the continuant participates in some way in the process. The relation obtains, for example, when this particular process of oxygen exchange across this particular alveolar membrane has_participant this particular sample of hemoglobin at this particular time.</obo:IAO_0000116>
+        <obo:IAO_0000118 xml:lang="en">has_participant</obo:IAO_0000118>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/obi.owl"/>
+        <dc:source>http://www.obofoundry.org/ro/#OBO_REL:has_participant</dc:source>
+        <rdfs:label xml:lang="en">has participant</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/RO_0000059 -->
+
+    <owl:ObjectProperty rdf:about="http://purl.obolibrary.org/obo/RO_0000059">
+        <rdfs:label xml:lang="en">concretizes</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/RO_0000087 -->
+
+    <owl:ObjectProperty rdf:about="http://purl.obolibrary.org/obo/RO_0000087">
+        <rdfs:label xml:lang="en">has role</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/RO_0002330 -->
+
+    <owl:ObjectProperty rdf:about="http://purl.obolibrary.org/obo/RO_0002330">
+        <rdfs:domain rdf:resource="http://purl.obolibrary.org/obo/BFO_0000002"/>
+        <rdfs:range rdf:resource="http://purl.obolibrary.org/obo/BFO_0000002"/>
+        <obo:IAO_0000115>holds between two entities when some genome-level process such as gene expression is involved. This includes transcriptional, spliceosomal events. These relations can be used between either macromolecule entities (such as regions of nucleic acid) or between their abstract informational counterparts.</obo:IAO_0000115>
+        <obo:IAO_0000117>Chris Mungall</obo:IAO_0000117>
+        <obo:IAO_0000232>Do not use this relation directly. It is intended as a grouping for a diverse set of relations, all involving the genome of an organism</obo:IAO_0000232>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/ro.owl"/>
+        <rdfs:label xml:lang="en">genomically related to</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Data properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OBI_0002135 -->
+
+    <owl:DatatypeProperty rdf:about="http://purl.obolibrary.org/obo/OBI_0002135">
+        <rdfs:domain rdf:resource="http://purl.obolibrary.org/obo/OBI_0001933"/>
+        <obo:IAO_0000111 xml:lang="en">has specified value</obo:IAO_0000111>
+        <obo:IAO_0000114 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000123"/>
+        <obo:IAO_0000115>A relation between a value specification and a literal.</obo:IAO_0000115>
+        <obo:IAO_0000116>This is not an RDF/OWL object property. It is intended to link a value found in e.g. a database column of &apos;M&apos; (the literal) to an instance of a value specification class, which can then be linked to indicate that this is about the biological gender of a human subject.</obo:IAO_0000116>
+        <obo:IAO_0000119>OBI</obo:IAO_0000119>
+        <rdfs:label xml:lang="en">has specified value</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Classes
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/BFO_0000001 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/BFO_0000001">
+        <rdfs:subClassOf rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+        <obo:BFO_0000179>entity</obo:BFO_0000179>
+        <obo:BFO_0000180>Entity</obo:BFO_0000180>
+        <obo:IAO_0000112 xml:lang="en">Julius Caesar</obo:IAO_0000112>
+        <obo:IAO_0000112 xml:lang="en">Verdi’s Requiem</obo:IAO_0000112>
+        <obo:IAO_0000112 xml:lang="en">the Second World War</obo:IAO_0000112>
+        <obo:IAO_0000112 xml:lang="en">your body mass index</obo:IAO_0000112>
+        <obo:IAO_0000116 xml:lang="en">BFO 2 Reference: In all areas of empirical inquiry we encounter general terms of two sorts. First are general terms which refer to universals or types:animaltuberculosissurgical procedurediseaseSecond, are general terms used to refer to groups of entities which instantiate a given universal but do not correspond to the extension of any subuniversal of that universal because there is nothing intrinsic to the entities in question by virtue of which they – and only they – are counted as belonging to the given group. Examples are: animal purchased by the Emperortuberculosis diagnosed on a Wednesdaysurgical procedure performed on a patient from Stockholmperson identified as candidate for clinical trial #2056-555person who is signatory of Form 656-PPVpainting by Leonardo da VinciSuch terms, which represent what are called ‘specializations’ in [81</obo:IAO_0000116>
+        <obo:IAO_0000116 xml:lang="en">Entity doesn&apos;t have a closure axiom because the subclasses don&apos;t necessarily exhaust all possibilites. For example Werner Ceusters &apos;portions of reality&apos; include 4 sorts, entities (as BFO construes them), universals, configurations, and relations. It is an open question as to whether entities as construed in BFO will at some point also include these other portions of reality. See, for example, &apos;How to track absolutely everything&apos; at http://www.referent-tracking.com/_RTU/papers/CeustersICbookRevised.pdf</obo:IAO_0000116>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/iao.owl"/>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/obi.owl"/>
+        <obo:IAO_0000600 xml:lang="en">An entity is anything that exists or has existed or will exist. (axiom label in BFO2 Reference: [001-001])</obo:IAO_0000600>
+        <rdfs:isDefinedBy rdf:resource="http://purl.obolibrary.org/obo/bfo.owl"/>
+        <rdfs:label xml:lang="en">entity</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/BFO_0000002 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/BFO_0000002">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/BFO_0000001"/>
+        <obo:BFO_0000179>continuant</obo:BFO_0000179>
+        <obo:BFO_0000180>Continuant</obo:BFO_0000180>
+        <obo:IAO_0000115 xml:lang="en">An entity that exists in full at any time in which it exists at all, persists through time while maintaining its identity and has no temporal parts.</obo:IAO_0000115>
+        <obo:IAO_0000116 xml:lang="en">BFO 2 Reference: Continuant entities are entities which can be sliced to yield parts only along the spatial dimension, yielding for example the parts of your table which we call its legs, its top, its nails. ‘My desk stretches from the window to the door. It has spatial parts, and can be sliced (in space) in two. With respect to time, however, a thing is a continuant.’ [60, p. 240</obo:IAO_0000116>
+        <obo:IAO_0000116 xml:lang="en">Continuant doesn&apos;t have a closure axiom because the subclasses don&apos;t necessarily exhaust all possibilites. For example, in an expansion involving bringing in some of Ceuster&apos;s other portions of reality, questions are raised as to whether universals are continuants</obo:IAO_0000116>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/iao.owl"/>
+        <obo:IAO_0000600 xml:lang="en">A continuant is an entity that persists, endures, or continues to exist through time while maintaining its identity. (axiom label in BFO2 Reference: [008-002])</obo:IAO_0000600>
+        <obo:IAO_0000601 xml:lang="en">if b is a continuant and if, for some t, c has_continuant_part b at t, then c is a continuant. (axiom label in BFO2 Reference: [126-001])</obo:IAO_0000601>
+        <obo:IAO_0000601 xml:lang="en">if b is a continuant and if, for some t, cis continuant_part of b at t, then c is a continuant. (axiom label in BFO2 Reference: [009-002])</obo:IAO_0000601>
+        <obo:IAO_0000601 xml:lang="en">if b is a material entity, then there is some temporal interval (referred to below as a one-dimensional temporal region) during which b exists. (axiom label in BFO2 Reference: [011-002])</obo:IAO_0000601>
+        <obo:IAO_0000602>(forall (x y) (if (and (Continuant x) (exists (t) (continuantPartOfAt y x t))) (Continuant y))) // axiom label in BFO2 CLIF: [009-002] </obo:IAO_0000602>
+        <obo:IAO_0000602>(forall (x y) (if (and (Continuant x) (exists (t) (hasContinuantPartOfAt y x t))) (Continuant y))) // axiom label in BFO2 CLIF: [126-001] </obo:IAO_0000602>
+        <obo:IAO_0000602>(forall (x) (if (Continuant x) (Entity x))) // axiom label in BFO2 CLIF: [008-002] </obo:IAO_0000602>
+        <obo:IAO_0000602>(forall (x) (if (Material Entity x) (exists (t) (and (TemporalRegion t) (existsAt x t))))) // axiom label in BFO2 CLIF: [011-002] </obo:IAO_0000602>
+        <rdfs:isDefinedBy rdf:resource="http://purl.obolibrary.org/obo/bfo.owl"/>
+        <rdfs:label xml:lang="en">continuant</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/BFO_0000003 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/BFO_0000003">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/BFO_0000001"/>
+        <obo:BFO_0000179>occurrent</obo:BFO_0000179>
+        <obo:BFO_0000180>Occurrent</obo:BFO_0000180>
+        <obo:IAO_0000115 xml:lang="en">An entity that has temporal parts and that happens, unfolds or develops through time.</obo:IAO_0000115>
+        <obo:IAO_0000116 xml:lang="en">BFO 2 Reference: every occurrent that is not a temporal or spatiotemporal region is s-dependent on some independent continuant that is not a spatial region</obo:IAO_0000116>
+        <obo:IAO_0000116 xml:lang="en">BFO 2 Reference: s-dependence obtains between every process and its participants in the sense that, as a matter of necessity, this process could not have existed unless these or those participants existed also. A process may have a succession of participants at different phases of its unfolding. Thus there may be different players on the field at different times during the course of a football game; but the process which is the entire game s-depends_on all of these players nonetheless. Some temporal parts of this process will s-depend_on on only some of the players.</obo:IAO_0000116>
+        <obo:IAO_0000116 xml:lang="en">Occurrent doesn&apos;t have a closure axiom because the subclasses don&apos;t necessarily exhaust all possibilites. An example would be the sum of a process and the process boundary of another process.</obo:IAO_0000116>
+        <obo:IAO_0000116>Simons uses different terminology for relations of occurrents to regions: Denote the spatio-temporal location of a given occurrent e by &apos;spn[e]&apos; and call this region its span. We may say an occurrent is at its span, in any larger region, and covers any smaller region. Now suppose we have fixed a frame of reference so that we can speak not merely of spatio-temporal but also of spatial regions (places) and temporal regions (times). The spread of an occurrent, (relative to a frame of reference) is the space it exactly occupies, and its spell is likewise the time it exactly occupies. We write &apos;spr[e]&apos; and `spl[e]&apos; respectively for the spread and spell of e, omitting mention of the frame.</obo:IAO_0000116>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/obi.owl"/>
+        <obo:IAO_0000600 xml:lang="en">An occurrent is an entity that unfolds itself in time or it is the instantaneous boundary of such an entity (for example a beginning or an ending) or it is a temporal or spatiotemporal region which such an entity occupies_temporal_region or occupies_spatiotemporal_region. (axiom label in BFO2 Reference: [077-002])</obo:IAO_0000600>
+        <obo:IAO_0000601 xml:lang="en">Every occurrent occupies_spatiotemporal_region some spatiotemporal region. (axiom label in BFO2 Reference: [108-001])</obo:IAO_0000601>
+        <obo:IAO_0000601 xml:lang="en">b is an occurrent entity iff b is an entity that has temporal parts. (axiom label in BFO2 Reference: [079-001])</obo:IAO_0000601>
+        <obo:IAO_0000602>(forall (x) (if (Occurrent x) (exists (r) (and (SpatioTemporalRegion r) (occupiesSpatioTemporalRegion x r))))) // axiom label in BFO2 CLIF: [108-001] </obo:IAO_0000602>
+        <obo:IAO_0000602>(forall (x) (iff (Occurrent x) (and (Entity x) (exists (y) (temporalPartOf y x))))) // axiom label in BFO2 CLIF: [079-001] </obo:IAO_0000602>
+        <rdfs:isDefinedBy rdf:resource="http://purl.obolibrary.org/obo/bfo.owl"/>
+        <rdfs:label xml:lang="en">occurrent</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/BFO_0000015 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/BFO_0000015">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/BFO_0000003"/>
+        <obo:BFO_0000179>process</obo:BFO_0000179>
+        <obo:BFO_0000180>Process</obo:BFO_0000180>
+        <obo:IAO_0000112 xml:lang="en">a process of cell-division, \ a beating of the heart</obo:IAO_0000112>
+        <obo:IAO_0000112 xml:lang="en">a process of meiosis</obo:IAO_0000112>
+        <obo:IAO_0000112 xml:lang="en">a process of sleeping</obo:IAO_0000112>
+        <obo:IAO_0000112 xml:lang="en">the course of a disease</obo:IAO_0000112>
+        <obo:IAO_0000112 xml:lang="en">the flight of a bird</obo:IAO_0000112>
+        <obo:IAO_0000112 xml:lang="en">the life of an organism</obo:IAO_0000112>
+        <obo:IAO_0000112 xml:lang="en">your process of aging.</obo:IAO_0000112>
+        <obo:IAO_0000115 xml:lang="en">An occurrent that has temporal proper parts and for some time t, p s-depends_on some material entity at t.</obo:IAO_0000115>
+        <obo:IAO_0000115 xml:lang="en">p is a process = Def. p is an occurrent that has temporal proper parts and for some time t, p s-depends_on some material entity at t. (axiom label in BFO2 Reference: [083-003])</obo:IAO_0000115>
+        <obo:IAO_0000116 xml:lang="en">BFO 2 Reference: The realm of occurrents is less pervasively marked by the presence of natural units than is the case in the realm of independent continuants. Thus there is here no counterpart of ‘object’. In BFO 1.0 ‘process’ served as such a counterpart. In BFO 2.0 ‘process’ is, rather, the occurrent counterpart of ‘material entity’. Those natural – as contrasted with engineered, which here means: deliberately executed – units which do exist in the realm of occurrents are typically either parasitic on the existence of natural units on the continuant side, or they are fiat in nature. Thus we can count lives; we can count football games; we can count chemical reactions performed in experiments or in chemical manufacturing. We cannot count the processes taking place, for instance, in an episode of insect mating behavior.Even where natural units are identifiable, for example cycles in a cyclical process such as the beating of a heart or an organism’s sleep/wake cycle, the processes in question form a sequence with no discontinuities (temporal gaps) of the sort that we find for instance where billiard balls or zebrafish or planets are separated by clear spatial gaps. Lives of organisms are process units, but they too unfold in a continuous series from other, prior processes such as fertilization, and they unfold in turn in continuous series of post-life processes such as post-mortem decay. Clear examples of boundaries of processes are almost always of the fiat sort (midnight, a time of death as declared in an operating theater or on a death certificate, the initiation of a state of war)</obo:IAO_0000116>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/obi.owl"/>
+        <obo:IAO_0000602>(iff (Process a) (and (Occurrent a) (exists (b) (properTemporalPartOf b a)) (exists (c t) (and (MaterialEntity c) (specificallyDependsOnAt a c t))))) // axiom label in BFO2 CLIF: [083-003] </obo:IAO_0000602>
+        <rdfs:isDefinedBy rdf:resource="http://purl.obolibrary.org/obo/bfo.owl"/>
+        <rdfs:label xml:lang="en">process</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/BFO_0000031 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/BFO_0000031">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/BFO_0000002"/>
+        <obo:BFO_0000179>gdc</obo:BFO_0000179>
+        <obo:BFO_0000180>GenericallyDependentContinuant</obo:BFO_0000180>
+        <obo:IAO_0000112 xml:lang="en">The entries in your database are patterns instantiated as quality instances in your hard drive. The database itself is an aggregate of such patterns. When you create the database you create a particular instance of the generically dependent continuant type database. Each entry in the database is an instance of the generically dependent continuant type IAO: information content entity.</obo:IAO_0000112>
+        <obo:IAO_0000112 xml:lang="en">the pdf file on your laptop, the pdf file that is a copy thereof on my laptop</obo:IAO_0000112>
+        <obo:IAO_0000112 xml:lang="en">the sequence of this protein molecule; the sequence that is a copy thereof in that protein molecule.</obo:IAO_0000112>
+        <obo:IAO_0000115 xml:lang="en">A continuant that is dependent on one or other independent continuant bearers. For every instance of A requires some instance of (an independent continuant type) B but which instance of B serves can change from time to time.</obo:IAO_0000115>
+        <obo:IAO_0000115 xml:lang="en">b is a generically dependent continuant = Def. b is a continuant that g-depends_on one or more other entities. (axiom label in BFO2 Reference: [074-001])</obo:IAO_0000115>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/iao.owl"/>
+        <obo:IAO_0000602>(iff (GenericallyDependentContinuant a) (and (Continuant a) (exists (b t) (genericallyDependsOnAt a b t)))) // axiom label in BFO2 CLIF: [074-001] </obo:IAO_0000602>
+        <rdfs:isDefinedBy rdf:resource="http://purl.obolibrary.org/obo/bfo.owl"/>
+        <rdfs:label xml:lang="en">generically dependent continuant</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/BFO_0000040 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/BFO_0000040">
+        <rdfs:label>material entity</rdfs:label>
+        <rdfs:label xml:lang="en">material entity</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/IAO_0000003 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/IAO_0000003">
+        <rdfs:label xml:lang="en">measurement unit label</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/IAO_0000027 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/IAO_0000027">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/IAO_0000030"/>
+        <obo:IAO_0000111 xml:lang="en">data item</obo:IAO_0000111>
+        <obo:IAO_0000112 xml:lang="en">Data items include counts of things, analyte concentrations, and statistical summaries.</obo:IAO_0000112>
+        <obo:IAO_0000114 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000125"/>
+        <obo:IAO_0000115 xml:lang="en">An information content entity that is intended to be a truthful statement about something (modulo, e.g., measurement precision or other systematic errors) and is constructed/acquired by a method which reliably tends to produce (approximately) truthful statements.</obo:IAO_0000115>
+        <obo:IAO_0000116 xml:lang="en">2/2/2009 Alan and Bjoern discussing FACS run output data. This is a data item because it is about the cell population. Each element records an event and is typically further composed a set of measurment data items that record the fluorescent intensity stimulated by one of the lasers.</obo:IAO_0000116>
+        <obo:IAO_0000116 xml:lang="en">2009-03-16: data item deliberatly ambiguous: we merged data set and datum to be one entity, not knowing how to define singular versus plural. So data item is more general than datum.</obo:IAO_0000116>
+        <obo:IAO_0000116 xml:lang="en">2009-03-16: removed datum as alternative term as datum specifically refers to singular form, and is thus not an exact synonym.</obo:IAO_0000116>
+        <obo:IAO_0000116>2014-03-31: See discussion at http://odontomachus.wordpress.com/2014/03/30/aboutness-objects-propositions/</obo:IAO_0000116>
+        <obo:IAO_0000116 xml:lang="en">JAR: datum     -- well, this will be very tricky to define, but maybe some 
+information-like stuff that might be put into a computer and that is 
+meant, by someone, to denote and/or to be interpreted by some 
+process... I would include lists, tables, sentences... I think I might 
+defer to Barry, or to Brian Cantwell Smith
+
+JAR: A data item is an approximately justified approximately true approximate belief</obo:IAO_0000116>
+        <obo:IAO_0000117 xml:lang="en">PERSON: Alan Ruttenberg</obo:IAO_0000117>
+        <obo:IAO_0000117 xml:lang="en">PERSON: Chris Stoeckert</obo:IAO_0000117>
+        <obo:IAO_0000117 xml:lang="en">PERSON: Jonathan Rees</obo:IAO_0000117>
+        <obo:IAO_0000118 xml:lang="en">data</obo:IAO_0000118>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/iao.owl"/>
+        <rdfs:label xml:lang="en">data item</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/IAO_0000030 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/IAO_0000030">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/BFO_0000031"/>
+        <obo:IAO_0000111 xml:lang="en">information content entity</obo:IAO_0000111>
+        <obo:IAO_0000112 xml:lang="en">Examples of information content entites include journal articles, data, graphical layouts, and graphs.</obo:IAO_0000112>
+        <obo:IAO_0000114 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000122"/>
+        <obo:IAO_0000115 xml:lang="en">A generically dependent continuant that is about some thing.</obo:IAO_0000115>
+        <obo:IAO_0000116 xml:lang="en">2014-03-10: The use of &quot;thing&quot; is intended to be general enough to include universals and configurations (see https://groups.google.com/d/msg/information-ontology/GBxvYZCk1oc/-L6B5fSBBTQJ).</obo:IAO_0000116>
+        <obo:IAO_0000116 xml:lang="en">information_content_entity &apos;is_encoded_in&apos; some digital_entity in obi before split (040907). information_content_entity &apos;is_encoded_in&apos; some physical_document in obi before split (040907).
+
+Previous. An information content entity is a non-realizable information entity that &apos;is encoded in&apos; some digital or physical entity.</obo:IAO_0000116>
+        <obo:IAO_0000117 xml:lang="en">PERSON: Chris Stoeckert</obo:IAO_0000117>
+        <obo:IAO_0000119 xml:lang="en">OBI_0000142</obo:IAO_0000119>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/iao.owl"/>
+        <rdfs:label xml:lang="en">information content entity</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/IAO_0000078 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/IAO_0000078">
+        <owl:equivalentClass>
+            <owl:Class>
+                <owl:oneOf rdf:parseType="Collection">
+                    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/IAO_0000002"/>
+                    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/IAO_0000120"/>
+                    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/IAO_0000121"/>
+                    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/IAO_0000122"/>
+                    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/IAO_0000123"/>
+                    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/IAO_0000124"/>
+                    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/IAO_0000125"/>
+                    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/IAO_0000423"/>
+                    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/IAO_0000428"/>
+                </owl:oneOf>
+            </owl:Class>
+        </owl:equivalentClass>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/IAO_0000102"/>
+        <obo:IAO_0000111 xml:lang="en">curation status specification</obo:IAO_0000111>
+        <obo:IAO_0000114 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000125"/>
+        <obo:IAO_0000115 xml:lang="en">The curation status of the term. The allowed values come from an enumerated list of predefined terms. See the specification of these instances for more detailed definitions of each enumerated value.</obo:IAO_0000115>
+        <obo:IAO_0000116 xml:lang="en">Better to represent curation as a process with parts and then relate labels to that process (in IAO meeting)</obo:IAO_0000116>
+        <obo:IAO_0000117 xml:lang="en">PERSON:Bill Bug</obo:IAO_0000117>
+        <obo:IAO_0000119 xml:lang="en">GROUP:OBI:&lt;http://purl.obolibrary.org/obo/obi&gt;</obo:IAO_0000119>
+        <obo:IAO_0000119 xml:lang="en">OBI_0000266</obo:IAO_0000119>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/iao.owl"/>
+        <rdfs:label xml:lang="en">curation status specification</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/IAO_0000102 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/IAO_0000102">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/IAO_0000027"/>
+        <obo:IAO_0000111 xml:lang="en">data about an ontology part</obo:IAO_0000111>
+        <obo:IAO_0000115 xml:lang="en">Data about an ontology part is a data item about a part of an ontology, for example a term</obo:IAO_0000115>
+        <obo:IAO_0000117 xml:lang="en">Person:Alan Ruttenberg</obo:IAO_0000117>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/iao.owl"/>
+        <rdfs:label xml:lang="en">data about an ontology part</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/IAO_0000104 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/IAO_0000104">
+        <rdfs:label xml:lang="en">plan specification</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/IAO_0000109 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/IAO_0000109">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/IAO_0000027"/>
+        <obo:IAO_0000111 xml:lang="en">measurement datum</obo:IAO_0000111>
+        <obo:IAO_0000112 xml:lang="en">Examples of measurement data are the recoding of the weight of a mouse as {40,mass,&quot;grams&quot;}, the recording of an observation of the behavior of the mouse {,process,&quot;agitated&quot;}, the recording of the expression level of a gene as measured through the process of microarray experiment {3.4,luminosity,}.</obo:IAO_0000112>
+        <obo:IAO_0000114 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000125"/>
+        <obo:IAO_0000115 xml:lang="en">A measurement datum is an information content entity that is a recording of the output of a measurement such as produced by a device.</obo:IAO_0000115>
+        <obo:IAO_0000116 xml:lang="en">2/2/2009 is_specified_output of some assay?</obo:IAO_0000116>
+        <obo:IAO_0000117 xml:lang="en">person:Chris Stoeckert</obo:IAO_0000117>
+        <obo:IAO_0000119 xml:lang="en">OBI_0000305</obo:IAO_0000119>
+        <obo:IAO_0000119 xml:lang="en">group:OBI</obo:IAO_0000119>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/iao.owl"/>
+        <rdfs:label xml:lang="en">measurement datum</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OBI_0000011 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OBI_0000011">
+        <owl:equivalentClass>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/BFO_0000055"/>
+                <owl:someValuesFrom>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/RO_0000059"/>
+                        <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/IAO_0000104"/>
+                    </owl:Restriction>
+                </owl:someValuesFrom>
+            </owl:Restriction>
+        </owl:equivalentClass>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/BFO_0000015"/>
+        <obo:IAO_0000111>planned process</obo:IAO_0000111>
+        <obo:IAO_0000111 xml:lang="en">planned process</obo:IAO_0000111>
+        <obo:IAO_0000112>Injecting mice with a vaccine in order to test its efficacy</obo:IAO_0000112>
+        <obo:IAO_0000114 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000122"/>
+        <obo:IAO_0000115 xml:lang="en">A process that realizes a plan which is the concretization of a plan specification.</obo:IAO_0000115>
+        <obo:IAO_0000116>&apos;Plan&apos; includes a future direction sense. That can be problematic if plans are changed during their execution. There are however implicit contingencies for protocols that an agent has in his mind that can be considered part of the plan, even if the agent didn&apos;t have them in mind before. Therefore, a planned process can diverge from what the agent would have said the plan was before executing it, by adjusting to problems encountered during execution (e.g. choosing another reagent with equivalent properties, if the originally planned one has run out.)</obo:IAO_0000116>
+        <obo:IAO_0000116>We are only considering successfully completed planned processes. A plan may be modified, and details added during execution. For a given planned process, the associated realized plan specification is the one encompassing all changes made during execution. This means that all processes in which an agent acts towards achieving some 
+objectives is a planned process.</obo:IAO_0000116>
+        <obo:IAO_0000117>Bjoern Peters</obo:IAO_0000117>
+        <obo:IAO_0000119>branch derived</obo:IAO_0000119>
+        <obo:IAO_0000232>6/11/9: Edited at workshop. Used to include: is initiated by an agent</obo:IAO_0000232>
+        <obo:IAO_0000232 xml:lang="en">This class merges the previously separated objective driven process and planned process, as they the separation proved hard to maintain. (1/22/09, branch call)</obo:IAO_0000232>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/obi.owl"/>
+        <rdfs:label xml:lang="en">planned process</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OBI_0000067 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OBI_0000067">
+        <rdfs:label xml:lang="en">evaluant role</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OBI_0000070 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OBI_0000070">
+        <owl:equivalentClass>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/OBI_0000417"/>
+                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/OBI_0000441"/>
+            </owl:Restriction>
+        </owl:equivalentClass>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OBI_0000011"/>
+        <obo:IAO_0000111 xml:lang="en">assay</obo:IAO_0000111>
+        <obo:IAO_0000112>Assay the wavelength of light emitted by excited Neon atoms. Count of geese flying over a house.</obo:IAO_0000112>
+        <obo:IAO_0000114 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000122"/>
+        <obo:IAO_0000115 xml:lang="en">A planned process with the objective to produce information about the material entity that is the evaluant, by physically examining it or its proxies.</obo:IAO_0000115>
+        <obo:IAO_0000116>12/3/12: BP: the reference to the &apos;physical examination&apos; is included to point out that a prediction is not an assay, as that does not require physical examiniation. </obo:IAO_0000116>
+        <obo:IAO_0000117 xml:lang="en">PlanAndPlannedProcess Branch</obo:IAO_0000117>
+        <obo:IAO_0000118 xml:lang="en">measuring</obo:IAO_0000118>
+        <obo:IAO_0000118 xml:lang="en">scientific observation</obo:IAO_0000118>
+        <obo:IAO_0000119 xml:lang="en">OBI branch derived</obo:IAO_0000119>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/obi.owl"/>
+        <obo:OBI_0001847>study assay</obo:OBI_0001847>
+        <obo:OBI_9991118>any method</obo:OBI_9991118>
+        <rdfs:label xml:lang="en">assay</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OBI_0000441 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OBI_0000441">
+        <rdfs:label xml:lang="en">assay objective</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OBI_0001933 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OBI_0001933">
+        <rdfs:label>value specification</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/UO_0000003 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/UO_0000003">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">time unit</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/UO_0000005 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/UO_0000005">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">temperature unit</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/UO_0000027 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/UO_0000027">
+        <owl:equivalentClass>
+            <owl:Class>
+                <owl:oneOf rdf:parseType="Collection">
+                    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UO_0000027"/>
+                </owl:oneOf>
+            </owl:Class>
+        </owl:equivalentClass>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/UO_0000005"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/UO_1000027"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/UO_0000036 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/UO_0000036">
+        <owl:equivalentClass>
+            <owl:Class>
+                <owl:oneOf rdf:parseType="Collection">
+                    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UO_0000036"/>
+                </owl:oneOf>
+            </owl:Class>
+        </owl:equivalentClass>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/UO_0000003"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/UO_1000036"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/UO_0000109 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/UO_0000109">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">pressure unit</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/UO_0000187 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/UO_0000187">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/UO_0000190"/>
+        <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">&quot;A dimensionless ratio unit which denotes numbers as fractions of 100.&quot; [Wikipedia:Wikipedia]</rdfs:comment>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">percent</rdfs:label>
+        <oboInOwl:hasExactSynonym rdf:datatype="http://www.w3.org/2001/XMLSchema#string">%</oboInOwl:hasExactSynonym>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/UO_0000190 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/UO_0000190">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ratio</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/UO_0000195 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/UO_0000195">
+        <owl:equivalentClass>
+            <owl:Class>
+                <owl:oneOf rdf:parseType="Collection">
+                    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UO_0000195"/>
+                </owl:oneOf>
+            </owl:Class>
+        </owl:equivalentClass>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/UO_0000005"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/UO_1000195"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/UO_0000272 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/UO_0000272">
+        <owl:equivalentClass>
+            <owl:Class>
+                <owl:oneOf rdf:parseType="Collection">
+                    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UO_0000272"/>
+                </owl:oneOf>
+            </owl:Class>
+        </owl:equivalentClass>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/UO_0000109"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/UO_1000027 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/UO_1000027">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">degree Celsius based unit</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/UO_1000036 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/UO_1000036">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">year based unit</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/UO_1000195 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/UO_1000195">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">degree Fahrenheit based unit</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/zayascilia/ontologies/2022/3/untitled-ontology-8#AVPU_measurement_datum -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/zayascilia/ontologies/2022/3/untitled-ontology-8#AVPU_measurement_datum">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/IAO_0000109"/>
+        <obo:IAO_0000115 xml:lang="en">A measurement datum that is the specified output of a process that uses a standardized assessment algorithm to determine a patient&apos;s level of consciousness.</obo:IAO_0000115>
+        <obo:IAO_0000119 xml:lang="en">Based on http://purl.obolibrary.org/obo/NCIT_C60832</obo:IAO_0000119>
+        <rdfs:comment xml:lang="en">AVPU criterion:  &quot;alert&quot;, &quot;responsive to verbal stimulation&quot;, &quot;responsive to painful stimulation&quot;, or &quot;unresponsive&quot; to determine a patient&apos;s level of consciousness</rdfs:comment>
+        <rdfs:label xml:lang="en">Alert, Voice, Pain, Unresonsiveness (AVPU) measurment datum</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/zayascilia/ontologies/2022/3/untitled-ontology-8#body_temperature_measurment_datum -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/zayascilia/ontologies/2022/3/untitled-ontology-8#body_temperature_measurment_datum">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/IAO_0000109"/>
+        <obo:IAO_0000115 xml:lang="en">A measurement datum of the temperature of a part of the human body.</obo:IAO_0000115>
+        <obo:IAO_0000119 xml:lang="en">http://purl.obolibrary.org/obo/VSO_0000007</obo:IAO_0000119>
+        <rdfs:label xml:lang="en">body temperature measurement datum</rdfs:label>
+    </owl:Class>
+    
+    <!-- http://www.semanticweb.org/zayascilia/ontologies/2022/3/untitled-ontology-8#body_temperature_measurment_datum_sub -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/zayascilia/ontologies/2022/3/untitled-ontology-8#body_temperature_measurment_datum_sub">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/zayascilia/ontologies/2022/3/untitled-ontology-8#body_temperature_measurment_datum"/>
+        <obo:IAO_0000115 xml:lang="en">A measurement datum of the temperature of a part of the human body.</obo:IAO_0000115>
+        <rdfs:label xml:lang="en">body temperature measurement datum subclass</rdfs:label>
+    </owl:Class>
+
+
+    <!-- http://www.semanticweb.org/zayascilia/ontologies/2022/3/untitled-ontology-8#clinical_deterioration -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/zayascilia/ontologies/2022/3/untitled-ontology-8#clinical_deterioration">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/BFO_0000015"/>
+        <obo:IAO_0000115 xml:lang="en">The process of the diminishing realization of the patient&apos;s vital functions.</obo:IAO_0000115>
+        <obo:IAO_0000119 xml:lang="en">R. M. Padilla and A. M. Mayo, “Clinical deterioration: A concept analysis,” J Clin Nurs, vol. 27, no. 7–8, pp. 1360–1368, Apr. 2018, doi: 10.1111/jocn.14238.</obo:IAO_0000119>
+        <rdfs:label xml:lang="en">clinical deterioration</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/zayascilia/ontologies/2022/3/untitled-ontology-8#early_warning_score -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/zayascilia/ontologies/2022/3/untitled-ontology-8#early_warning_score">
+        <owl:equivalentClass>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/IAO_0000136"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/zayascilia/ontologies/2022/3/untitled-ontology-8#clinical_deterioration"/>
+            </owl:Restriction>
+        </owl:equivalentClass>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/IAO_0000030"/>
+        <obo:IAO_0000115 xml:lang="en">An information content entity that is about clinical deterioration and is the specified output of a planned process.</obo:IAO_0000115>
+        <obo:IAO_0000119 xml:lang="en">Smith MEB, Chiovaro J, O’Neil M, Kansagara D, Quinones A, Freeman M, Motu’apuaka M, Slatore CG. Early Warning Scoring Systems: A Systematic Review. VA-ESP Project #05-225; 2013</obo:IAO_0000119>
+        <dc:description xml:lang="en">The early warning score is derived by assigning a numeric value to several physiologic parameters (e.g., systolic blood pressure, heart rate, and respiratory rate) to recognize the early signs of clinical deterioration. When the early warning score is paired with a trigger to a human healthcare provider the intention is to prompt early intervention and management, such as increasing nursing attention, informing the provider, or activating a rapid response / medical emergency team on behalf of the human patient at risk of physiological derangements.</dc:description>
+        <rdfs:comment xml:lang="en">Also known as, track and trigger systems, track and trigger tools, physiological track and trigger warning systems.</rdfs:comment>
+        <rdfs:label xml:lang="en">early warning score</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/zayascilia/ontologies/2022/3/untitled-ontology-8#glasgow_coma_scale_measurement_datum -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/zayascilia/ontologies/2022/3/untitled-ontology-8#glasgow_coma_scale_measurement_datum">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/IAO_0000109"/>
+        <obo:IAO_0000115 xml:lang="en">A measurement datum that is the specified output of a process that uses a standardized rating scale to evaluate the level of consciousness and overall status of the central nervous system.</obo:IAO_0000115>
+        <obo:IAO_0000119 xml:lang="en">Based on http://purl.obolibrary.org/obo/NCIT_C124710</obo:IAO_0000119>
+        <rdfs:label xml:lang="en">glasgow coma scale measurement datum</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/zayascilia/ontologies/2022/3/untitled-ontology-8#heart_rate_measurement_datum -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/zayascilia/ontologies/2022/3/untitled-ontology-8#heart_rate_measurement_datum">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/IAO_0000109"/>
+        <obo:IAO_0000115 xml:lang="en">A measurement datum of the number of heartbeats per unit of time, usually expressed as beats per minute.</obo:IAO_0000115>
+        <obo:IAO_0000119 xml:lang="en">Based on http://purl.obolibrary.org/obo/NCIT_C49677</obo:IAO_0000119>
+        <rdfs:label xml:lang="en">heart rate measurement datum</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/zayascilia/ontologies/2022/3/untitled-ontology-8#modified_early_warning_score -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/zayascilia/ontologies/2022/3/untitled-ontology-8#modified_early_warning_score">
+        <owl:equivalentClass>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/OBI_0000293"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/zayascilia/ontologies/2022/3/untitled-ontology-8#modified_early_warning_score_scoring_process"/>
+            </owl:Restriction>
+        </owl:equivalentClass>
+        <owl:equivalentClass>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/OBI_0000293"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/zayascilia/ontologies/2022/3/untitled-ontology-8#modified_early_warning_score_summation_process"/>
+            </owl:Restriction>
+        </owl:equivalentClass>
+        <owl:equivalentClass>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/OBI_0000312"/>
+                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/OBI_0000011"/>
+            </owl:Restriction>
+        </owl:equivalentClass>
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/zayascilia/ontologies/2022/3/untitled-ontology-8#early_warning_score"/>
+        <obo:IAO_0000115 xml:lang="en">An early warning score that is the specified output of a planned process that has specified input respiratory rate, blood pressure, urine output, heart rate, AVPU, and body temperature measurement data.</obo:IAO_0000115>
+        <obo:IAO_0000119 xml:lang="en">Stenhouse C, Coates S, Tivey M, Allsop P, Parker T. Prospective evaluation of a modified Early Warning Score to aid earlier detection of patients developing critical illness on a general surgical ward [Abstract] Br J Anaesth. 1999;84:663P. 
+
+Morgan RJM, Williams F, Wright MM. An early warning scoring system for detecting developing critical illness. Clin Intensive Care. 1997;8:100
+
+Subbe CP, Kruger M, Rutherford P, Gemmel L. Validation of a modified Early Warning Score in medical admissions. Q J Med. 2001;94:507–10.</obo:IAO_0000119>
+        <dc:description xml:lang="en">The modifed Early Warning Score is an early warning score proposed by Stenhouse et al., in 1999 as a modification of the early warning score developed by Morgan et al., in 1997.   Determining a modified early warning score score involves assigning a number between 0 and 3 to each of six physiological parameters, respiratory rate, temperature, systolic blood pressure, heart rate, level of consciousness, and urine output..   The sum of the scores of the six physiological parameters yields the human patient&apos;s total modified early warning score score.  Escalation trigger is typically a total score of 4 or greater.</dc:description>
+        <rdfs:label xml:lang="en">six-item modified early warning score</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/zayascilia/ontologies/2022/3/untitled-ontology-8#modified_early_warning_score_scoring_process -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/zayascilia/ontologies/2022/3/untitled-ontology-8#modified_early_warning_score_scoring_process">
+        <owl:equivalentClass>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/OBI_0000293"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/zayascilia/ontologies/2022/3/untitled-ontology-8#AVPU_measurement_datum"/>
+            </owl:Restriction>
+        </owl:equivalentClass>
+        <owl:equivalentClass>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/OBI_0000293"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/zayascilia/ontologies/2022/3/untitled-ontology-8#body_temperature_measurment_datum"/>
+            </owl:Restriction>
+        </owl:equivalentClass>
+        <owl:equivalentClass>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/OBI_0000293"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/zayascilia/ontologies/2022/3/untitled-ontology-8#heart_rate_measurement_datum"/>
+            </owl:Restriction>
+        </owl:equivalentClass>
+        <owl:equivalentClass>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/OBI_0000293"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/zayascilia/ontologies/2022/3/untitled-ontology-8#respiratory_rate_measurement_datum"/>
+            </owl:Restriction>
+        </owl:equivalentClass>
+        <owl:equivalentClass>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/OBI_0000293"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/zayascilia/ontologies/2022/3/untitled-ontology-8#systolic_blood_pressure_measurement_datum"/>
+            </owl:Restriction>
+        </owl:equivalentClass>
+        <owl:equivalentClass>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/OBI_0000293"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/zayascilia/ontologies/2022/3/untitled-ontology-8#urine_output_measurement_datum"/>
+            </owl:Restriction>
+        </owl:equivalentClass>
+        <owl:equivalentClass>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/OBI_0000299"/>
+                <owl:someValuesFrom rdf:resource="http://www.zayascilia.owl#QVPU"/>
+            </owl:Restriction>
+        </owl:equivalentClass>
+        <owl:equivalentClass>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/OBI_0000299"/>
+                <owl:someValuesFrom rdf:resource="http://www.zayascilia.owl#body_temperature_measurement_datum_score"/>
+            </owl:Restriction>
+        </owl:equivalentClass>
+        <owl:equivalentClass>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/OBI_0000299"/>
+                <owl:someValuesFrom rdf:resource="http://www.zayascilia.owl#heart_rate_measurement_datum_score"/>
+            </owl:Restriction>
+        </owl:equivalentClass>
+        <owl:equivalentClass>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/OBI_0000299"/>
+                <owl:someValuesFrom rdf:resource="http://www.zayascilia.owl#respiratory_rate_measurement_datum_score"/>
+            </owl:Restriction>
+        </owl:equivalentClass>
+        <owl:equivalentClass>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/OBI_0000299"/>
+                <owl:someValuesFrom rdf:resource="http://www.zayascilia.owl#systolic_blood_pressure_measurement_datum_score"/>
+            </owl:Restriction>
+        </owl:equivalentClass>
+        <owl:equivalentClass>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/OBI_0000299"/>
+                <owl:someValuesFrom rdf:resource="http://www.zayascilia.owl#urine_output_measurement_datum_score"/>
+            </owl:Restriction>
+        </owl:equivalentClass>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OBI_0000011"/>
+        <obo:IAO_0000115 xml:lang="en">Is a planned process that assigns a score to six measurement datum based on a predefined rubric and has specified output respiratory rate measurement datum score, systolic blood pressure measurement data score, urine output measurement datum score, heart rate measurement datum score, AVPU measurement datum score, and body temperature measurement datum score.</obo:IAO_0000115>
+        <rdfs:label xml:lang="en">six-item modified early warning score scoring process</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/zayascilia/ontologies/2022/3/untitled-ontology-8#modified_early_warning_score_summation_process -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/zayascilia/ontologies/2022/3/untitled-ontology-8#modified_early_warning_score_summation_process">
+        <owl:equivalentClass>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/OBI_0000293"/>
+                <owl:someValuesFrom rdf:resource="http://www.zayascilia.owl#QVPU"/>
+            </owl:Restriction>
+        </owl:equivalentClass>
+        <owl:equivalentClass>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/OBI_0000293"/>
+                <owl:someValuesFrom rdf:resource="http://www.zayascilia.owl#body_temperature_measurement_datum_score"/>
+            </owl:Restriction>
+        </owl:equivalentClass>
+        <owl:equivalentClass>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/OBI_0000293"/>
+                <owl:someValuesFrom rdf:resource="http://www.zayascilia.owl#heart_rate_measurement_datum_score"/>
+            </owl:Restriction>
+        </owl:equivalentClass>
+        <owl:equivalentClass>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/OBI_0000293"/>
+                <owl:someValuesFrom rdf:resource="http://www.zayascilia.owl#respiratory_rate_measurement_datum_score"/>
+            </owl:Restriction>
+        </owl:equivalentClass>
+        <owl:equivalentClass>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/OBI_0000293"/>
+                <owl:someValuesFrom rdf:resource="http://www.zayascilia.owl#systolic_blood_pressure_measurement_datum_score"/>
+            </owl:Restriction>
+        </owl:equivalentClass>
+        <owl:equivalentClass>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/OBI_0000293"/>
+                <owl:someValuesFrom rdf:resource="http://www.zayascilia.owl#urine_output_measurement_datum_score"/>
+            </owl:Restriction>
+        </owl:equivalentClass>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OBI_0000011"/>
+        <obo:IAO_0000115 xml:lang="en">Is a planned process that provides the sum total of six measurement datum score,  respiratory rate measurement datum score, systolic blood pressure measurement data score, urine output measurement datum score, heart rate measurement datum score, AVPU measurement datum score, and body temperature measurement datum score.</obo:IAO_0000115>
+        <rdfs:label xml:lang="en">six-item modified early warning score summation process</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/zayascilia/ontologies/2022/3/untitled-ontology-8#national_early_warning_score -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/zayascilia/ontologies/2022/3/untitled-ontology-8#national_early_warning_score">
+        <owl:equivalentClass>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/OBI_0000293"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/zayascilia/ontologies/2022/3/untitled-ontology-8#national_early_warning_score_scoring_process"/>
+            </owl:Restriction>
+        </owl:equivalentClass>
+        <owl:equivalentClass>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/OBI_0000293"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/zayascilia/ontologies/2022/3/untitled-ontology-8#national_early_warning_score_summation_process"/>
+            </owl:Restriction>
+        </owl:equivalentClass>
+        <owl:equivalentClass>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/OBI_0000312"/>
+                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/OBI_0000011"/>
+            </owl:Restriction>
+        </owl:equivalentClass>
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/zayascilia/ontologies/2022/3/untitled-ontology-8#early_warning_score"/>
+        <obo:IAO_0000115 xml:lang="en">An early warning score that is the specified output of a planned process that has specified input respiratory rate, systolic blood pressure, heart rate, Alert, Voice, Pain, Unresponsiveness (AVPU), body temperature, oxygen saturation, and supplemental oxygen measurement data.</obo:IAO_0000115>
+        <obo:IAO_0000119 xml:lang="en">Royal College of  Physicians. National Early Warning Score (NEWS): Standardising the assessment of acute illness.</obo:IAO_0000119>
+        <dc:description xml:lang="en">The National Early Warning Score is an early warning score made up of six physiological measurements, respiratory rate, oxygen saturation, temperature, systolic blood pressure, heart rate, level of consciousness, and one observational measure for people who need supplemental oxygen to keep their oxygen saturation at the recommended level. Each measure is scored from 0 to 3 and added together to give an overall score with an additional two points for supplemental oxygen.  Scores lie between 0 and 20, with higher scores resulting from worse physiological measurements.</dc:description>
+        <rdfs:label xml:lang="en">national early warning score</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/zayascilia/ontologies/2022/3/untitled-ontology-8#national_early_warning_score_scoring_process -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/zayascilia/ontologies/2022/3/untitled-ontology-8#national_early_warning_score_scoring_process">
+        <owl:equivalentClass>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/OBI_0000293"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/zayascilia/ontologies/2022/3/untitled-ontology-8#AVPU_measurement_datum"/>
+            </owl:Restriction>
+        </owl:equivalentClass>
+        <owl:equivalentClass>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/OBI_0000293"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/zayascilia/ontologies/2022/3/untitled-ontology-8#body_temperature_measurment_datum"/>
+            </owl:Restriction>
+        </owl:equivalentClass>
+        <owl:equivalentClass>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/OBI_0000293"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/zayascilia/ontologies/2022/3/untitled-ontology-8#heart_rate_measurement_datum"/>
+            </owl:Restriction>
+        </owl:equivalentClass>
+        <owl:equivalentClass>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/OBI_0000293"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/zayascilia/ontologies/2022/3/untitled-ontology-8#oxygen_saturation_measurement_datum"/>
+            </owl:Restriction>
+        </owl:equivalentClass>
+        <owl:equivalentClass>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/OBI_0000293"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/zayascilia/ontologies/2022/3/untitled-ontology-8#respiratory_rate_measurement_datum"/>
+            </owl:Restriction>
+        </owl:equivalentClass>
+        <owl:equivalentClass>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/OBI_0000293"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/zayascilia/ontologies/2022/3/untitled-ontology-8#supplemental_oxygen_use_measurement_datum"/>
+            </owl:Restriction>
+        </owl:equivalentClass>
+        <owl:equivalentClass>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/OBI_0000293"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/zayascilia/ontologies/2022/3/untitled-ontology-8#systolic_blood_pressure_measurement_datum"/>
+            </owl:Restriction>
+        </owl:equivalentClass>
+        <owl:equivalentClass>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/OBI_0000299"/>
+                <owl:someValuesFrom rdf:resource="http://www.zayascilia.owl#QVPU"/>
+            </owl:Restriction>
+        </owl:equivalentClass>
+        <owl:equivalentClass>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/OBI_0000299"/>
+                <owl:someValuesFrom rdf:resource="http://www.zayascilia.owl#body_temperature_measurement_datum_score"/>
+            </owl:Restriction>
+        </owl:equivalentClass>
+        <owl:equivalentClass>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/OBI_0000299"/>
+                <owl:someValuesFrom rdf:resource="http://www.zayascilia.owl#heart_rate_measurement_datum_score"/>
+            </owl:Restriction>
+        </owl:equivalentClass>
+        <owl:equivalentClass>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/OBI_0000299"/>
+                <owl:someValuesFrom rdf:resource="http://www.zayascilia.owl#oxygen_saturation_measurement_datum_score"/>
+            </owl:Restriction>
+        </owl:equivalentClass>
+        <owl:equivalentClass>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/OBI_0000299"/>
+                <owl:someValuesFrom rdf:resource="http://www.zayascilia.owl#respiratory_rate_measurement_datum_score"/>
+            </owl:Restriction>
+        </owl:equivalentClass>
+        <owl:equivalentClass>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/OBI_0000299"/>
+                <owl:someValuesFrom rdf:resource="http://www.zayascilia.owl#supplemental_oxygen_use_measurement_datum_score"/>
+            </owl:Restriction>
+        </owl:equivalentClass>
+        <owl:equivalentClass>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/OBI_0000299"/>
+                <owl:someValuesFrom rdf:resource="http://www.zayascilia.owl#systolic_blood_pressure_measurement_datum_score"/>
+            </owl:Restriction>
+        </owl:equivalentClass>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OBI_0000011"/>
+        <obo:IAO_0000115 xml:lang="en">Is a planned process that assigns a score to seven measurement datum based on a predefined rubric and has specified output respiratory rate measurement datum score, systolic blood pressure measurement datum score, heart rate measurement datum score, AVPU measurement datum score, body temperature measurement datum score, oxygen saturation measurement datum score, and supplemental oxygen use measurement datum score.</obo:IAO_0000115>
+        <rdfs:label xml:lang="en">national early warning score scoring process</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/zayascilia/ontologies/2022/3/untitled-ontology-8#national_early_warning_score_summation_process -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/zayascilia/ontologies/2022/3/untitled-ontology-8#national_early_warning_score_summation_process">
+        <owl:equivalentClass>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/OBI_0000293"/>
+                <owl:someValuesFrom rdf:resource="http://www.zayascilia.owl#QVPU"/>
+            </owl:Restriction>
+        </owl:equivalentClass>
+        <owl:equivalentClass>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/OBI_0000293"/>
+                <owl:someValuesFrom rdf:resource="http://www.zayascilia.owl#body_temperature_measurement_datum_score"/>
+            </owl:Restriction>
+        </owl:equivalentClass>
+        <owl:equivalentClass>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/OBI_0000293"/>
+                <owl:someValuesFrom rdf:resource="http://www.zayascilia.owl#heart_rate_measurement_datum_score"/>
+            </owl:Restriction>
+        </owl:equivalentClass>
+        <owl:equivalentClass>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/OBI_0000293"/>
+                <owl:someValuesFrom rdf:resource="http://www.zayascilia.owl#oxygen_saturation_measurement_datum_score"/>
+            </owl:Restriction>
+        </owl:equivalentClass>
+        <owl:equivalentClass>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/OBI_0000293"/>
+                <owl:someValuesFrom rdf:resource="http://www.zayascilia.owl#respiratory_rate_measurement_datum_score"/>
+            </owl:Restriction>
+        </owl:equivalentClass>
+        <owl:equivalentClass>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/OBI_0000293"/>
+                <owl:someValuesFrom rdf:resource="http://www.zayascilia.owl#supplemental_oxygen_use_measurement_datum_score"/>
+            </owl:Restriction>
+        </owl:equivalentClass>
+        <owl:equivalentClass>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/OBI_0000293"/>
+                <owl:someValuesFrom rdf:resource="http://www.zayascilia.owl#systolic_blood_pressure_measurement_datum_score"/>
+            </owl:Restriction>
+        </owl:equivalentClass>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OBI_0000011"/>
+        <obo:IAO_0000115 xml:lang="en">Is a planned process that provides the sum total of seven measurement datum scores, respiratory rate measurement datum score, systolic blood pressure measurement datum score, heart rate measurement datum score, AVPU measurement datum score, body temperature measurement datum score, oxygen saturation measurement datum score, and supplemental oxygen use measurement datum score.</obo:IAO_0000115>
+        <rdfs:label xml:lang="en">national early warning score summation process</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/zayascilia/ontologies/2022/3/untitled-ontology-8#oxygen_saturation_measurement_datum -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/zayascilia/ontologies/2022/3/untitled-ontology-8#oxygen_saturation_measurement_datum">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/IAO_0000109"/>
+        <obo:IAO_0000115 xml:lang="en">The measurement datum of the ratio of oxygenated hemoglobin to total hemoglobin in the blood.</obo:IAO_0000115>
+        <obo:IAO_0000119 xml:lang="en">Based on http://purl.obolibrary.org/obo/NCIT_C60832</obo:IAO_0000119>
+        <rdfs:label xml:lang="en">oxygen saturation measurement datum</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/zayascilia/ontologies/2022/3/untitled-ontology-8#quick_sequential_organ_failure_assessment -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/zayascilia/ontologies/2022/3/untitled-ontology-8#quick_sequential_organ_failure_assessment">
+        <owl:equivalentClass>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/OBI_0000293"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/zayascilia/ontologies/2022/3/untitled-ontology-8#quick_sequential_organ_failure_assessment_score_scoring_process"/>
+            </owl:Restriction>
+        </owl:equivalentClass>
+        <owl:equivalentClass>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/OBI_0000293"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/zayascilia/ontologies/2022/3/untitled-ontology-8#quick_sequential_organ_failure_assessment_score_summation_process"/>
+            </owl:Restriction>
+        </owl:equivalentClass>
+        <owl:equivalentClass>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/OBI_0000312"/>
+                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/OBI_0000011"/>
+            </owl:Restriction>
+        </owl:equivalentClass>
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/zayascilia/ontologies/2022/3/untitled-ontology-8#early_warning_score"/>
+        <obo:IAO_0000115 xml:lang="en">An early warning score that is the specified output of a planned process that has specified input Glasgow coma scale, respiratory rate, and blood pressure measurement data.</obo:IAO_0000115>
+        <obo:IAO_0000119 xml:lang="en">Wagner T, Sinning C, Haumann J, et al. qSOFA Score Is Useful to Assess Disease Severity in Patients With Heart Failure in the Setting of a Heart Failure Unit (HFU). Frontiers in Cardiovascular Medicine. 2020;7. doi:10.3389/fcvm.2020.574768.</obo:IAO_0000119>
+        <dc:description xml:lang="en">Calculatng the quick Sequential Organ Failure Assessment score involves assigning one point for each of three criteria: (1) respiratory rate &gt;=22 breaths / minute, (2) altered mental status (Glasgow Coma Scale &lt;15), or (3) systolic blood pressure &lt;=100mm Hg. The sum of the scores of the three physiological parameters yields the human patient&apos;s quick Sequential Organ Failure Assessment score.  Escalation trigger is typically a total score of 2 or greater, which is suggestive of sepsis.</dc:description>
+        <rdfs:label xml:lang="en">quick sequential organ failure assessment</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/zayascilia/ontologies/2022/3/untitled-ontology-8#quick_sequential_organ_failure_assessment_score_scoring_process -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/zayascilia/ontologies/2022/3/untitled-ontology-8#quick_sequential_organ_failure_assessment_score_scoring_process">
+        <owl:equivalentClass>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/OBI_0000293"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/zayascilia/ontologies/2022/3/untitled-ontology-8#glasgow_coma_scale_measurement_datum"/>
+            </owl:Restriction>
+        </owl:equivalentClass>
+        <owl:equivalentClass>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/OBI_0000293"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/zayascilia/ontologies/2022/3/untitled-ontology-8#respiratory_rate_measurement_datum"/>
+            </owl:Restriction>
+        </owl:equivalentClass>
+        <owl:equivalentClass>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/OBI_0000293"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/zayascilia/ontologies/2022/3/untitled-ontology-8#systolic_blood_pressure_measurement_datum"/>
+            </owl:Restriction>
+        </owl:equivalentClass>
+        <owl:equivalentClass>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/OBI_0000299"/>
+                <owl:someValuesFrom rdf:resource="http://www.zayascilia.owl#glasgow_coma_scale_measurement_datum_score"/>
+            </owl:Restriction>
+        </owl:equivalentClass>
+        <owl:equivalentClass>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/OBI_0000299"/>
+                <owl:someValuesFrom rdf:resource="http://www.zayascilia.owl#respiratory_rate_measurement_datum_score"/>
+            </owl:Restriction>
+        </owl:equivalentClass>
+        <owl:equivalentClass>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/OBI_0000299"/>
+                <owl:someValuesFrom rdf:resource="http://www.zayascilia.owl#systolic_blood_pressure_measurement_datum_score"/>
+            </owl:Restriction>
+        </owl:equivalentClass>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OBI_0000011"/>
+        <obo:IAO_0000115 xml:lang="en">Is a planned process that assigns a score to three measurement datum based on a predefined rubric and has specified output glasgow coma scale measurement datum score, respiratory rate measurement datum score, and systolic blood pressure measurement data score.</obo:IAO_0000115>
+        <rdfs:label xml:lang="en">quick sequential organ failure assessment scoring process</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/zayascilia/ontologies/2022/3/untitled-ontology-8#quick_sequential_organ_failure_assessment_score_summation_process -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/zayascilia/ontologies/2022/3/untitled-ontology-8#quick_sequential_organ_failure_assessment_score_summation_process">
+        <owl:equivalentClass>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/OBI_0000293"/>
+                <owl:someValuesFrom rdf:resource="http://www.zayascilia.owl#glasgow_coma_scale_measurement_datum_score"/>
+            </owl:Restriction>
+        </owl:equivalentClass>
+        <owl:equivalentClass>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/OBI_0000293"/>
+                <owl:someValuesFrom rdf:resource="http://www.zayascilia.owl#respiratory_rate_measurement_datum_score"/>
+            </owl:Restriction>
+        </owl:equivalentClass>
+        <owl:equivalentClass>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/OBI_0000293"/>
+                <owl:someValuesFrom rdf:resource="http://www.zayascilia.owl#systolic_blood_pressure_measurement_datum_score"/>
+            </owl:Restriction>
+        </owl:equivalentClass>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OBI_0000011"/>
+        <obo:IAO_0000115 xml:lang="en">Is a planned process that provides the sum total of three measurement datum score,  glasgow coma scale measurement datum score, respiratory rate measurement datum score, and systolic blood pressure measurement data score.</obo:IAO_0000115>
+        <rdfs:label xml:lang="en">quick sequential organ failure assessment score summation process</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/zayascilia/ontologies/2022/3/untitled-ontology-8#respiratory_rate_measurement_datum -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/zayascilia/ontologies/2022/3/untitled-ontology-8#respiratory_rate_measurement_datum">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/IAO_0000109"/>
+        <obo:IAO_0000115 xml:lang="en">The measurement datum of the rate at which an organism breathes.</obo:IAO_0000115>
+        <obo:IAO_0000119 xml:lang="en">Based on http://purl.obolibrary.org/obo/VSO_0000034</obo:IAO_0000119>
+        <rdfs:label xml:lang="en">respiratory rate measurement datum</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/zayascilia/ontologies/2022/3/untitled-ontology-8#supplemental_oxygen_use_measurement_datum -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/zayascilia/ontologies/2022/3/untitled-ontology-8#supplemental_oxygen_use_measurement_datum">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/IAO_0000109"/>
+        <obo:IAO_0000115 xml:lang="en">A measurement datum of a patient&apos;s use of supplemental oxygen.</obo:IAO_0000115>
+        <rdfs:label xml:lang="en">supplemental oxygen use measurement datum</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/zayascilia/ontologies/2022/3/untitled-ontology-8#systolic_blood_pressure_measurement_datum -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/zayascilia/ontologies/2022/3/untitled-ontology-8#systolic_blood_pressure_measurement_datum">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/IAO_0000109"/>
+        <obo:IAO_0000115 xml:lang="en">A measurement datum of the maximum pressure exerted into the systemic artierial circulation during the contraction of the left ventricle of the heart.</obo:IAO_0000115>
+        <obo:IAO_0000119 xml:lang="en">Homan TD, Bordes S, Cichowski E. Physiology, Pulse Pressure. [Updated 2021 Jul 15]. In: StatPearls [Internet]. Treasure Island (FL): StatPearls Publishing; 2022 Jan-. Available from: https://www.ncbi.nlm.nih.gov/books/NBK482408/</obo:IAO_0000119>
+        <rdfs:label xml:lang="en">systolic blood pressure measurement datum</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/zayascilia/ontologies/2022/3/untitled-ontology-8#urine_output_measurement_datum -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/zayascilia/ontologies/2022/3/untitled-ontology-8#urine_output_measurement_datum">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/IAO_0000109"/>
+        <obo:IAO_0000115 xml:lang="en">A measurement datum of a patient&apos;s urine output over a specified period of time.</obo:IAO_0000115>
+        <rdfs:label xml:lang="en">urine output measurement datum</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.w3.org/2002/07/owl#Thing -->
+
+    <owl:Class rdf:about="http://www.w3.org/2002/07/owl#Thing">
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/obi.owl"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.zayascilia.owl#QVPU -->
+
+    <owl:Class rdf:about="http://www.zayascilia.owl#QVPU">
+        <owl:equivalentClass>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/OBI_0000293"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/zayascilia/ontologies/2022/3/untitled-ontology-8#AVPU_measurement_datum"/>
+            </owl:Restriction>
+        </owl:equivalentClass>
+        <owl:equivalentClass>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/OBI_0000312"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/zayascilia/ontologies/2022/3/untitled-ontology-8#modified_early_warning_score_scoring_process"/>
+            </owl:Restriction>
+        </owl:equivalentClass>
+        <owl:equivalentClass>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/OBI_0000312"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/zayascilia/ontologies/2022/3/untitled-ontology-8#national_early_warning_score_scoring_process"/>
+            </owl:Restriction>
+        </owl:equivalentClass>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OBI_0000070"/>
+        <obo:IAO_0000115 xml:lang="en">A assay that is the specified output of a scoring process that has specifed input AVPU measurement datum.</obo:IAO_0000115>
+        <rdfs:comment>AVPU criterion:  &quot;alert&quot;, &quot;responsive to verbal stimulation&quot;, &quot;responsive to painful stimulation&quot;, or &quot;unresponsive&quot; to determine a patient&apos;s level of consciousness</rdfs:comment>
+        <rdfs:label xml:lang="en">Alert, Voice, Pain, Unresponsiveness (AVPU) measurement datum score</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.zayascilia.owl#body_temperature_measurement_datum_score -->
+
+    <owl:Class rdf:about="http://www.zayascilia.owl#body_temperature_measurement_datum_score">
+        <owl:equivalentClass>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/OBI_0000293"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/zayascilia/ontologies/2022/3/untitled-ontology-8#body_temperature_measurment_datum"/>
+            </owl:Restriction>
+        </owl:equivalentClass>
+        <owl:equivalentClass>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/OBI_0000312"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/zayascilia/ontologies/2022/3/untitled-ontology-8#modified_early_warning_score_scoring_process"/>
+            </owl:Restriction>
+        </owl:equivalentClass>
+        <owl:equivalentClass>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/OBI_0000312"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/zayascilia/ontologies/2022/3/untitled-ontology-8#national_early_warning_score_scoring_process"/>
+            </owl:Restriction>
+        </owl:equivalentClass>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OBI_0000070"/>
+        <obo:IAO_0000115 xml:lang="en">An assay that is the specified output of a scoring process that has specified input body temperature measurement datum.</obo:IAO_0000115>
+        <rdfs:label xml:lang="en">body temperature measurement datum score</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.zayascilia.owl#glasgow_coma_scale_measurement_datum_score -->
+
+    <owl:Class rdf:about="http://www.zayascilia.owl#glasgow_coma_scale_measurement_datum_score">
+        <owl:equivalentClass>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/OBI_0000293"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/zayascilia/ontologies/2022/3/untitled-ontology-8#glasgow_coma_scale_measurement_datum"/>
+            </owl:Restriction>
+        </owl:equivalentClass>
+        <owl:equivalentClass>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/OBI_0000312"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/zayascilia/ontologies/2022/3/untitled-ontology-8#quick_sequential_organ_failure_assessment_score_scoring_process"/>
+            </owl:Restriction>
+        </owl:equivalentClass>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OBI_0000070"/>
+        <obo:IAO_0000115>An assay that is the specified output of a scoring process that has specifed input glasgow coma scale score measurement datum.</obo:IAO_0000115>
+        <rdfs:label xml:lang="en">glasgow coma scale measurement datum score</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.zayascilia.owl#heart_rate_measurement_datum_score -->
+
+    <owl:Class rdf:about="http://www.zayascilia.owl#heart_rate_measurement_datum_score">
+        <owl:equivalentClass>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/OBI_0000293"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/zayascilia/ontologies/2022/3/untitled-ontology-8#heart_rate_measurement_datum"/>
+            </owl:Restriction>
+        </owl:equivalentClass>
+        <owl:equivalentClass>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/OBI_0000312"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/zayascilia/ontologies/2022/3/untitled-ontology-8#modified_early_warning_score_scoring_process"/>
+            </owl:Restriction>
+        </owl:equivalentClass>
+        <owl:equivalentClass>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/OBI_0000312"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/zayascilia/ontologies/2022/3/untitled-ontology-8#national_early_warning_score_scoring_process"/>
+            </owl:Restriction>
+        </owl:equivalentClass>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OBI_0000070"/>
+        <obo:IAO_0000115 xml:lang="en">An assay that is the specified output of a scoring process that has specified input heart rate measurement datum.</obo:IAO_0000115>
+        <rdfs:label xml:lang="en">heart rate measurement datum score</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.zayascilia.owl#oxygen_saturation_measurement_datum_score -->
+
+    <owl:Class rdf:about="http://www.zayascilia.owl#oxygen_saturation_measurement_datum_score">
+        <owl:equivalentClass>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/OBI_0000293"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/zayascilia/ontologies/2022/3/untitled-ontology-8#oxygen_saturation_measurement_datum"/>
+            </owl:Restriction>
+        </owl:equivalentClass>
+        <owl:equivalentClass>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/OBI_0000312"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/zayascilia/ontologies/2022/3/untitled-ontology-8#national_early_warning_score_scoring_process"/>
+            </owl:Restriction>
+        </owl:equivalentClass>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OBI_0000070"/>
+        <obo:IAO_0000115 xml:lang="en">An assay that is the specified output of a scoring process that has specified input oxygen saturation measurement datum.</obo:IAO_0000115>
+        <rdfs:label xml:lang="en">oxygen saturation measurement datum score</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.zayascilia.owl#respiratory_rate_measurement_datum_score -->
+
+    <owl:Class rdf:about="http://www.zayascilia.owl#respiratory_rate_measurement_datum_score">
+        <owl:equivalentClass>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/OBI_0000293"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/zayascilia/ontologies/2022/3/untitled-ontology-8#respiratory_rate_measurement_datum"/>
+            </owl:Restriction>
+        </owl:equivalentClass>
+        <owl:equivalentClass>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/OBI_0000312"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/zayascilia/ontologies/2022/3/untitled-ontology-8#modified_early_warning_score_scoring_process"/>
+            </owl:Restriction>
+        </owl:equivalentClass>
+        <owl:equivalentClass>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/OBI_0000312"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/zayascilia/ontologies/2022/3/untitled-ontology-8#national_early_warning_score_scoring_process"/>
+            </owl:Restriction>
+        </owl:equivalentClass>
+        <owl:equivalentClass>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/OBI_0000312"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/zayascilia/ontologies/2022/3/untitled-ontology-8#quick_sequential_organ_failure_assessment_score_scoring_process"/>
+            </owl:Restriction>
+        </owl:equivalentClass>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OBI_0000070"/>
+        <obo:IAO_0000115 xml:lang="en">An assay that is the specified output of a scoring process that has specified input respiratory rate measurement datum.</obo:IAO_0000115>
+        <rdfs:label xml:lang="en">respiratory rate measurement datum score</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.zayascilia.owl#supplemental_oxygen_use_measurement_datum_score -->
+
+    <owl:Class rdf:about="http://www.zayascilia.owl#supplemental_oxygen_use_measurement_datum_score">
+        <owl:equivalentClass>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/OBI_0000293"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/zayascilia/ontologies/2022/3/untitled-ontology-8#supplemental_oxygen_use_measurement_datum"/>
+            </owl:Restriction>
+        </owl:equivalentClass>
+        <owl:equivalentClass>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/OBI_0000312"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/zayascilia/ontologies/2022/3/untitled-ontology-8#national_early_warning_score_scoring_process"/>
+            </owl:Restriction>
+        </owl:equivalentClass>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OBI_0000070"/>
+        <obo:IAO_0000115 xml:lang="en">An assay that is the specified output of a scoring process that has specified input supplemental oxygen use measurement datum.</obo:IAO_0000115>
+        <rdfs:label xml:lang="en">supplemental oxygen use measurement datum score</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.zayascilia.owl#systolic_blood_pressure_measurement_datum_score -->
+
+    <owl:Class rdf:about="http://www.zayascilia.owl#systolic_blood_pressure_measurement_datum_score">
+        <owl:equivalentClass>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/OBI_0000293"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/zayascilia/ontologies/2022/3/untitled-ontology-8#systolic_blood_pressure_measurement_datum"/>
+            </owl:Restriction>
+        </owl:equivalentClass>
+        <owl:equivalentClass>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/OBI_0000312"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/zayascilia/ontologies/2022/3/untitled-ontology-8#modified_early_warning_score_scoring_process"/>
+            </owl:Restriction>
+        </owl:equivalentClass>
+        <owl:equivalentClass>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/OBI_0000312"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/zayascilia/ontologies/2022/3/untitled-ontology-8#national_early_warning_score_scoring_process"/>
+            </owl:Restriction>
+        </owl:equivalentClass>
+        <owl:equivalentClass>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/OBI_0000312"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/zayascilia/ontologies/2022/3/untitled-ontology-8#quick_sequential_organ_failure_assessment_score_scoring_process"/>
+            </owl:Restriction>
+        </owl:equivalentClass>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OBI_0000070"/>
+        <obo:IAO_0000115 xml:lang="en">An assay that is the specified output of a scoring process that has specified input systolic blood pressure measurement datum.</obo:IAO_0000115>
+        <rdfs:label xml:lang="en">systolic blood pressure measurement datum score</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.zayascilia.owl#urine_output_measurement_datum_score -->
+
+    <owl:Class rdf:about="http://www.zayascilia.owl#urine_output_measurement_datum_score">
+        <owl:equivalentClass>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/OBI_0000293"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/zayascilia/ontologies/2022/3/untitled-ontology-8#urine_output_measurement_datum"/>
+            </owl:Restriction>
+        </owl:equivalentClass>
+        <owl:equivalentClass>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/OBI_0000312"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/zayascilia/ontologies/2022/3/untitled-ontology-8#modified_early_warning_score_scoring_process"/>
+            </owl:Restriction>
+        </owl:equivalentClass>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OBI_0000070"/>
+        <obo:IAO_0000115 xml:lang="en">An assay that is the specified output of a scoring process that has specified input urine output measurement datum.</obo:IAO_0000115>
+        <rdfs:label xml:lang="en">urine output measurement datum score</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Individuals
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/IAO_0000002 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/IAO_0000002">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/IAO_0000078"/>
+        <rdfs:label xml:lang="en">example to be eventually removed</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/IAO_0000120 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/IAO_0000120">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/IAO_0000078"/>
+        <rdfs:label xml:lang="en">metadata complete</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/IAO_0000121 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/IAO_0000121">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/IAO_0000078"/>
+        <rdfs:label xml:lang="en">organizational term</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/IAO_0000122 -->
+
+    <owl:Thing rdf:about="http://purl.obolibrary.org/obo/IAO_0000122">
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/IAO_0000078"/>
+        <rdfs:label xml:lang="en">ready for release</rdfs:label>
+    </owl:Thing>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/IAO_0000123 -->
+
+    <owl:Thing rdf:about="http://purl.obolibrary.org/obo/IAO_0000123">
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/IAO_0000078"/>
+        <rdfs:label xml:lang="en">metadata incomplete</rdfs:label>
+    </owl:Thing>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/IAO_0000124 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/IAO_0000124">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/IAO_0000078"/>
+        <rdfs:label xml:lang="en">uncurated</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/IAO_0000125 -->
+
+    <owl:Thing rdf:about="http://purl.obolibrary.org/obo/IAO_0000125">
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/IAO_0000078"/>
+        <rdfs:label xml:lang="en">pending final vetting</rdfs:label>
+    </owl:Thing>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/IAO_0000423 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/IAO_0000423">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/IAO_0000078"/>
+        <rdfs:label xml:lang="en">to be replaced with external ontology term</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/IAO_0000428 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/IAO_0000428">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/IAO_0000078"/>
+        <rdfs:label xml:lang="en">requires discussion</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/UO_0000027 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/UO_0000027"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/UO_0000036 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/UO_0000036"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/UO_0000195 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/UO_0000195"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/UO_0000272 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/UO_0000272"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/iao.owl -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/iao.owl"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/obi.owl -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/obi.owl"/>
+    <rdf:Description>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/obi.owl"/>
+    </rdf:Description>
+    <rdf:Description>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/obi.owl"/>
+    </rdf:Description>
+    <rdf:Description>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/obi.owl"/>
+    </rdf:Description>
+    <rdf:Description>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/iao.owl"/>
+    </rdf:Description>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Annotations
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UO_0000027">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">degree Celsius</rdfs:label>
+        <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">&quot;A temperature unit which is equal to one kelvin degree. However, they have their zeros at different points. The centigrade scale has its zero at 273.15 K.&quot; [NIST:NIST]</rdfs:comment>
+        <oboInOwl:hasExactSynonym rdf:datatype="http://www.w3.org/2001/XMLSchema#string">C</oboInOwl:hasExactSynonym>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UO_0000036">
+        <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">&quot;A time unit which is equal to 12 months which in science is taken to be equal to 365.25 days.&quot; [Wikipedia:Wikipedia]</rdfs:comment>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">year</rdfs:label>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UO_0000195">
+        <oboInOwl:hasExactSynonym rdf:datatype="http://www.w3.org/2001/XMLSchema#string">F</oboInOwl:hasExactSynonym>
+        <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">&quot;A temperature unit which is equal to 5/9ths of a kelvin. Negative 40 degrees Fahrenheit is equal to negative 40 degrees Celsius.&quot; [Wikipedia:Wikipedia]</rdfs:comment>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">degree Fahrenheit</rdfs:label>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UO_0000272">
+        <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">&quot;A unit of pressure equal to the amount of fluid pressure one millimeter deep in mercury at zero degrees centigrade on Earth.&quot; [url:en.wiktionary.org/wiki/mmHg]</rdfs:comment>
+        <oboInOwl:hasExactSynonym rdf:datatype="http://www.w3.org/2001/XMLSchema#string">millimeters of mercury</oboInOwl:hasExactSynonym>
+        <oboInOwl:hasExactSynonym rdf:datatype="http://www.w3.org/2001/XMLSchema#string">mmHg</oboInOwl:hasExactSynonym>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">millimetres of mercury</rdfs:label>
+    </rdf:Description>
+</rdf:RDF>
+
+
+
+<!-- Generated by the OWL API (version 4.5.6) https://github.com/owlcs/owlapi -->
+

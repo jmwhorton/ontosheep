@@ -1,0 +1,10 @@
+version: "3.9"
+services:
+  triplestore:
+    image: ontotext/graphdb:10.3.1
+    ports:
+      - "7200:7200"
+  app:
+    image: jmwhorton/ontosheep-test:1.0.0
+    depends_on:
+      - triplestore 
