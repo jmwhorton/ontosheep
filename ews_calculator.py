@@ -20,6 +20,7 @@ select * where {{
     body = {'query': query, 'Accept': 'application/sparql-results+json' }
     headers = {'content-type': 'application/x-www-form-urlencoded'}
     try:
+        #Replace with address of triplestore you'd like to use
         r = requests.request('POST', "http://triplestore:7200/repositories/ontosheep-test", data=body, headers=headers)
         if r.ok:
             try:
