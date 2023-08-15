@@ -3,7 +3,7 @@ from rdflib import Graph, Literal, RDF, URIRef, Namespace #basic RDF handling
 from rdflib.namespace import FOAF , XSD  #most common namespaces
 import urllib.parse #for parsing strings to URI's
 
-csv=pd.read_csv('orgA.csv' ,sep=",",quotechar='"')
+csv=pd.read_csv('example/input/orgA.csv' ,sep=",",quotechar='"')
 
 g = Graph()
 schema = Namespace('http://www.zayascilia.owl/')
