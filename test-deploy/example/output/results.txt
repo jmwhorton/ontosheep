@@ -1,0 +1,2000 @@
+{'NEWS': 1, 'MEWS': 3, 'qSOFA': 0, 'Person ID': 1}
+{'Person ID': 2}
+{'NEWS': 1, 'MEWS': 2, 'qSOFA': 0, 'Person ID': 3}
+{'NEWS': 2, 'MEWS': 1, 'qSOFA': 0, 'Person ID': 4}
+{'NEWS': 1, 'MEWS': 0, 'qSOFA': 0, 'Person ID': 5}
+{'qSOFA': 0, 'Person ID': 6}
+{'qSOFA': 0, 'Person ID': 7}
+{'NEWS': 9, 'MEWS': 3, 'qSOFA': 1, 'Person ID': 8}
+{'Person ID': 9}
+{'NEWS': 2, 'qSOFA': 0, 'Person ID': 10}
+{'MEWS': 1, 'qSOFA': 1, 'Person ID': 11}
+{'NEWS': 3, 'MEWS': 2, 'qSOFA': 1, 'Person ID': 12}
+{'NEWS': 4, 'MEWS': 4, 'qSOFA': 1, 'Person ID': 13}
+{'NEWS': 2, 'MEWS': 5, 'qSOFA': 0, 'Person ID': 14}
+{'NEWS': 7, 'MEWS': 7, 'qSOFA': 2, 'Person ID': 15}
+{'NEWS': 5, 'MEWS': 3, 'qSOFA': 1, 'Person ID': 16}
+{'NEWS': 2, 'MEWS': 0, 'qSOFA': 0, 'Person ID': 17}
+{'qSOFA': 0, 'Person ID': 18}
+{'NEWS': 1, 'MEWS': 1, 'qSOFA': 0, 'Person ID': 19}
+{'Person ID': 20}
+{'NEWS': 4, 'MEWS': 5, 'qSOFA': 1, 'Person ID': 21}
+{'NEWS': 3, 'MEWS': 2, 'qSOFA': 1, 'Person ID': 22}
+{'NEWS': 8, 'MEWS': 4, 'qSOFA': 0, 'Person ID': 23}
+{'NEWS': 3, 'MEWS': 3, 'qSOFA': 0, 'Person ID': 24}
+{'NEWS': 0, 'MEWS': 1, 'qSOFA': 0, 'Person ID': 25}
+{'NEWS': 3, 'MEWS': 2, 'qSOFA': 0, 'Person ID': 26}
+{'NEWS': 1, 'MEWS': 3, 'qSOFA': 0, 'Person ID': 27}
+{'NEWS': 2, 'MEWS': 4, 'qSOFA': 0, 'Person ID': 28}
+{'NEWS': 4, 'qSOFA': 1, 'Person ID': 29}
+{'NEWS': 1, 'MEWS': 1, 'qSOFA': 0, 'Person ID': 30}
+{'NEWS': 6, 'qSOFA': 2, 'Person ID': 31}
+{'NEWS': 6, 'MEWS': 6, 'qSOFA': 0, 'Person ID': 32}
+{'NEWS': 8, 'MEWS': 2, 'qSOFA': 0, 'Person ID': 33}
+{'NEWS': 3, 'MEWS': 3, 'qSOFA': 1, 'Person ID': 34}
+{'qSOFA': 0, 'Person ID': 35}
+{'NEWS': 4, 'MEWS': 4, 'qSOFA': 0, 'Person ID': 36}
+{'NEWS': 5, 'MEWS': 3, 'qSOFA': 2, 'Person ID': 37}
+{'NEWS': 6, 'MEWS': 0, 'qSOFA': 0, 'Person ID': 38}
+{'MEWS': 1, 'qSOFA': 0, 'Person ID': 39}
+{'NEWS': 3, 'qSOFA': 0, 'Person ID': 40}
+{'NEWS': 4, 'MEWS': 3, 'qSOFA': 0, 'Person ID': 41}
+{'Person ID': 42}
+{'NEWS': 12, 'MEWS': 6, 'qSOFA': 0, 'Person ID': 43}
+{'NEWS': 3, 'MEWS': 2, 'qSOFA': 1, 'Person ID': 44}
+{'NEWS': 3, 'MEWS': 5, 'qSOFA': 1, 'Person ID': 45}
+{'NEWS': 3, 'qSOFA': 0, 'Person ID': 46}
+{'qSOFA': 0, 'Person ID': 47}
+{'NEWS': 6, 'MEWS': 8, 'qSOFA': 0, 'Person ID': 48}
+{'NEWS': 0, 'MEWS': 4, 'qSOFA': 0, 'Person ID': 49}
+{'NEWS': 0, 'MEWS': 2, 'qSOFA': 0, 'Person ID': 50}
+{'NEWS': 5, 'MEWS': 4, 'qSOFA': 0, 'Person ID': 51}
+{'NEWS': 5, 'MEWS': 3, 'qSOFA': 1, 'Person ID': 52}
+{'NEWS': 3, 'MEWS': 4, 'qSOFA': 0, 'Person ID': 53}
+{'qSOFA': 1, 'Person ID': 54}
+{'MEWS': 4, 'qSOFA': 0, 'Person ID': 55}
+{'NEWS': 6, 'MEWS': 5, 'qSOFA': 1, 'Person ID': 56}
+{'NEWS': 7, 'MEWS': 2, 'qSOFA': 0, 'Person ID': 57}
+{'Person ID': 58}
+{'Person ID': 59}
+{'NEWS': 1, 'MEWS': 1, 'qSOFA': 0, 'Person ID': 60}
+{'Person ID': 61}
+{'NEWS': 6, 'MEWS': 7, 'qSOFA': 1, 'Person ID': 62}
+{'NEWS': 3, 'MEWS': 3, 'qSOFA': 0, 'Person ID': 63}
+{'NEWS': 2, 'MEWS': 3, 'qSOFA': 0, 'Person ID': 64}
+{'NEWS': 6, 'MEWS': 3, 'qSOFA': 1, 'Person ID': 65}
+{'NEWS': 5, 'MEWS': 4, 'qSOFA': 1, 'Person ID': 66}
+{'NEWS': 7, 'MEWS': 4, 'qSOFA': 1, 'Person ID': 67}
+{'NEWS': 3, 'MEWS': 3, 'qSOFA': 0, 'Person ID': 68}
+{'NEWS': 2, 'MEWS': 1, 'qSOFA': 0, 'Person ID': 69}
+{'NEWS': 5, 'qSOFA': 0, 'Person ID': 70}
+{'NEWS': 7, 'MEWS': 5, 'qSOFA': 1, 'Person ID': 71}
+{'NEWS': 4, 'MEWS': 3, 'qSOFA': 0, 'Person ID': 72}
+{'NEWS': 1, 'MEWS': 3, 'qSOFA': 0, 'Person ID': 73}
+{'NEWS': 1, 'MEWS': 3, 'qSOFA': 0, 'Person ID': 74}
+{'NEWS': 5, 'MEWS': 0, 'qSOFA': 0, 'Person ID': 75}
+{'qSOFA': 1, 'Person ID': 76}
+{'NEWS': 3, 'MEWS': 3, 'qSOFA': 0, 'Person ID': 77}
+{'Person ID': 78}
+{'NEWS': 7, 'MEWS': 4, 'qSOFA': 2, 'Person ID': 79}
+{'NEWS': 7, 'MEWS': 5, 'qSOFA': 0, 'Person ID': 80}
+{'qSOFA': 1, 'Person ID': 81}
+{'MEWS': 1, 'qSOFA': 0, 'Person ID': 82}
+{'NEWS': 3, 'MEWS': 3, 'qSOFA': 0, 'Person ID': 83}
+{'NEWS': 0, 'MEWS': 1, 'qSOFA': 0, 'Person ID': 84}
+{'Person ID': 85}
+{'NEWS': 6, 'MEWS': 6, 'qSOFA': 0, 'Person ID': 86}
+{'qSOFA': 0, 'Person ID': 87}
+{'NEWS': 3, 'qSOFA': 0, 'Person ID': 88}
+{'NEWS': 5, 'MEWS': 1, 'qSOFA': 0, 'Person ID': 89}
+{'NEWS': 4, 'MEWS': 2, 'qSOFA': 0, 'Person ID': 90}
+{'NEWS': 1, 'MEWS': 1, 'qSOFA': 0, 'Person ID': 91}
+{'Person ID': 92}
+{'NEWS': 6, 'MEWS': 6, 'qSOFA': 2, 'Person ID': 93}
+{'NEWS': 2, 'MEWS': 4, 'qSOFA': 0, 'Person ID': 94}
+{'NEWS': 6, 'MEWS': 4, 'qSOFA': 0, 'Person ID': 95}
+{'NEWS': 7, 'MEWS': 7, 'qSOFA': 0, 'Person ID': 96}
+{'qSOFA': 0, 'Person ID': 97}
+{'MEWS': 2, 'qSOFA': 0, 'Person ID': 98}
+{'Person ID': 99}
+{'Person ID': 100}
+{'NEWS': 8, 'MEWS': 3, 'qSOFA': 1, 'Person ID': 101}
+{'Person ID': 102}
+{'MEWS': 4, 'qSOFA': 1, 'Person ID': 103}
+{'NEWS': 0, 'MEWS': 3, 'qSOFA': 0, 'Person ID': 104}
+{'Person ID': 105}
+{'NEWS': 6, 'MEWS': 5, 'qSOFA': 2, 'Person ID': 106}
+{'Person ID': 107}
+{'qSOFA': 0, 'Person ID': 108}
+{'NEWS': 8, 'qSOFA': 0, 'Person ID': 109}
+{'NEWS': 0, 'MEWS': 1, 'qSOFA': 0, 'Person ID': 110}
+{'NEWS': 8, 'MEWS': 8, 'qSOFA': 1, 'Person ID': 111}
+{'Person ID': 112}
+{'Person ID': 113}
+{'NEWS': 3, 'MEWS': 2, 'qSOFA': 1, 'Person ID': 114}
+{'NEWS': 3, 'MEWS': 4, 'qSOFA': 0, 'Person ID': 115}
+{'NEWS': 9, 'MEWS': 7, 'qSOFA': 2, 'Person ID': 116}
+{'NEWS': 3, 'MEWS': 2, 'qSOFA': 1, 'Person ID': 117}
+{'NEWS': 3, 'MEWS': 6, 'qSOFA': 0, 'Person ID': 118}
+{'MEWS': 6, 'qSOFA': 0, 'Person ID': 119}
+{'NEWS': 0, 'MEWS': 2, 'qSOFA': 0, 'Person ID': 120}
+{'NEWS': 4, 'MEWS': 5, 'qSOFA': 0, 'Person ID': 121}
+{'qSOFA': 1, 'Person ID': 122}
+{'NEWS': 2, 'MEWS': 1, 'qSOFA': 0, 'Person ID': 123}
+{'NEWS': 1, 'MEWS': 1, 'qSOFA': 0, 'Person ID': 124}
+{'Person ID': 125}
+{'NEWS': 0, 'MEWS': 1, 'qSOFA': 0, 'Person ID': 126}
+{'NEWS': 6, 'MEWS': 3, 'qSOFA': 1, 'Person ID': 127}
+{'NEWS': 3, 'MEWS': 2, 'qSOFA': 0, 'Person ID': 128}
+{'MEWS': 1, 'qSOFA': 0, 'Person ID': 129}
+{'NEWS': 1, 'MEWS': 1, 'qSOFA': 0, 'Person ID': 130}
+{'qSOFA': 2, 'Person ID': 131}
+{'NEWS': 5, 'MEWS': 6, 'qSOFA': 0, 'Person ID': 132}
+{'Person ID': 133}
+{'qSOFA': 1, 'Person ID': 134}
+{'NEWS': 4, 'MEWS': 4, 'qSOFA': 0, 'Person ID': 135}
+{'NEWS': 3, 'MEWS': 2, 'qSOFA': 0, 'Person ID': 136}
+{'NEWS': 3, 'MEWS': 3, 'qSOFA': 1, 'Person ID': 137}
+{'NEWS': 1, 'MEWS': 0, 'qSOFA': 0, 'Person ID': 138}
+{'Person ID': 139}
+{'NEWS': 4, 'MEWS': 5, 'qSOFA': 0, 'Person ID': 140}
+{'NEWS': 2, 'MEWS': 5, 'qSOFA': 0, 'Person ID': 141}
+{'NEWS': 8, 'MEWS': 3, 'qSOFA': 0, 'Person ID': 142}
+{'NEWS': 7, 'MEWS': 7, 'qSOFA': 0, 'Person ID': 143}
+{'qSOFA': 0, 'Person ID': 144}
+{'NEWS': 3, 'MEWS': 5, 'qSOFA': 0, 'Person ID': 145}
+{'NEWS': 1, 'MEWS': 2, 'qSOFA': 0, 'Person ID': 146}
+{'NEWS': 4, 'MEWS': 3, 'qSOFA': 1, 'Person ID': 147}
+{'Person ID': 148}
+{'NEWS': 3, 'MEWS': 3, 'qSOFA': 1, 'Person ID': 149}
+{'NEWS': 0, 'MEWS': 1, 'qSOFA': 0, 'Person ID': 150}
+{'Person ID': 151}
+{'NEWS': 3, 'MEWS': 2, 'qSOFA': 1, 'Person ID': 152}
+{'NEWS': 1, 'MEWS': 1, 'qSOFA': 0, 'Person ID': 153}
+{'Person ID': 154}
+{'NEWS': 4, 'MEWS': 3, 'qSOFA': 0, 'Person ID': 155}
+{'NEWS': 3, 'MEWS': 3, 'qSOFA': 1, 'Person ID': 156}
+{'NEWS': 3, 'MEWS': 2, 'qSOFA': 1, 'Person ID': 157}
+{'NEWS': 1, 'MEWS': 1, 'qSOFA': 0, 'Person ID': 158}
+{'NEWS': 1, 'MEWS': 0, 'qSOFA': 0, 'Person ID': 159}
+{'NEWS': 1, 'MEWS': 3, 'qSOFA': 0, 'Person ID': 160}
+{'NEWS': 2, 'MEWS': 3, 'qSOFA': 0, 'Person ID': 161}
+{'NEWS': 3, 'MEWS': 3, 'qSOFA': 0, 'Person ID': 162}
+{'NEWS': 1, 'MEWS': 1, 'qSOFA': 0, 'Person ID': 163}
+{'NEWS': 4, 'MEWS': 1, 'qSOFA': 1, 'Person ID': 164}
+{'NEWS': 4, 'MEWS': 2, 'qSOFA': 0, 'Person ID': 165}
+{'NEWS': 5, 'MEWS': 5, 'qSOFA': 0, 'Person ID': 166}
+{'qSOFA': 1, 'Person ID': 167}
+{'NEWS': 1, 'MEWS': 4, 'qSOFA': 0, 'Person ID': 168}
+{'NEWS': 2, 'MEWS': 1, 'qSOFA': 0, 'Person ID': 169}
+{'qSOFA': 1, 'Person ID': 170}
+{'NEWS': 4, 'MEWS': 2, 'qSOFA': 1, 'Person ID': 171}
+{'NEWS': 7, 'MEWS': 6, 'qSOFA': 0, 'Person ID': 172}
+{'NEWS': 8, 'MEWS': 4, 'qSOFA': 0, 'Person ID': 173}
+{'Person ID': 174}
+{'NEWS': 5, 'MEWS': 4, 'qSOFA': 1, 'Person ID': 175}
+{'NEWS': 4, 'MEWS': 5, 'qSOFA': 0, 'Person ID': 176}
+{'NEWS': 3, 'MEWS': 4, 'qSOFA': 1, 'Person ID': 177}
+{'NEWS': 5, 'MEWS': 5, 'qSOFA': 1, 'Person ID': 178}
+{'NEWS': 11, 'MEWS': 6, 'qSOFA': 1, 'Person ID': 179}
+{'NEWS': 3, 'MEWS': 3, 'qSOFA': 0, 'Person ID': 180}
+{'qSOFA': 0, 'Person ID': 181}
+{'qSOFA': 1, 'Person ID': 182}
+{'NEWS': 8, 'MEWS': 4, 'qSOFA': 1, 'Person ID': 183}
+{'MEWS': 0, 'qSOFA': 0, 'Person ID': 184}
+{'Person ID': 185}
+{'NEWS': 3, 'MEWS': 3, 'qSOFA': 0, 'Person ID': 186}
+{'NEWS': 2, 'qSOFA': 0, 'Person ID': 187}
+{'qSOFA': 0, 'Person ID': 188}
+{'NEWS': 8, 'MEWS': 6, 'qSOFA': 0, 'Person ID': 189}
+{'Person ID': 190}
+{'Person ID': 191}
+{'Person ID': 192}
+{'Person ID': 193}
+{'NEWS': 1, 'MEWS': 2, 'qSOFA': 0, 'Person ID': 194}
+{'NEWS': 3, 'MEWS': 2, 'qSOFA': 0, 'Person ID': 195}
+{'NEWS': 3, 'MEWS': 3, 'qSOFA': 0, 'Person ID': 196}
+{'qSOFA': 1, 'Person ID': 197}
+{'NEWS': 8, 'MEWS': 5, 'qSOFA': 1, 'Person ID': 198}
+{'Person ID': 199}
+{'NEWS': 3, 'MEWS': 2, 'qSOFA': 1, 'Person ID': 200}
+{'NEWS': 6, 'MEWS': 4, 'qSOFA': 1, 'Person ID': 201}
+{'NEWS': 8, 'qSOFA': 1, 'Person ID': 202}
+{'NEWS': 2, 'MEWS': 1, 'qSOFA': 0, 'Person ID': 203}
+{'NEWS': 3, 'MEWS': 2, 'qSOFA': 1, 'Person ID': 204}
+{'NEWS': 0, 'qSOFA': 0, 'Person ID': 205}
+{'qSOFA': 0, 'Person ID': 206}
+{'NEWS': 2, 'MEWS': 2, 'qSOFA': 0, 'Person ID': 207}
+{'NEWS': 9, 'MEWS': 6, 'qSOFA': 1, 'Person ID': 208}
+{'NEWS': 1, 'MEWS': 1, 'qSOFA': 0, 'Person ID': 209}
+{'NEWS': 5, 'MEWS': 1, 'qSOFA': 0, 'Person ID': 210}
+{'NEWS': 5, 'MEWS': 2, 'qSOFA': 0, 'Person ID': 211}
+{'NEWS': 6, 'MEWS': 5, 'qSOFA': 1, 'Person ID': 212}
+{'NEWS': 5, 'MEWS': 7, 'qSOFA': 0, 'Person ID': 213}
+{'NEWS': 3, 'MEWS': 3, 'qSOFA': 0, 'Person ID': 214}
+{'NEWS': 5, 'MEWS': 4, 'qSOFA': 1, 'Person ID': 215}
+{'NEWS': 1, 'MEWS': 1, 'qSOFA': 0, 'Person ID': 216}
+{'NEWS': 3, 'MEWS': 2, 'qSOFA': 0, 'Person ID': 217}
+{'NEWS': 3, 'MEWS': 3, 'qSOFA': 0, 'Person ID': 218}
+{'NEWS': 1, 'MEWS': 1, 'qSOFA': 0, 'Person ID': 219}
+{'qSOFA': 0, 'Person ID': 220}
+{'NEWS': 0, 'MEWS': 1, 'qSOFA': 0, 'Person ID': 221}
+{'NEWS': 9, 'MEWS': 7, 'qSOFA': 2, 'Person ID': 222}
+{'NEWS': 8, 'MEWS': 4, 'qSOFA': 1, 'Person ID': 223}
+{'NEWS': 6, 'MEWS': 1, 'qSOFA': 0, 'Person ID': 224}
+{'NEWS': 7, 'MEWS': 7, 'qSOFA': 0, 'Person ID': 225}
+{'NEWS': 4, 'MEWS': 3, 'qSOFA': 1, 'Person ID': 226}
+{'NEWS': 9, 'MEWS': 6, 'qSOFA': 1, 'Person ID': 227}
+{'NEWS': 3, 'MEWS': 3, 'qSOFA': 0, 'Person ID': 228}
+{'NEWS': 9, 'MEWS': 4, 'qSOFA': 2, 'Person ID': 229}
+{'NEWS': 8, 'MEWS': 7, 'qSOFA': 0, 'Person ID': 230}
+{'NEWS': 6, 'MEWS': 4, 'qSOFA': 0, 'Person ID': 231}
+{'NEWS': 5, 'qSOFA': 1, 'Person ID': 232}
+{'NEWS': 2, 'MEWS': 6, 'qSOFA': 0, 'Person ID': 233}
+{'NEWS': 0, 'MEWS': 1, 'qSOFA': 0, 'Person ID': 234}
+{'NEWS': 1, 'MEWS': 2, 'qSOFA': 0, 'Person ID': 235}
+{'Person ID': 236}
+{'NEWS': 0, 'MEWS': 0, 'qSOFA': 0, 'Person ID': 237}
+{'NEWS': 3, 'qSOFA': 1, 'Person ID': 238}
+{'NEWS': 6, 'MEWS': 6, 'qSOFA': 0, 'Person ID': 239}
+{'NEWS': 3, 'MEWS': 2, 'qSOFA': 1, 'Person ID': 240}
+{'NEWS': 1, 'MEWS': 7, 'qSOFA': 0, 'Person ID': 241}
+{'NEWS': 5, 'MEWS': 4, 'qSOFA': 1, 'Person ID': 242}
+{'NEWS': 2, 'MEWS': 2, 'qSOFA': 0, 'Person ID': 243}
+{'NEWS': 4, 'qSOFA': 0, 'Person ID': 244}
+{'NEWS': 3, 'MEWS': 4, 'qSOFA': 0, 'Person ID': 245}
+{'NEWS': 3, 'qSOFA': 0, 'Person ID': 246}
+{'NEWS': 3, 'MEWS': 2, 'qSOFA': 0, 'Person ID': 247}
+{'qSOFA': 0, 'Person ID': 248}
+{'NEWS': 3, 'MEWS': 2, 'qSOFA': 0, 'Person ID': 249}
+{'NEWS': 8, 'MEWS': 7, 'qSOFA': 1, 'Person ID': 250}
+{'NEWS': 1, 'MEWS': 3, 'qSOFA': 0, 'Person ID': 251}
+{'NEWS': 2, 'MEWS': 6, 'qSOFA': 0, 'Person ID': 252}
+{'NEWS': 6, 'MEWS': 6, 'qSOFA': 1, 'Person ID': 253}
+{'NEWS': 1, 'MEWS': 2, 'qSOFA': 0, 'Person ID': 254}
+{'NEWS': 5, 'MEWS': 5, 'qSOFA': 0, 'Person ID': 255}
+{'NEWS': 3, 'MEWS': 2, 'qSOFA': 0, 'Person ID': 256}
+{'NEWS': 6, 'MEWS': 6, 'qSOFA': 0, 'Person ID': 257}
+{'NEWS': 0, 'MEWS': 1, 'qSOFA': 0, 'Person ID': 258}
+{'NEWS': 4, 'MEWS': 3, 'qSOFA': 0, 'Person ID': 259}
+{'Person ID': 260}
+{'NEWS': 2, 'MEWS': 5, 'qSOFA': 0, 'Person ID': 261}
+{'NEWS': 5, 'MEWS': 2, 'qSOFA': 1, 'Person ID': 262}
+{'Person ID': 263}
+{'Person ID': 264}
+{'NEWS': 6, 'MEWS': 4, 'qSOFA': 0, 'Person ID': 265}
+{'NEWS': 3, 'MEWS': 2, 'qSOFA': 1, 'Person ID': 266}
+{'NEWS': 7, 'MEWS': 6, 'qSOFA': 1, 'Person ID': 267}
+{'qSOFA': 0, 'Person ID': 268}
+{'NEWS': 6, 'MEWS': 3, 'qSOFA': 1, 'Person ID': 269}
+{'qSOFA': 0, 'Person ID': 270}
+{'NEWS': 6, 'MEWS': 2, 'qSOFA': 0, 'Person ID': 271}
+{'Person ID': 272}
+{'NEWS': 6, 'MEWS': 4, 'qSOFA': 0, 'Person ID': 273}
+{'NEWS': 3, 'MEWS': 2, 'qSOFA': 1, 'Person ID': 274}
+{'NEWS': 0, 'MEWS': 2, 'qSOFA': 0, 'Person ID': 275}
+{'NEWS': 4, 'MEWS': 4, 'qSOFA': 0, 'Person ID': 276}
+{'NEWS': 3, 'MEWS': 2, 'qSOFA': 0, 'Person ID': 277}
+{'NEWS': 8, 'MEWS': 5, 'qSOFA': 1, 'Person ID': 278}
+{'NEWS': 8, 'MEWS': 8, 'qSOFA': 1, 'Person ID': 279}
+{'qSOFA': 0, 'Person ID': 280}
+{'Person ID': 281}
+{'NEWS': 5, 'MEWS': 3, 'qSOFA': 0, 'Person ID': 282}
+{'NEWS': 4, 'MEWS': 3, 'qSOFA': 1, 'Person ID': 283}
+{'qSOFA': 0, 'Person ID': 284}
+{'Person ID': 285}
+{'NEWS': 4, 'MEWS': 6, 'qSOFA': 0, 'Person ID': 286}
+{'NEWS': 2, 'MEWS': 0, 'qSOFA': 0, 'Person ID': 287}
+{'NEWS': 5, 'qSOFA': 0, 'Person ID': 288}
+{'NEWS': 7, 'MEWS': 4, 'qSOFA': 2, 'Person ID': 289}
+{'qSOFA': 2, 'Person ID': 290}
+{'NEWS': 6, 'MEWS': 5, 'qSOFA': 1, 'Person ID': 291}
+{'NEWS': 4, 'MEWS': 3, 'qSOFA': 1, 'Person ID': 292}
+{'NEWS': 1, 'MEWS': 3, 'qSOFA': 0, 'Person ID': 293}
+{'Person ID': 294}
+{'NEWS': 8, 'MEWS': 8, 'qSOFA': 2, 'Person ID': 295}
+{'NEWS': 0, 'MEWS': 1, 'qSOFA': 0, 'Person ID': 296}
+{'NEWS': 7, 'MEWS': 6, 'qSOFA': 1, 'Person ID': 297}
+{'qSOFA': 1, 'Person ID': 298}
+{'NEWS': 3, 'MEWS': 2, 'qSOFA': 0, 'Person ID': 299}
+{'NEWS': 1, 'MEWS': 1, 'qSOFA': 0, 'Person ID': 300}
+{'MEWS': 0, 'qSOFA': 0, 'Person ID': 301}
+{'NEWS': 3, 'qSOFA': 0, 'Person ID': 302}
+{'NEWS': 7, 'MEWS': 6, 'qSOFA': 0, 'Person ID': 303}
+{'NEWS': 2, 'MEWS': 4, 'qSOFA': 0, 'Person ID': 304}
+{'NEWS': 1, 'MEWS': 1, 'qSOFA': 0, 'Person ID': 305}
+{'Person ID': 306}
+{'NEWS': 6, 'MEWS': 4, 'qSOFA': 0, 'Person ID': 307}
+{'NEWS': 3, 'MEWS': 0, 'qSOFA': 0, 'Person ID': 308}
+{'NEWS': 4, 'MEWS': 4, 'qSOFA': 0, 'Person ID': 309}
+{'NEWS': 2, 'MEWS': 8, 'qSOFA': 0, 'Person ID': 310}
+{'NEWS': 5, 'MEWS': 3, 'qSOFA': 2, 'Person ID': 311}
+{'NEWS': 9, 'MEWS': 4, 'qSOFA': 0, 'Person ID': 312}
+{'Person ID': 313}
+{'NEWS': 0, 'MEWS': 1, 'qSOFA': 0, 'Person ID': 314}
+{'qSOFA': 0, 'Person ID': 315}
+{'NEWS': 1, 'qSOFA': 0, 'Person ID': 316}
+{'Person ID': 317}
+{'NEWS': 5, 'MEWS': 6, 'qSOFA': 1, 'Person ID': 318}
+{'MEWS': 3, 'qSOFA': 1, 'Person ID': 319}
+{'Person ID': 320}
+{'NEWS': 0, 'qSOFA': 0, 'Person ID': 321}
+{'NEWS': 2, 'MEWS': 4, 'qSOFA': 0, 'Person ID': 322}
+{'NEWS': 8, 'MEWS': 6, 'qSOFA': 0, 'Person ID': 323}
+{'NEWS': 5, 'MEWS': 4, 'qSOFA': 0, 'Person ID': 324}
+{'NEWS': 3, 'MEWS': 5, 'qSOFA': 1, 'Person ID': 325}
+{'Person ID': 326}
+{'Person ID': 327}
+{'NEWS': 6, 'MEWS': 1, 'qSOFA': 0, 'Person ID': 328}
+{'NEWS': 3, 'MEWS': 2, 'qSOFA': 1, 'Person ID': 329}
+{'NEWS': 8, 'MEWS': 4, 'qSOFA': 0, 'Person ID': 330}
+{'NEWS': 7, 'MEWS': 5, 'qSOFA': 2, 'Person ID': 331}
+{'Person ID': 332}
+{'NEWS': 8, 'qSOFA': 0, 'Person ID': 333}
+{'NEWS': 4, 'MEWS': 2, 'qSOFA': 0, 'Person ID': 334}
+{'NEWS': 0, 'MEWS': 1, 'qSOFA': 0, 'Person ID': 335}
+{'NEWS': 4, 'MEWS': 2, 'qSOFA': 1, 'Person ID': 336}
+{'MEWS': 5, 'qSOFA': 0, 'Person ID': 337}
+{'NEWS': 5, 'MEWS': 4, 'qSOFA': 1, 'Person ID': 338}
+{'Person ID': 339}
+{'NEWS': 4, 'MEWS': 3, 'qSOFA': 0, 'Person ID': 340}
+{'NEWS': 0, 'MEWS': 1, 'qSOFA': 0, 'Person ID': 341}
+{'Person ID': 342}
+{'Person ID': 343}
+{'NEWS': 13, 'MEWS': 7, 'qSOFA': 1, 'Person ID': 344}
+{'Person ID': 345}
+{'NEWS': 3, 'MEWS': 3, 'qSOFA': 0, 'Person ID': 346}
+{'NEWS': 7, 'MEWS': 6, 'qSOFA': 2, 'Person ID': 347}
+{'NEWS': 3, 'MEWS': 1, 'qSOFA': 0, 'Person ID': 348}
+{'Person ID': 349}
+{'NEWS': 8, 'MEWS': 2, 'qSOFA': 1, 'Person ID': 350}
+{'Person ID': 351}
+{'NEWS': 2, 'MEWS': 3, 'qSOFA': 0, 'Person ID': 352}
+{'NEWS': 0, 'MEWS': 4, 'qSOFA': 0, 'Person ID': 353}
+{'NEWS': 8, 'MEWS': 3, 'qSOFA': 0, 'Person ID': 354}
+{'NEWS': 2, 'MEWS': 2, 'qSOFA': 0, 'Person ID': 355}
+{'NEWS': 3, 'MEWS': 2, 'qSOFA': 0, 'Person ID': 356}
+{'NEWS': 3, 'MEWS': 2, 'qSOFA': 0, 'Person ID': 357}
+{'NEWS': 2, 'MEWS': 2, 'qSOFA': 0, 'Person ID': 358}
+{'NEWS': 1, 'MEWS': 0, 'qSOFA': 0, 'Person ID': 359}
+{'Person ID': 360}
+{'NEWS': 12, 'qSOFA': 1, 'Person ID': 361}
+{'NEWS': 1, 'MEWS': 2, 'qSOFA': 0, 'Person ID': 362}
+{'MEWS': 4, 'qSOFA': 1, 'Person ID': 363}
+{'NEWS': 4, 'MEWS': 2, 'qSOFA': 1, 'Person ID': 364}
+{'Person ID': 365}
+{'Person ID': 366}
+{'NEWS': 1, 'MEWS': 4, 'qSOFA': 0, 'Person ID': 367}
+{'NEWS': 8, 'MEWS': 6, 'qSOFA': 2, 'Person ID': 368}
+{'NEWS': 5, 'MEWS': 4, 'qSOFA': 0, 'Person ID': 369}
+{'NEWS': 0, 'MEWS': 1, 'qSOFA': 0, 'Person ID': 370}
+{'NEWS': 8, 'MEWS': 4, 'qSOFA': 0, 'Person ID': 371}
+{'qSOFA': 1, 'Person ID': 372}
+{'NEWS': 0, 'MEWS': 1, 'qSOFA': 0, 'Person ID': 373}
+{'Person ID': 374}
+{'NEWS': 2, 'MEWS': 1, 'qSOFA': 0, 'Person ID': 375}
+{'NEWS': 4, 'MEWS': 3, 'qSOFA': 1, 'Person ID': 376}
+{'NEWS': 0, 'MEWS': 1, 'qSOFA': 0, 'Person ID': 377}
+{'NEWS': 0, 'MEWS': 2, 'qSOFA': 0, 'Person ID': 378}
+{'NEWS': 1, 'MEWS': 2, 'qSOFA': 0, 'Person ID': 379}
+{'Person ID': 380}
+{'qSOFA': 0, 'Person ID': 381}
+{'NEWS': 3, 'MEWS': 3, 'qSOFA': 0, 'Person ID': 382}
+{'NEWS': 5, 'MEWS': 5, 'qSOFA': 1, 'Person ID': 383}
+{'NEWS': 8, 'MEWS': 2, 'qSOFA': 0, 'Person ID': 384}
+{'NEWS': 0, 'MEWS': 1, 'qSOFA': 0, 'Person ID': 385}
+{'Person ID': 386}
+{'qSOFA': 0, 'Person ID': 387}
+{'NEWS': 6, 'MEWS': 5, 'qSOFA': 0, 'Person ID': 388}
+{'NEWS': 0, 'MEWS': 3, 'qSOFA': 0, 'Person ID': 389}
+{'NEWS': 3, 'MEWS': 4, 'qSOFA': 0, 'Person ID': 390}
+{'NEWS': 3, 'MEWS': 4, 'qSOFA': 0, 'Person ID': 391}
+{'NEWS': 1, 'MEWS': 0, 'qSOFA': 0, 'Person ID': 392}
+{'qSOFA': 0, 'Person ID': 393}
+{'MEWS': 2, 'qSOFA': 1, 'Person ID': 394}
+{'qSOFA': 0, 'Person ID': 395}
+{'NEWS': 8, 'MEWS': 7, 'qSOFA': 2, 'Person ID': 396}
+{'NEWS': 4, 'MEWS': 4, 'qSOFA': 1, 'Person ID': 397}
+{'MEWS': 4, 'qSOFA': 0, 'Person ID': 398}
+{'Person ID': 399}
+{'NEWS': 0, 'MEWS': 1, 'qSOFA': 0, 'Person ID': 400}
+{'NEWS': 2, 'MEWS': 2, 'qSOFA': 0, 'Person ID': 401}
+{'Person ID': 402}
+{'NEWS': 3, 'MEWS': 2, 'qSOFA': 1, 'Person ID': 403}
+{'NEWS': 3, 'MEWS': 2, 'qSOFA': 1, 'Person ID': 404}
+{'Person ID': 405}
+{'NEWS': 3, 'MEWS': 4, 'qSOFA': 0, 'Person ID': 406}
+{'NEWS': 4, 'MEWS': 3, 'qSOFA': 0, 'Person ID': 407}
+{'qSOFA': 0, 'Person ID': 408}
+{'NEWS': 2, 'MEWS': 4, 'qSOFA': 0, 'Person ID': 409}
+{'NEWS': 5, 'MEWS': 0, 'qSOFA': 0, 'Person ID': 410}
+{'NEWS': 6, 'MEWS': 4, 'qSOFA': 0, 'Person ID': 411}
+{'NEWS': 1, 'MEWS': 2, 'qSOFA': 0, 'Person ID': 412}
+{'NEWS': 3, 'MEWS': 5, 'qSOFA': 0, 'Person ID': 413}
+{'NEWS': 5, 'MEWS': 5, 'qSOFA': 0, 'Person ID': 414}
+{'NEWS': 4, 'MEWS': 3, 'qSOFA': 1, 'Person ID': 415}
+{'NEWS': 13, 'MEWS': 8, 'qSOFA': 3, 'Person ID': 416}
+{'NEWS': 1, 'MEWS': 2, 'qSOFA': 0, 'Person ID': 417}
+{'NEWS': 4, 'MEWS': 5, 'qSOFA': 0, 'Person ID': 418}
+{'NEWS': 4, 'MEWS': 3, 'qSOFA': 0, 'Person ID': 419}
+{'NEWS': 0, 'MEWS': 1, 'qSOFA': 0, 'Person ID': 420}
+{'MEWS': 4, 'qSOFA': 0, 'Person ID': 421}
+{'NEWS': 11, 'MEWS': 6, 'qSOFA': 0, 'Person ID': 422}
+{'NEWS': 1, 'MEWS': 3, 'qSOFA': 0, 'Person ID': 423}
+{'NEWS': 5, 'MEWS': 5, 'qSOFA': 0, 'Person ID': 424}
+{'NEWS': 3, 'MEWS': 4, 'qSOFA': 0, 'Person ID': 425}
+{'NEWS': 6, 'MEWS': 2, 'qSOFA': 0, 'Person ID': 426}
+{'NEWS': 1, 'MEWS': 1, 'qSOFA': 0, 'Person ID': 427}
+{'NEWS': 2, 'MEWS': 4, 'qSOFA': 1, 'Person ID': 428}
+{'NEWS': 7, 'MEWS': 8, 'qSOFA': 1, 'Person ID': 429}
+{'NEWS': 1, 'MEWS': 5, 'qSOFA': 0, 'Person ID': 430}
+{'NEWS': 4, 'MEWS': 2, 'qSOFA': 1, 'Person ID': 431}
+{'NEWS': 5, 'MEWS': 2, 'qSOFA': 0, 'Person ID': 432}
+{'NEWS': 6, 'MEWS': 6, 'qSOFA': 0, 'Person ID': 433}
+{'NEWS': 2, 'MEWS': 2, 'qSOFA': 1, 'Person ID': 434}
+{'NEWS': 8, 'MEWS': 6, 'qSOFA': 1, 'Person ID': 435}
+{'qSOFA': 0, 'Person ID': 436}
+{'NEWS': 0, 'MEWS': 0, 'qSOFA': 0, 'Person ID': 437}
+{'NEWS': 3, 'MEWS': 2, 'qSOFA': 1, 'Person ID': 438}
+{'NEWS': 6, 'MEWS': 8, 'qSOFA': 1, 'Person ID': 439}
+{'Person ID': 440}
+{'NEWS': 3, 'MEWS': 4, 'qSOFA': 0, 'Person ID': 441}
+{'Person ID': 442}
+{'NEWS': 10, 'MEWS': 4, 'qSOFA': 0, 'Person ID': 443}
+{'qSOFA': 1, 'Person ID': 444}
+{'NEWS': 12, 'MEWS': 5, 'qSOFA': 2, 'Person ID': 445}
+{'NEWS': 0, 'MEWS': 1, 'qSOFA': 0, 'Person ID': 446}
+{'NEWS': 0, 'qSOFA': 0, 'Person ID': 447}
+{'NEWS': 0, 'MEWS': 1, 'qSOFA': 0, 'Person ID': 448}
+{'NEWS': 2, 'MEWS': 2, 'qSOFA': 0, 'Person ID': 449}
+{'NEWS': 3, 'MEWS': 5, 'qSOFA': 0, 'Person ID': 450}
+{'NEWS': 5, 'MEWS': 5, 'qSOFA': 1, 'Person ID': 451}
+{'qSOFA': 0, 'Person ID': 452}
+{'MEWS': 0, 'qSOFA': 0, 'Person ID': 453}
+{'NEWS': 5, 'MEWS': 4, 'qSOFA': 1, 'Person ID': 454}
+{'NEWS': 4, 'MEWS': 2, 'qSOFA': 0, 'Person ID': 455}
+{'NEWS': 8, 'MEWS': 3, 'qSOFA': 0, 'Person ID': 456}
+{'NEWS': 2, 'MEWS': 3, 'qSOFA': 0, 'Person ID': 457}
+{'NEWS': 4, 'MEWS': 3, 'qSOFA': 0, 'Person ID': 458}
+{'NEWS': 4, 'MEWS': 2, 'qSOFA': 0, 'Person ID': 459}
+{'NEWS': 9, 'MEWS': 3, 'qSOFA': 0, 'Person ID': 460}
+{'NEWS': 8, 'MEWS': 2, 'qSOFA': 1, 'Person ID': 461}
+{'NEWS': 3, 'MEWS': 4, 'qSOFA': 0, 'Person ID': 462}
+{'NEWS': 10, 'MEWS': 4, 'qSOFA': 1, 'Person ID': 463}
+{'NEWS': 0, 'MEWS': 0, 'qSOFA': 0, 'Person ID': 464}
+{'Person ID': 465}
+{'qSOFA': 0, 'Person ID': 466}
+{'NEWS': 0, 'MEWS': 1, 'qSOFA': 0, 'Person ID': 467}
+{'NEWS': 6, 'MEWS': 5, 'qSOFA': 0, 'Person ID': 468}
+{'NEWS': 3, 'MEWS': 2, 'qSOFA': 1, 'Person ID': 469}
+{'NEWS': 3, 'MEWS': 2, 'qSOFA': 1, 'Person ID': 470}
+{'NEWS': 7, 'MEWS': 0, 'qSOFA': 0, 'Person ID': 471}
+{'NEWS': 4, 'qSOFA': 1, 'Person ID': 472}
+{'NEWS': 7, 'MEWS': 5, 'qSOFA': 0, 'Person ID': 473}
+{'qSOFA': 1, 'Person ID': 474}
+{'NEWS': 1, 'MEWS': 5, 'qSOFA': 0, 'Person ID': 475}
+{'Person ID': 476}
+{'NEWS': 14, 'MEWS': 6, 'qSOFA': 1, 'Person ID': 477}
+{'NEWS': 6, 'MEWS': 0, 'qSOFA': 0, 'Person ID': 478}
+{'NEWS': 5, 'MEWS': 5, 'qSOFA': 0, 'Person ID': 479}
+{'NEWS': 3, 'MEWS': 3, 'qSOFA': 0, 'Person ID': 480}
+{'NEWS': 1, 'MEWS': 2, 'qSOFA': 0, 'Person ID': 481}
+{'NEWS': 6, 'MEWS': 6, 'qSOFA': 2, 'Person ID': 482}
+{'NEWS': 4, 'MEWS': 7, 'qSOFA': 1, 'Person ID': 483}
+{'NEWS': 6, 'MEWS': 3, 'qSOFA': 1, 'Person ID': 484}
+{'NEWS': 5, 'MEWS': 1, 'qSOFA': 0, 'Person ID': 485}
+{'NEWS': 0, 'MEWS': 3, 'qSOFA': 0, 'Person ID': 486}
+{'NEWS': 2, 'MEWS': 1, 'qSOFA': 1, 'Person ID': 487}
+{'NEWS': 6, 'MEWS': 6, 'qSOFA': 0, 'Person ID': 488}
+{'Person ID': 489}
+{'NEWS': 9, 'MEWS': 4, 'qSOFA': 0, 'Person ID': 490}
+{'Person ID': 491}
+{'NEWS': 4, 'MEWS': 2, 'qSOFA': 0, 'Person ID': 492}
+{'qSOFA': 0, 'Person ID': 493}
+{'NEWS': 12, 'MEWS': 4, 'qSOFA': 1, 'Person ID': 494}
+{'NEWS': 9, 'MEWS': 4, 'qSOFA': 1, 'Person ID': 495}
+{'Person ID': 496}
+{'NEWS': 6, 'MEWS': 5, 'qSOFA': 0, 'Person ID': 497}
+{'NEWS': 1, 'MEWS': 1, 'qSOFA': 0, 'Person ID': 498}
+{'MEWS': 3, 'qSOFA': 1, 'Person ID': 499}
+{'NEWS': 6, 'MEWS': 3, 'qSOFA': 0, 'Person ID': 500}
+{'NEWS': 6, 'MEWS': 7, 'qSOFA': 1, 'Person ID': 501}
+{'NEWS': 3, 'MEWS': 1, 'qSOFA': 0, 'Person ID': 502}
+{'NEWS': 5, 'MEWS': 3, 'qSOFA': 0, 'Person ID': 503}
+{'NEWS': 4, 'MEWS': 2, 'qSOFA': 1, 'Person ID': 504}
+{'qSOFA': 0, 'Person ID': 505}
+{'NEWS': 3, 'MEWS': 2, 'qSOFA': 1, 'Person ID': 506}
+{'qSOFA': 0, 'Person ID': 507}
+{'NEWS': 2, 'MEWS': 5, 'qSOFA': 0, 'Person ID': 508}
+{'qSOFA': 0, 'Person ID': 509}
+{'NEWS': 6, 'qSOFA': 0, 'Person ID': 510}
+{'qSOFA': 0, 'Person ID': 511}
+{'NEWS': 9, 'MEWS': 5, 'qSOFA': 0, 'Person ID': 512}
+{'NEWS': 3, 'MEWS': 3, 'qSOFA': 0, 'Person ID': 513}
+{'NEWS': 3, 'MEWS': 2, 'qSOFA': 1, 'Person ID': 514}
+{'NEWS': 1, 'MEWS': 2, 'qSOFA': 0, 'Person ID': 515}
+{'NEWS': 2, 'qSOFA': 0, 'Person ID': 516}
+{'NEWS': 0, 'MEWS': 1, 'qSOFA': 0, 'Person ID': 517}
+{'NEWS': 3, 'MEWS': 4, 'qSOFA': 0, 'Person ID': 518}
+{'NEWS': 4, 'MEWS': 3, 'qSOFA': 0, 'Person ID': 519}
+{'NEWS': 4, 'MEWS': 6, 'qSOFA': 0, 'Person ID': 520}
+{'NEWS': 2, 'MEWS': 4, 'qSOFA': 0, 'Person ID': 521}
+{'NEWS': 4, 'qSOFA': 0, 'Person ID': 522}
+{'NEWS': 6, 'MEWS': 2, 'qSOFA': 0, 'Person ID': 523}
+{'Person ID': 524}
+{'NEWS': 1, 'MEWS': 2, 'qSOFA': 0, 'Person ID': 525}
+{'NEWS': 8, 'MEWS': 4, 'qSOFA': 1, 'Person ID': 526}
+{'NEWS': 3, 'MEWS': 2, 'qSOFA': 1, 'Person ID': 527}
+{'NEWS': 1, 'MEWS': 3, 'qSOFA': 0, 'Person ID': 528}
+{'NEWS': 2, 'MEWS': 2, 'qSOFA': 1, 'Person ID': 529}
+{'Person ID': 530}
+{'NEWS': 8, 'MEWS': 8, 'qSOFA': 0, 'Person ID': 531}
+{'NEWS': 6, 'MEWS': 5, 'qSOFA': 2, 'Person ID': 532}
+{'NEWS': 5, 'qSOFA': 2, 'Person ID': 533}
+{'Person ID': 534}
+{'Person ID': 535}
+{'NEWS': 4, 'MEWS': 4, 'qSOFA': 0, 'Person ID': 536}
+{'NEWS': 7, 'MEWS': 4, 'qSOFA': 1, 'Person ID': 537}
+{'NEWS': 3, 'MEWS': 0, 'qSOFA': 0, 'Person ID': 538}
+{'NEWS': 5, 'MEWS': 4, 'qSOFA': 0, 'Person ID': 539}
+{'NEWS': 6, 'MEWS': 0, 'qSOFA': 0, 'Person ID': 540}
+{'NEWS': 3, 'MEWS': 2, 'qSOFA': 0, 'Person ID': 541}
+{'Person ID': 542}
+{'qSOFA': 0, 'Person ID': 543}
+{'NEWS': 5, 'MEWS': 5, 'qSOFA': 1, 'Person ID': 544}
+{'NEWS': 1, 'MEWS': 0, 'qSOFA': 0, 'Person ID': 545}
+{'NEWS': 5, 'MEWS': 1, 'qSOFA': 0, 'Person ID': 546}
+{'NEWS': 0, 'MEWS': 0, 'qSOFA': 0, 'Person ID': 547}
+{'NEWS': 7, 'MEWS': 2, 'qSOFA': 0, 'Person ID': 548}
+{'NEWS': 4, 'MEWS': 4, 'qSOFA': 0, 'Person ID': 549}
+{'NEWS': 2, 'MEWS': 1, 'qSOFA': 0, 'Person ID': 550}
+{'NEWS': 7, 'MEWS': 5, 'qSOFA': 0, 'Person ID': 551}
+{'NEWS': 5, 'MEWS': 4, 'qSOFA': 0, 'Person ID': 552}
+{'NEWS': 4, 'qSOFA': 1, 'Person ID': 553}
+{'NEWS': 11, 'MEWS': 6, 'qSOFA': 1, 'Person ID': 554}
+{'NEWS': 4, 'MEWS': 5, 'qSOFA': 1, 'Person ID': 555}
+{'NEWS': 1, 'MEWS': 2, 'qSOFA': 0, 'Person ID': 556}
+{'NEWS': 5, 'MEWS': 2, 'qSOFA': 1, 'Person ID': 557}
+{'MEWS': 5, 'qSOFA': 1, 'Person ID': 558}
+{'NEWS': 6, 'MEWS': 4, 'qSOFA': 1, 'Person ID': 559}
+{'NEWS': 5, 'MEWS': 3, 'qSOFA': 1, 'Person ID': 560}
+{'NEWS': 8, 'MEWS': 6, 'qSOFA': 2, 'Person ID': 561}
+{'Person ID': 562}
+{'NEWS': 11, 'MEWS': 4, 'qSOFA': 1, 'Person ID': 563}
+{'Person ID': 564}
+{'NEWS': 3, 'MEWS': 0, 'qSOFA': 0, 'Person ID': 565}
+{'NEWS': 0, 'MEWS': 0, 'qSOFA': 0, 'Person ID': 566}
+{'NEWS': 1, 'MEWS': 2, 'qSOFA': 0, 'Person ID': 567}
+{'NEWS': 5, 'MEWS': 5, 'qSOFA': 0, 'Person ID': 568}
+{'NEWS': 3, 'MEWS': 3, 'qSOFA': 0, 'Person ID': 569}
+{'NEWS': 1, 'MEWS': 1, 'qSOFA': 0, 'Person ID': 570}
+{'NEWS': 0, 'MEWS': 1, 'qSOFA': 0, 'Person ID': 571}
+{'qSOFA': 0, 'Person ID': 572}
+{'NEWS': 6, 'MEWS': 2, 'qSOFA': 0, 'Person ID': 573}
+{'NEWS': 4, 'MEWS': 3, 'qSOFA': 1, 'Person ID': 574}
+{'Person ID': 575}
+{'NEWS': 4, 'MEWS': 2, 'qSOFA': 0, 'Person ID': 576}
+{'NEWS': 2, 'MEWS': 3, 'qSOFA': 0, 'Person ID': 577}
+{'NEWS': 3, 'MEWS': 4, 'qSOFA': 0, 'Person ID': 578}
+{'NEWS': 0, 'MEWS': 1, 'qSOFA': 0, 'Person ID': 579}
+{'Person ID': 580}
+{'NEWS': 3, 'MEWS': 7, 'qSOFA': 1, 'Person ID': 581}
+{'NEWS': 6, 'MEWS': 1, 'qSOFA': 0, 'Person ID': 582}
+{'NEWS': 3, 'MEWS': 6, 'qSOFA': 0, 'Person ID': 583}
+{'NEWS': 1, 'MEWS': 2, 'qSOFA': 0, 'Person ID': 584}
+{'NEWS': 8, 'MEWS': 6, 'qSOFA': 1, 'Person ID': 585}
+{'Person ID': 586}
+{'NEWS': 5, 'MEWS': 4, 'qSOFA': 1, 'Person ID': 587}
+{'qSOFA': 0, 'Person ID': 588}
+{'MEWS': 3, 'qSOFA': 0, 'Person ID': 589}
+{'NEWS': 4, 'MEWS': 6, 'qSOFA': 1, 'Person ID': 590}
+{'NEWS': 1, 'MEWS': 4, 'qSOFA': 0, 'Person ID': 591}
+{'NEWS': 3, 'MEWS': 4, 'qSOFA': 0, 'Person ID': 592}
+{'NEWS': 4, 'MEWS': 3, 'qSOFA': 0, 'Person ID': 593}
+{'NEWS': 2, 'MEWS': 0, 'qSOFA': 0, 'Person ID': 594}
+{'NEWS': 8, 'MEWS': 2, 'qSOFA': 1, 'Person ID': 595}
+{'NEWS': 4, 'MEWS': 3, 'qSOFA': 1, 'Person ID': 596}
+{'NEWS': 3, 'MEWS': 2, 'qSOFA': 0, 'Person ID': 597}
+{'MEWS': 3, 'qSOFA': 0, 'Person ID': 598}
+{'NEWS': 3, 'MEWS': 6, 'qSOFA': 0, 'Person ID': 599}
+{'NEWS': 10, 'MEWS': 5, 'qSOFA': 1, 'Person ID': 600}
+{'qSOFA': 0, 'Person ID': 601}
+{'NEWS': 2, 'MEWS': 3, 'qSOFA': 0, 'Person ID': 602}
+{'NEWS': 9, 'MEWS': 5, 'qSOFA': 0, 'Person ID': 603}
+{'NEWS': 2, 'MEWS': 2, 'qSOFA': 0, 'Person ID': 604}
+{'MEWS': 1, 'qSOFA': 0, 'Person ID': 605}
+{'NEWS': 9, 'MEWS': 7, 'qSOFA': 1, 'Person ID': 606}
+{'NEWS': 6, 'MEWS': 6, 'qSOFA': 1, 'Person ID': 607}
+{'Person ID': 608}
+{'NEWS': 5, 'MEWS': 8, 'qSOFA': 0, 'Person ID': 609}
+{'NEWS': 3, 'MEWS': 4, 'qSOFA': 0, 'Person ID': 610}
+{'NEWS': 7, 'MEWS': 2, 'qSOFA': 0, 'Person ID': 611}
+{'NEWS': 0, 'MEWS': 1, 'qSOFA': 0, 'Person ID': 612}
+{'MEWS': 3, 'qSOFA': 1, 'Person ID': 613}
+{'NEWS': 8, 'MEWS': 2, 'qSOFA': 0, 'Person ID': 614}
+{'NEWS': 3, 'MEWS': 4, 'qSOFA': 0, 'Person ID': 615}
+{'NEWS': 5, 'MEWS': 4, 'qSOFA': 1, 'Person ID': 616}
+{'NEWS': 1, 'MEWS': 3, 'qSOFA': 0, 'Person ID': 617}
+{'NEWS': 3, 'MEWS': 2, 'qSOFA': 1, 'Person ID': 618}
+{'NEWS': 0, 'MEWS': 1, 'qSOFA': 0, 'Person ID': 619}
+{'Person ID': 620}
+{'NEWS': 5, 'MEWS': 5, 'qSOFA': 1, 'Person ID': 621}
+{'NEWS': 5, 'MEWS': 3, 'qSOFA': 1, 'Person ID': 622}
+{'NEWS': 8, 'MEWS': 8, 'qSOFA': 2, 'Person ID': 623}
+{'NEWS': 11, 'MEWS': 8, 'qSOFA': 1, 'Person ID': 624}
+{'NEWS': 8, 'qSOFA': 1, 'Person ID': 625}
+{'NEWS': 7, 'MEWS': 5, 'qSOFA': 0, 'Person ID': 626}
+{'NEWS': 3, 'MEWS': 2, 'qSOFA': 0, 'Person ID': 627}
+{'NEWS': 12, 'MEWS': 5, 'qSOFA': 2, 'Person ID': 628}
+{'NEWS': 1, 'MEWS': 1, 'qSOFA': 0, 'Person ID': 629}
+{'NEWS': 0, 'MEWS': 6, 'qSOFA': 0, 'Person ID': 630}
+{'NEWS': 3, 'MEWS': 3, 'qSOFA': 0, 'Person ID': 631}
+{'Person ID': 632}
+{'NEWS': 5, 'MEWS': 4, 'qSOFA': 1, 'Person ID': 633}
+{'NEWS': 3, 'MEWS': 5, 'qSOFA': 0, 'Person ID': 634}
+{'qSOFA': 0, 'Person ID': 635}
+{'qSOFA': 1, 'Person ID': 636}
+{'NEWS': 2, 'MEWS': 4, 'qSOFA': 0, 'Person ID': 637}
+{'Person ID': 638}
+{'NEWS': 0, 'MEWS': 1, 'qSOFA': 0, 'Person ID': 639}
+{'NEWS': 0, 'MEWS': 0, 'qSOFA': 0, 'Person ID': 640}
+{'NEWS': 3, 'MEWS': 2, 'qSOFA': 0, 'Person ID': 641}
+{'NEWS': 4, 'MEWS': 4, 'qSOFA': 1, 'Person ID': 642}
+{'qSOFA': 0, 'Person ID': 643}
+{'qSOFA': 0, 'Person ID': 644}
+{'NEWS': 7, 'MEWS': 4, 'qSOFA': 1, 'Person ID': 645}
+{'Person ID': 646}
+{'MEWS': 6, 'qSOFA': 0, 'Person ID': 647}
+{'NEWS': 4, 'MEWS': 3, 'qSOFA': 1, 'Person ID': 648}
+{'NEWS': 3, 'MEWS': 2, 'qSOFA': 0, 'Person ID': 649}
+{'NEWS': 4, 'MEWS': 8, 'qSOFA': 0, 'Person ID': 650}
+{'NEWS': 8, 'MEWS': 4, 'qSOFA': 1, 'Person ID': 651}
+{'Person ID': 652}
+{'NEWS': 7, 'MEWS': 3, 'qSOFA': 2, 'Person ID': 653}
+{'MEWS': 3, 'qSOFA': 0, 'Person ID': 654}
+{'NEWS': 2, 'MEWS': 1, 'qSOFA': 0, 'Person ID': 655}
+{'NEWS': 5, 'MEWS': 6, 'qSOFA': 1, 'Person ID': 656}
+{'qSOFA': 1, 'Person ID': 657}
+{'NEWS': 4, 'MEWS': 4, 'qSOFA': 1, 'Person ID': 658}
+{'NEWS': 6, 'qSOFA': 0, 'Person ID': 659}
+{'NEWS': 4, 'MEWS': 2, 'qSOFA': 0, 'Person ID': 660}
+{'Person ID': 661}
+{'Person ID': 662}
+{'NEWS': 3, 'MEWS': 4, 'qSOFA': 0, 'Person ID': 663}
+{'NEWS': 6, 'MEWS': 6, 'qSOFA': 1, 'Person ID': 664}
+{'NEWS': 9, 'MEWS': 6, 'qSOFA': 1, 'Person ID': 665}
+{'NEWS': 4, 'MEWS': 4, 'qSOFA': 1, 'Person ID': 666}
+{'NEWS': 5, 'MEWS': 2, 'qSOFA': 0, 'Person ID': 667}
+{'NEWS': 1, 'MEWS': 1, 'qSOFA': 0, 'Person ID': 668}
+{'NEWS': 6, 'MEWS': 4, 'qSOFA': 1, 'Person ID': 669}
+{'NEWS': 2, 'MEWS': 1, 'qSOFA': 0, 'Person ID': 670}
+{'NEWS': 5, 'MEWS': 6, 'qSOFA': 0, 'Person ID': 671}
+{'NEWS': 1, 'MEWS': 1, 'qSOFA': 0, 'Person ID': 672}
+{'Person ID': 673}
+{'NEWS': 1, 'MEWS': 0, 'qSOFA': 0, 'Person ID': 674}
+{'NEWS': 11, 'MEWS': 4, 'qSOFA': 1, 'Person ID': 675}
+{'qSOFA': 0, 'Person ID': 676}
+{'NEWS': 3, 'MEWS': 1, 'qSOFA': 0, 'Person ID': 677}
+{'Person ID': 678}
+{'NEWS': 1, 'MEWS': 1, 'qSOFA': 0, 'Person ID': 679}
+{'NEWS': 0, 'MEWS': 3, 'qSOFA': 0, 'Person ID': 680}
+{'NEWS': 6, 'MEWS': 5, 'qSOFA': 0, 'Person ID': 681}
+{'Person ID': 682}
+{'NEWS': 5, 'MEWS': 3, 'qSOFA': 0, 'Person ID': 683}
+{'NEWS': 2, 'MEWS': 4, 'qSOFA': 0, 'Person ID': 684}
+{'NEWS': 4, 'MEWS': 2, 'qSOFA': 0, 'Person ID': 685}
+{'Person ID': 686}
+{'NEWS': 4, 'MEWS': 2, 'qSOFA': 1, 'Person ID': 687}
+{'NEWS': 3, 'MEWS': 4, 'qSOFA': 0, 'Person ID': 688}
+{'NEWS': 1, 'MEWS': 1, 'qSOFA': 0, 'Person ID': 689}
+{'NEWS': 0, 'MEWS': 1, 'qSOFA': 0, 'Person ID': 690}
+{'NEWS': 1, 'MEWS': 1, 'qSOFA': 0, 'Person ID': 691}
+{'NEWS': 3, 'MEWS': 2, 'qSOFA': 1, 'Person ID': 692}
+{'Person ID': 693}
+{'NEWS': 2, 'MEWS': 2, 'qSOFA': 1, 'Person ID': 694}
+{'NEWS': 9, 'MEWS': 6, 'qSOFA': 2, 'Person ID': 695}
+{'NEWS': 1, 'MEWS': 2, 'qSOFA': 0, 'Person ID': 696}
+{'NEWS': 1, 'qSOFA': 0, 'Person ID': 697}
+{'NEWS': 0, 'MEWS': 1, 'qSOFA': 0, 'Person ID': 698}
+{'NEWS': 8, 'MEWS': 3, 'qSOFA': 0, 'Person ID': 699}
+{'NEWS': 5, 'MEWS': 6, 'qSOFA': 0, 'Person ID': 700}
+{'qSOFA': 0, 'Person ID': 701}
+{'NEWS': 2, 'MEWS': 0, 'qSOFA': 0, 'Person ID': 702}
+{'NEWS': 1, 'qSOFA': 0, 'Person ID': 703}
+{'Person ID': 704}
+{'MEWS': 4, 'qSOFA': 2, 'Person ID': 705}
+{'NEWS': 7, 'MEWS': 6, 'qSOFA': 0, 'Person ID': 706}
+{'NEWS': 6, 'MEWS': 6, 'qSOFA': 1, 'Person ID': 707}
+{'Person ID': 708}
+{'NEWS': 0, 'MEWS': 1, 'qSOFA': 0, 'Person ID': 709}
+{'Person ID': 710}
+{'NEWS': 7, 'MEWS': 6, 'qSOFA': 0, 'Person ID': 711}
+{'NEWS': 1, 'MEWS': 2, 'qSOFA': 0, 'Person ID': 712}
+{'MEWS': 7, 'qSOFA': 1, 'Person ID': 713}
+{'NEWS': 3, 'MEWS': 3, 'qSOFA': 1, 'Person ID': 714}
+{'NEWS': 0, 'MEWS': 1, 'qSOFA': 0, 'Person ID': 715}
+{'Person ID': 716}
+{'NEWS': 4, 'MEWS': 5, 'qSOFA': 0, 'Person ID': 717}
+{'NEWS': 3, 'MEWS': 3, 'qSOFA': 0, 'Person ID': 718}
+{'NEWS': 0, 'MEWS': 1, 'qSOFA': 0, 'Person ID': 719}
+{'NEWS': 5, 'MEWS': 4, 'qSOFA': 0, 'Person ID': 720}
+{'NEWS': 3, 'MEWS': 1, 'qSOFA': 1, 'Person ID': 721}
+{'qSOFA': 0, 'Person ID': 722}
+{'NEWS': 2, 'MEWS': 2, 'qSOFA': 0, 'Person ID': 723}
+{'Person ID': 724}
+{'NEWS': 10, 'MEWS': 5, 'qSOFA': 1, 'Person ID': 725}
+{'NEWS': 2, 'MEWS': 3, 'qSOFA': 0, 'Person ID': 726}
+{'NEWS': 0, 'MEWS': 2, 'qSOFA': 0, 'Person ID': 727}
+{'NEWS': 1, 'MEWS': 1, 'qSOFA': 0, 'Person ID': 728}
+{'NEWS': 6, 'MEWS': 5, 'qSOFA': 1, 'Person ID': 729}
+{'NEWS': 3, 'MEWS': 5, 'qSOFA': 0, 'Person ID': 730}
+{'NEWS': 5, 'MEWS': 4, 'qSOFA': 1, 'Person ID': 731}
+{'NEWS': 6, 'MEWS': 5, 'qSOFA': 0, 'Person ID': 732}
+{'NEWS': 1, 'MEWS': 1, 'qSOFA': 0, 'Person ID': 733}
+{'qSOFA': 0, 'Person ID': 734}
+{'NEWS': 1, 'MEWS': 1, 'qSOFA': 0, 'Person ID': 735}
+{'NEWS': 8, 'MEWS': 7, 'qSOFA': 2, 'Person ID': 736}
+{'NEWS': 2, 'MEWS': 3, 'qSOFA': 0, 'Person ID': 737}
+{'NEWS': 5, 'MEWS': 4, 'qSOFA': 0, 'Person ID': 738}
+{'NEWS': 5, 'MEWS': 3, 'qSOFA': 0, 'Person ID': 739}
+{'NEWS': 3, 'MEWS': 2, 'qSOFA': 0, 'Person ID': 740}
+{'NEWS': 1, 'MEWS': 2, 'qSOFA': 0, 'Person ID': 741}
+{'NEWS': 4, 'MEWS': 4, 'qSOFA': 1, 'Person ID': 742}
+{'NEWS': 5, 'MEWS': 5, 'qSOFA': 0, 'Person ID': 743}
+{'NEWS': 3, 'MEWS': 3, 'qSOFA': 1, 'Person ID': 744}
+{'Person ID': 745}
+{'NEWS': 8, 'MEWS': 6, 'qSOFA': 1, 'Person ID': 746}
+{'NEWS': 5, 'MEWS': 5, 'qSOFA': 1, 'Person ID': 747}
+{'NEWS': 3, 'MEWS': 2, 'qSOFA': 1, 'Person ID': 748}
+{'NEWS': 2, 'MEWS': 2, 'qSOFA': 0, 'Person ID': 749}
+{'Person ID': 750}
+{'NEWS': 5, 'MEWS': 4, 'qSOFA': 1, 'Person ID': 751}
+{'Person ID': 752}
+{'MEWS': 1, 'qSOFA': 0, 'Person ID': 753}
+{'Person ID': 754}
+{'Person ID': 755}
+{'qSOFA': 1, 'Person ID': 756}
+{'NEWS': 15, 'MEWS': 8, 'qSOFA': 2, 'Person ID': 757}
+{'qSOFA': 0, 'Person ID': 758}
+{'NEWS': 5, 'MEWS': 5, 'qSOFA': 0, 'Person ID': 759}
+{'NEWS': 2, 'MEWS': 4, 'qSOFA': 0, 'Person ID': 760}
+{'NEWS': 3, 'MEWS': 5, 'qSOFA': 0, 'Person ID': 761}
+{'Person ID': 762}
+{'NEWS': 1, 'MEWS': 1, 'qSOFA': 0, 'Person ID': 763}
+{'NEWS': 4, 'MEWS': 5, 'qSOFA': 0, 'Person ID': 764}
+{'NEWS': 1, 'MEWS': 1, 'qSOFA': 0, 'Person ID': 765}
+{'NEWS': 3, 'MEWS': 6, 'qSOFA': 0, 'Person ID': 766}
+{'NEWS': 2, 'MEWS': 5, 'qSOFA': 0, 'Person ID': 767}
+{'NEWS': 6, 'qSOFA': 0, 'Person ID': 768}
+{'NEWS': 0, 'MEWS': 1, 'qSOFA': 0, 'Person ID': 769}
+{'NEWS': 6, 'MEWS': 5, 'qSOFA': 0, 'Person ID': 770}
+{'Person ID': 771}
+{'NEWS': 4, 'MEWS': 8, 'qSOFA': 0, 'Person ID': 772}
+{'NEWS': 3, 'MEWS': 6, 'qSOFA': 1, 'Person ID': 773}
+{'Person ID': 774}
+{'MEWS': 3, 'qSOFA': 0, 'Person ID': 775}
+{'NEWS': 3, 'MEWS': 3, 'qSOFA': 0, 'Person ID': 776}
+{'NEWS': 0, 'qSOFA': 0, 'Person ID': 777}
+{'NEWS': 7, 'MEWS': 5, 'qSOFA': 0, 'Person ID': 778}
+{'NEWS': 5, 'MEWS': 2, 'qSOFA': 0, 'Person ID': 779}
+{'Person ID': 780}
+{'NEWS': 4, 'MEWS': 3, 'qSOFA': 0, 'Person ID': 781}
+{'NEWS': 5, 'MEWS': 5, 'qSOFA': 0, 'Person ID': 782}
+{'NEWS': 0, 'MEWS': 0, 'qSOFA': 0, 'Person ID': 783}
+{'NEWS': 1, 'qSOFA': 0, 'Person ID': 784}
+{'Person ID': 785}
+{'NEWS': 0, 'MEWS': 1, 'qSOFA': 0, 'Person ID': 786}
+{'qSOFA': 1, 'Person ID': 787}
+{'NEWS': 4, 'MEWS': 6, 'qSOFA': 0, 'Person ID': 788}
+{'NEWS': 4, 'MEWS': 3, 'qSOFA': 0, 'Person ID': 789}
+{'NEWS': 3, 'MEWS': 1, 'qSOFA': 0, 'Person ID': 790}
+{'qSOFA': 0, 'Person ID': 791}
+{'NEWS': 7, 'MEWS': 7, 'qSOFA': 0, 'Person ID': 792}
+{'NEWS': 7, 'MEWS': 3, 'qSOFA': 2, 'Person ID': 793}
+{'NEWS': 3, 'MEWS': 2, 'qSOFA': 0, 'Person ID': 794}
+{'NEWS': 1, 'MEWS': 2, 'qSOFA': 0, 'Person ID': 795}
+{'NEWS': 2, 'MEWS': 3, 'qSOFA': 0, 'Person ID': 796}
+{'NEWS': 3, 'MEWS': 2, 'qSOFA': 1, 'Person ID': 797}
+{'qSOFA': 0, 'Person ID': 798}
+{'NEWS': 2, 'MEWS': 3, 'qSOFA': 0, 'Person ID': 799}
+{'NEWS': 3, 'MEWS': 2, 'qSOFA': 1, 'Person ID': 800}
+{'NEWS': 3, 'MEWS': 3, 'qSOFA': 0, 'Person ID': 801}
+{'MEWS': 5, 'qSOFA': 0, 'Person ID': 802}
+{'NEWS': 1, 'MEWS': 3, 'qSOFA': 0, 'Person ID': 803}
+{'NEWS': 1, 'MEWS': 1, 'qSOFA': 0, 'Person ID': 804}
+{'NEWS': 3, 'MEWS': 3, 'qSOFA': 0, 'Person ID': 805}
+{'Person ID': 806}
+{'NEWS': 3, 'MEWS': 5, 'qSOFA': 0, 'Person ID': 807}
+{'NEWS': 2, 'MEWS': 1, 'qSOFA': 0, 'Person ID': 808}
+{'qSOFA': 1, 'Person ID': 809}
+{'Person ID': 810}
+{'NEWS': 6, 'MEWS': 4, 'qSOFA': 0, 'Person ID': 811}
+{'NEWS': 0, 'MEWS': 1, 'qSOFA': 0, 'Person ID': 812}
+{'NEWS': 7, 'MEWS': 6, 'qSOFA': 0, 'Person ID': 813}
+{'NEWS': 3, 'MEWS': 4, 'qSOFA': 1, 'Person ID': 814}
+{'NEWS': 0, 'MEWS': 1, 'qSOFA': 0, 'Person ID': 815}
+{'NEWS': 0, 'MEWS': 0, 'qSOFA': 0, 'Person ID': 816}
+{'NEWS': 2, 'MEWS': 1, 'qSOFA': 0, 'Person ID': 817}
+{'Person ID': 818}
+{'NEWS': 4, 'qSOFA': 0, 'Person ID': 819}
+{'NEWS': 5, 'MEWS': 8, 'qSOFA': 0, 'Person ID': 820}
+{'NEWS': 0, 'MEWS': 1, 'qSOFA': 0, 'Person ID': 821}
+{'NEWS': 0, 'MEWS': 1, 'qSOFA': 0, 'Person ID': 822}
+{'NEWS': 4, 'MEWS': 2, 'qSOFA': 0, 'Person ID': 823}
+{'NEWS': 7, 'MEWS': 7, 'qSOFA': 0, 'Person ID': 824}
+{'NEWS': 1, 'MEWS': 1, 'qSOFA': 0, 'Person ID': 825}
+{'qSOFA': 0, 'Person ID': 826}
+{'NEWS': 1, 'MEWS': 1, 'qSOFA': 0, 'Person ID': 827}
+{'NEWS': 3, 'MEWS': 2, 'qSOFA': 1, 'Person ID': 828}
+{'Person ID': 829}
+{'NEWS': 3, 'MEWS': 2, 'qSOFA': 0, 'Person ID': 830}
+{'NEWS': 2, 'MEWS': 3, 'qSOFA': 0, 'Person ID': 831}
+{'NEWS': 0, 'MEWS': 1, 'qSOFA': 0, 'Person ID': 832}
+{'NEWS': 1, 'qSOFA': 0, 'Person ID': 833}
+{'qSOFA': 1, 'Person ID': 834}
+{'NEWS': 1, 'MEWS': 1, 'qSOFA': 0, 'Person ID': 835}
+{'NEWS': 5, 'MEWS': 4, 'qSOFA': 1, 'Person ID': 836}
+{'NEWS': 4, 'MEWS': 3, 'qSOFA': 0, 'Person ID': 837}
+{'NEWS': 3, 'MEWS': 2, 'qSOFA': 0, 'Person ID': 838}
+{'NEWS': 3, 'MEWS': 4, 'qSOFA': 0, 'Person ID': 839}
+{'NEWS': 5, 'MEWS': 4, 'qSOFA': 0, 'Person ID': 840}
+{'NEWS': 11, 'MEWS': 8, 'qSOFA': 1, 'Person ID': 841}
+{'NEWS': 5, 'MEWS': 2, 'qSOFA': 1, 'Person ID': 842}
+{'NEWS': 5, 'qSOFA': 2, 'Person ID': 843}
+{'NEWS': 0, 'MEWS': 1, 'qSOFA': 0, 'Person ID': 844}
+{'NEWS': 3, 'MEWS': 2, 'qSOFA': 1, 'Person ID': 845}
+{'NEWS': 3, 'MEWS': 3, 'qSOFA': 1, 'Person ID': 846}
+{'NEWS': 7, 'MEWS': 5, 'qSOFA': 0, 'Person ID': 847}
+{'Person ID': 848}
+{'NEWS': 5, 'MEWS': 4, 'qSOFA': 0, 'Person ID': 849}
+{'NEWS': 8, 'qSOFA': 1, 'Person ID': 850}
+{'NEWS': 7, 'MEWS': 5, 'qSOFA': 2, 'Person ID': 851}
+{'NEWS': 5, 'MEWS': 3, 'qSOFA': 1, 'Person ID': 852}
+{'NEWS': 5, 'MEWS': 5, 'qSOFA': 0, 'Person ID': 853}
+{'NEWS': 6, 'MEWS': 4, 'qSOFA': 0, 'Person ID': 854}
+{'NEWS': 2, 'MEWS': 2, 'qSOFA': 0, 'Person ID': 855}
+{'NEWS': 0, 'MEWS': 0, 'qSOFA': 0, 'Person ID': 856}
+{'NEWS': 10, 'MEWS': 7, 'qSOFA': 1, 'Person ID': 857}
+{'NEWS': 0, 'MEWS': 3, 'qSOFA': 0, 'Person ID': 858}
+{'Person ID': 859}
+{'NEWS': 6, 'MEWS': 3, 'qSOFA': 1, 'Person ID': 860}
+{'NEWS': 0, 'MEWS': 1, 'qSOFA': 0, 'Person ID': 861}
+{'Person ID': 862}
+{'NEWS': 3, 'MEWS': 3, 'qSOFA': 1, 'Person ID': 863}
+{'NEWS': 5, 'MEWS': 0, 'qSOFA': 0, 'Person ID': 864}
+{'qSOFA': 1, 'Person ID': 865}
+{'NEWS': 4, 'MEWS': 3, 'qSOFA': 0, 'Person ID': 866}
+{'NEWS': 1, 'MEWS': 5, 'qSOFA': 0, 'Person ID': 867}
+{'NEWS': 0, 'MEWS': 3, 'qSOFA': 0, 'Person ID': 868}
+{'Person ID': 869}
+{'NEWS': 7, 'MEWS': 4, 'qSOFA': 0, 'Person ID': 870}
+{'NEWS': 4, 'MEWS': 3, 'qSOFA': 1, 'Person ID': 871}
+{'NEWS': 5, 'MEWS': 6, 'qSOFA': 1, 'Person ID': 872}
+{'NEWS': 0, 'MEWS': 1, 'qSOFA': 0, 'Person ID': 873}
+{'qSOFA': 1, 'Person ID': 874}
+{'NEWS': 4, 'MEWS': 6, 'qSOFA': 0, 'Person ID': 875}
+{'NEWS': 0, 'MEWS': 2, 'qSOFA': 0, 'Person ID': 876}
+{'NEWS': 3, 'MEWS': 3, 'qSOFA': 0, 'Person ID': 877}
+{'Person ID': 878}
+{'NEWS': 1, 'MEWS': 1, 'qSOFA': 0, 'Person ID': 879}
+{'NEWS': 4, 'MEWS': 4, 'qSOFA': 0, 'Person ID': 880}
+{'Person ID': 881}
+{'NEWS': 0, 'MEWS': 1, 'qSOFA': 0, 'Person ID': 882}
+{'NEWS': 2, 'MEWS': 2, 'qSOFA': 1, 'Person ID': 883}
+{'NEWS': 8, 'MEWS': 4, 'qSOFA': 1, 'Person ID': 884}
+{'NEWS': 6, 'MEWS': 3, 'qSOFA': 1, 'Person ID': 885}
+{'NEWS': 3, 'MEWS': 0, 'qSOFA': 0, 'Person ID': 886}
+{'NEWS': 1, 'MEWS': 2, 'qSOFA': 0, 'Person ID': 887}
+{'MEWS': 2, 'qSOFA': 0, 'Person ID': 888}
+{'NEWS': 4, 'MEWS': 3, 'qSOFA': 1, 'Person ID': 889}
+{'NEWS': 1, 'MEWS': 3, 'qSOFA': 0, 'Person ID': 890}
+{'NEWS': 0, 'MEWS': 0, 'qSOFA': 0, 'Person ID': 891}
+{'NEWS': 6, 'MEWS': 4, 'qSOFA': 1, 'Person ID': 892}
+{'NEWS': 4, 'MEWS': 3, 'qSOFA': 1, 'Person ID': 893}
+{'NEWS': 6, 'MEWS': 6, 'qSOFA': 1, 'Person ID': 894}
+{'NEWS': 2, 'MEWS': 1, 'qSOFA': 0, 'Person ID': 895}
+{'NEWS': 5, 'MEWS': 3, 'qSOFA': 0, 'Person ID': 896}
+{'Person ID': 897}
+{'qSOFA': 1, 'Person ID': 898}
+{'NEWS': 12, 'MEWS': 4, 'qSOFA': 1, 'Person ID': 899}
+{'NEWS': 2, 'MEWS': 2, 'qSOFA': 0, 'Person ID': 900}
+{'NEWS': 1, 'MEWS': 1, 'qSOFA': 0, 'Person ID': 901}
+{'NEWS': 1, 'MEWS': 0, 'qSOFA': 0, 'Person ID': 902}
+{'NEWS': 12, 'MEWS': 5, 'qSOFA': 2, 'Person ID': 903}
+{'Person ID': 904}
+{'NEWS': 4, 'MEWS': 5, 'qSOFA': 0, 'Person ID': 905}
+{'Person ID': 906}
+{'NEWS': 0, 'MEWS': 2, 'qSOFA': 0, 'Person ID': 907}
+{'Person ID': 908}
+{'Person ID': 909}
+{'Person ID': 910}
+{'qSOFA': 0, 'Person ID': 911}
+{'NEWS': 2, 'MEWS': 2, 'qSOFA': 1, 'Person ID': 912}
+{'NEWS': 3, 'MEWS': 5, 'qSOFA': 0, 'Person ID': 913}
+{'NEWS': 1, 'MEWS': 1, 'qSOFA': 0, 'Person ID': 914}
+{'qSOFA': 0, 'Person ID': 915}
+{'NEWS': 5, 'qSOFA': 0, 'Person ID': 916}
+{'NEWS': 1, 'MEWS': 2, 'qSOFA': 0, 'Person ID': 917}
+{'NEWS': 5, 'MEWS': 1, 'qSOFA': 0, 'Person ID': 918}
+{'NEWS': 7, 'MEWS': 2, 'qSOFA': 0, 'Person ID': 919}
+{'NEWS': 3, 'MEWS': 4, 'qSOFA': 1, 'Person ID': 920}
+{'Person ID': 921}
+{'qSOFA': 0, 'Person ID': 922}
+{'NEWS': 8, 'MEWS': 8, 'qSOFA': 0, 'Person ID': 923}
+{'NEWS': 7, 'MEWS': 5, 'qSOFA': 0, 'Person ID': 924}
+{'NEWS': 3, 'MEWS': 2, 'qSOFA': 1, 'Person ID': 925}
+{'NEWS': 2, 'MEWS': 2, 'qSOFA': 0, 'Person ID': 926}
+{'qSOFA': 0, 'Person ID': 927}
+{'Person ID': 928}
+{'NEWS': 9, 'MEWS': 3, 'qSOFA': 0, 'Person ID': 929}
+{'Person ID': 930}
+{'NEWS': 3, 'MEWS': 2, 'qSOFA': 1, 'Person ID': 931}
+{'NEWS': 6, 'MEWS': 4, 'qSOFA': 1, 'Person ID': 932}
+{'NEWS': 6, 'MEWS': 6, 'qSOFA': 0, 'Person ID': 933}
+{'Person ID': 934}
+{'Person ID': 935}
+{'NEWS': 3, 'MEWS': 3, 'qSOFA': 0, 'Person ID': 936}
+{'NEWS': 7, 'MEWS': 6, 'qSOFA': 1, 'Person ID': 937}
+{'Person ID': 938}
+{'NEWS': 2, 'MEWS': 2, 'qSOFA': 0, 'Person ID': 939}
+{'Person ID': 940}
+{'NEWS': 0, 'MEWS': 1, 'qSOFA': 0, 'Person ID': 941}
+{'NEWS': 1, 'MEWS': 1, 'qSOFA': 0, 'Person ID': 942}
+{'NEWS': 6, 'MEWS': 6, 'qSOFA': 1, 'Person ID': 943}
+{'NEWS': 3, 'MEWS': 3, 'qSOFA': 0, 'Person ID': 944}
+{'NEWS': 4, 'MEWS': 5, 'qSOFA': 0, 'Person ID': 945}
+{'Person ID': 946}
+{'Person ID': 947}
+{'NEWS': 3, 'MEWS': 2, 'qSOFA': 0, 'Person ID': 948}
+{'Person ID': 949}
+{'NEWS': 3, 'MEWS': 3, 'qSOFA': 1, 'Person ID': 950}
+{'MEWS': 3, 'qSOFA': 1, 'Person ID': 951}
+{'NEWS': 1, 'MEWS': 3, 'qSOFA': 0, 'Person ID': 952}
+{'NEWS': 1, 'MEWS': 4, 'qSOFA': 0, 'Person ID': 953}
+{'NEWS': 4, 'MEWS': 2, 'qSOFA': 0, 'Person ID': 954}
+{'NEWS': 0, 'MEWS': 3, 'qSOFA': 0, 'Person ID': 955}
+{'NEWS': 7, 'MEWS': 6, 'qSOFA': 0, 'Person ID': 956}
+{'NEWS': 0, 'MEWS': 4, 'qSOFA': 0, 'Person ID': 957}
+{'NEWS': 6, 'MEWS': 6, 'qSOFA': 2, 'Person ID': 958}
+{'NEWS': 7, 'MEWS': 7, 'qSOFA': 1, 'Person ID': 959}
+{'Person ID': 960}
+{'NEWS': 4, 'qSOFA': 0, 'Person ID': 961}
+{'NEWS': 4, 'MEWS': 3, 'qSOFA': 1, 'Person ID': 962}
+{'NEWS': 6, 'MEWS': 5, 'qSOFA': 1, 'Person ID': 963}
+{'NEWS': 7, 'MEWS': 5, 'qSOFA': 1, 'Person ID': 964}
+{'NEWS': 3, 'MEWS': 3, 'qSOFA': 0, 'Person ID': 965}
+{'Person ID': 966}
+{'NEWS': 8, 'qSOFA': 2, 'Person ID': 967}
+{'NEWS': 0, 'MEWS': 2, 'qSOFA': 0, 'Person ID': 968}
+{'qSOFA': 1, 'Person ID': 969}
+{'NEWS': 2, 'MEWS': 5, 'qSOFA': 1, 'Person ID': 970}
+{'NEWS': 0, 'MEWS': 0, 'qSOFA': 0, 'Person ID': 971}
+{'NEWS': 4, 'MEWS': 3, 'qSOFA': 1, 'Person ID': 972}
+{'NEWS': 5, 'MEWS': 3, 'qSOFA': 1, 'Person ID': 973}
+{'qSOFA': 0, 'Person ID': 974}
+{'NEWS': 4, 'MEWS': 3, 'qSOFA': 1, 'Person ID': 975}
+{'NEWS': 2, 'MEWS': 2, 'qSOFA': 0, 'Person ID': 976}
+{'NEWS': 1, 'MEWS': 0, 'qSOFA': 0, 'Person ID': 977}
+{'Person ID': 978}
+{'Person ID': 979}
+{'NEWS': 5, 'MEWS': 6, 'qSOFA': 0, 'Person ID': 980}
+{'NEWS': 5, 'MEWS': 4, 'qSOFA': 1, 'Person ID': 981}
+{'NEWS': 5, 'MEWS': 2, 'qSOFA': 0, 'Person ID': 982}
+{'Person ID': 983}
+{'NEWS': 1, 'MEWS': 0, 'qSOFA': 0, 'Person ID': 984}
+{'Person ID': 985}
+{'NEWS': 0, 'MEWS': 3, 'qSOFA': 0, 'Person ID': 986}
+{'NEWS': 6, 'MEWS': 2, 'qSOFA': 0, 'Person ID': 987}
+{'NEWS': 1, 'MEWS': 2, 'qSOFA': 0, 'Person ID': 988}
+{'NEWS': 4, 'MEWS': 3, 'qSOFA': 1, 'Person ID': 989}
+{'NEWS': 7, 'MEWS': 3, 'qSOFA': 2, 'Person ID': 990}
+{'NEWS': 2, 'MEWS': 2, 'qSOFA': 0, 'Person ID': 991}
+{'NEWS': 1, 'MEWS': 2, 'qSOFA': 0, 'Person ID': 992}
+{'NEWS': 4, 'MEWS': 1, 'qSOFA': 1, 'Person ID': 993}
+{'Person ID': 994}
+{'NEWS': 2, 'MEWS': 2, 'qSOFA': 0, 'Person ID': 995}
+{'Person ID': 996}
+{'NEWS': 2, 'qSOFA': 0, 'Person ID': 997}
+{'NEWS': 1, 'MEWS': 3, 'qSOFA': 0, 'Person ID': 998}
+{'NEWS': 5, 'MEWS': 5, 'qSOFA': 0, 'Person ID': 999}
+{'NEWS': 5, 'MEWS': 2, 'qSOFA': 1, 'Person ID': 1000}
+{'NEWS': 10, 'MEWS': 6, 'qSOFA': 1, 'Person ID': 1001}
+{'NEWS': 7, 'MEWS': 8, 'qSOFA': 1, 'Person ID': 1002}
+{'NEWS': 5, 'qSOFA': 0, 'Person ID': 1003}
+{'NEWS': 0, 'MEWS': 2, 'qSOFA': 0, 'Person ID': 1004}
+{'NEWS': 2, 'MEWS': 1, 'qSOFA': 0, 'Person ID': 1005}
+{'NEWS': 3, 'MEWS': 3, 'qSOFA': 0, 'Person ID': 1006}
+{'NEWS': 6, 'MEWS': 5, 'qSOFA': 0, 'Person ID': 1007}
+{'NEWS': 3, 'MEWS': 2, 'qSOFA': 1, 'Person ID': 1008}
+{'NEWS': 5, 'MEWS': 5, 'qSOFA': 0, 'Person ID': 1009}
+{'qSOFA': 1, 'Person ID': 1010}
+{'MEWS': 4, 'qSOFA': 0, 'Person ID': 1011}
+{'Person ID': 1012}
+{'NEWS': 5, 'MEWS': 6, 'qSOFA': 1, 'Person ID': 1013}
+{'Person ID': 1014}
+{'NEWS': 2, 'MEWS': 4, 'qSOFA': 0, 'Person ID': 1015}
+{'NEWS': 6, 'qSOFA': 0, 'Person ID': 1016}
+{'NEWS': 6, 'MEWS': 2, 'qSOFA': 0, 'Person ID': 1017}
+{'NEWS': 3, 'MEWS': 3, 'qSOFA': 1, 'Person ID': 1018}
+{'NEWS': 2, 'MEWS': 4, 'qSOFA': 1, 'Person ID': 1019}
+{'NEWS': 3, 'MEWS': 2, 'qSOFA': 1, 'Person ID': 1020}
+{'MEWS': 5, 'qSOFA': 1, 'Person ID': 1021}
+{'NEWS': 3, 'MEWS': 4, 'qSOFA': 1, 'Person ID': 1022}
+{'NEWS': 2, 'MEWS': 3, 'qSOFA': 0, 'Person ID': 1023}
+{'NEWS': 1, 'MEWS': 2, 'qSOFA': 0, 'Person ID': 1024}
+{'Person ID': 1025}
+{'NEWS': 1, 'MEWS': 1, 'qSOFA': 0, 'Person ID': 1026}
+{'NEWS': 5, 'MEWS': 2, 'qSOFA': 1, 'Person ID': 1027}
+{'NEWS': 4, 'MEWS': 4, 'qSOFA': 0, 'Person ID': 1028}
+{'NEWS': 2, 'MEWS': 5, 'qSOFA': 0, 'Person ID': 1029}
+{'Person ID': 1030}
+{'NEWS': 3, 'MEWS': 2, 'qSOFA': 0, 'Person ID': 1031}
+{'NEWS': 5, 'MEWS': 5, 'qSOFA': 1, 'Person ID': 1032}
+{'NEWS': 5, 'MEWS': 4, 'qSOFA': 0, 'Person ID': 1033}
+{'NEWS': 1, 'MEWS': 4, 'qSOFA': 0, 'Person ID': 1034}
+{'NEWS': 1, 'MEWS': 1, 'qSOFA': 0, 'Person ID': 1035}
+{'NEWS': 3, 'MEWS': 1, 'qSOFA': 0, 'Person ID': 1036}
+{'qSOFA': 0, 'Person ID': 1037}
+{'qSOFA': 0, 'Person ID': 1038}
+{'NEWS': 3, 'MEWS': 0, 'qSOFA': 0, 'Person ID': 1039}
+{'Person ID': 1040}
+{'qSOFA': 0, 'Person ID': 1041}
+{'NEWS': 0, 'MEWS': 0, 'qSOFA': 0, 'Person ID': 1042}
+{'NEWS': 5, 'MEWS': 4, 'qSOFA': 0, 'Person ID': 1043}
+{'NEWS': 3, 'MEWS': 2, 'qSOFA': 0, 'Person ID': 1044}
+{'NEWS': 4, 'MEWS': 3, 'qSOFA': 1, 'Person ID': 1045}
+{'NEWS': 11, 'MEWS': 6, 'qSOFA': 0, 'Person ID': 1046}
+{'NEWS': 5, 'MEWS': 4, 'qSOFA': 1, 'Person ID': 1047}
+{'NEWS': 1, 'MEWS': 2, 'qSOFA': 0, 'Person ID': 1048}
+{'Person ID': 1049}
+{'NEWS': 2, 'MEWS': 2, 'qSOFA': 0, 'Person ID': 1050}
+{'NEWS': 6, 'MEWS': 0, 'qSOFA': 0, 'Person ID': 1051}
+{'NEWS': 6, 'MEWS': 5, 'qSOFA': 0, 'Person ID': 1052}
+{'NEWS': 3, 'MEWS': 3, 'qSOFA': 0, 'Person ID': 1053}
+{'qSOFA': 0, 'Person ID': 1054}
+{'Person ID': 1055}
+{'NEWS': 7, 'MEWS': 6, 'qSOFA': 1, 'Person ID': 1056}
+{'NEWS': 5, 'MEWS': 3, 'qSOFA': 1, 'Person ID': 1057}
+{'NEWS': 9, 'MEWS': 3, 'qSOFA': 1, 'Person ID': 1058}
+{'Person ID': 1059}
+{'NEWS': 3, 'MEWS': 3, 'qSOFA': 0, 'Person ID': 1060}
+{'NEWS': 2, 'MEWS': 3, 'qSOFA': 0, 'Person ID': 1061}
+{'NEWS': 7, 'MEWS': 4, 'qSOFA': 0, 'Person ID': 1062}
+{'NEWS': 0, 'MEWS': 1, 'qSOFA': 0, 'Person ID': 1063}
+{'NEWS': 1, 'MEWS': 1, 'qSOFA': 0, 'Person ID': 1064}
+{'NEWS': 3, 'MEWS': 3, 'qSOFA': 1, 'Person ID': 1065}
+{'NEWS': 4, 'MEWS': 4, 'qSOFA': 0, 'Person ID': 1066}
+{'Person ID': 1067}
+{'Person ID': 1068}
+{'NEWS': 4, 'MEWS': 7, 'qSOFA': 0, 'Person ID': 1069}
+{'NEWS': 0, 'MEWS': 1, 'qSOFA': 0, 'Person ID': 1070}
+{'Person ID': 1071}
+{'NEWS': 2, 'MEWS': 4, 'qSOFA': 1, 'Person ID': 1072}
+{'NEWS': 5, 'MEWS': 6, 'qSOFA': 0, 'Person ID': 1073}
+{'NEWS': 8, 'MEWS': 5, 'qSOFA': 1, 'Person ID': 1074}
+{'qSOFA': 1, 'Person ID': 1075}
+{'NEWS': 5, 'MEWS': 4, 'qSOFA': 1, 'Person ID': 1076}
+{'NEWS': 4, 'MEWS': 5, 'qSOFA': 0, 'Person ID': 1077}
+{'NEWS': 6, 'MEWS': 7, 'qSOFA': 0, 'Person ID': 1078}
+{'MEWS': 6, 'qSOFA': 2, 'Person ID': 1079}
+{'NEWS': 5, 'qSOFA': 0, 'Person ID': 1080}
+{'NEWS': 4, 'qSOFA': 0, 'Person ID': 1081}
+{'NEWS': 1, 'MEWS': 1, 'qSOFA': 0, 'Person ID': 1082}
+{'NEWS': 3, 'MEWS': 8, 'qSOFA': 0, 'Person ID': 1083}
+{'Person ID': 1084}
+{'NEWS': 8, 'MEWS': 4, 'qSOFA': 0, 'Person ID': 1085}
+{'NEWS': 1, 'MEWS': 4, 'qSOFA': 0, 'Person ID': 1086}
+{'Person ID': 1087}
+{'NEWS': 2, 'MEWS': 2, 'qSOFA': 0, 'Person ID': 1088}
+{'Person ID': 1089}
+{'NEWS': 1, 'MEWS': 3, 'qSOFA': 0, 'Person ID': 1090}
+{'NEWS': 6, 'MEWS': 3, 'qSOFA': 0, 'Person ID': 1091}
+{'NEWS': 1, 'MEWS': 2, 'qSOFA': 0, 'Person ID': 1092}
+{'Person ID': 1093}
+{'NEWS': 0, 'MEWS': 4, 'qSOFA': 0, 'Person ID': 1094}
+{'NEWS': 5, 'MEWS': 4, 'qSOFA': 0, 'Person ID': 1095}
+{'MEWS': 2, 'qSOFA': 1, 'Person ID': 1096}
+{'MEWS': 5, 'qSOFA': 0, 'Person ID': 1097}
+{'NEWS': 3, 'MEWS': 2, 'qSOFA': 0, 'Person ID': 1098}
+{'NEWS': 4, 'qSOFA': 0, 'Person ID': 1099}
+{'NEWS': 4, 'qSOFA': 0, 'Person ID': 1100}
+{'NEWS': 4, 'MEWS': 2, 'qSOFA': 0, 'Person ID': 1101}
+{'NEWS': 3, 'MEWS': 8, 'qSOFA': 0, 'Person ID': 1102}
+{'Person ID': 1103}
+{'NEWS': 7, 'qSOFA': 1, 'Person ID': 1104}
+{'Person ID': 1105}
+{'NEWS': 5, 'MEWS': 3, 'qSOFA': 1, 'Person ID': 1106}
+{'MEWS': 4, 'qSOFA': 1, 'Person ID': 1107}
+{'MEWS': 1, 'qSOFA': 0, 'Person ID': 1108}
+{'MEWS': 5, 'qSOFA': 0, 'Person ID': 1109}
+{'Person ID': 1110}
+{'qSOFA': 0, 'Person ID': 1111}
+{'NEWS': 9, 'MEWS': 2, 'qSOFA': 0, 'Person ID': 1112}
+{'NEWS': 4, 'MEWS': 8, 'qSOFA': 1, 'Person ID': 1113}
+{'NEWS': 3, 'MEWS': 2, 'qSOFA': 0, 'Person ID': 1114}
+{'Person ID': 1115}
+{'NEWS': 4, 'MEWS': 3, 'qSOFA': 1, 'Person ID': 1116}
+{'NEWS': 3, 'MEWS': 2, 'qSOFA': 0, 'Person ID': 1117}
+{'NEWS': 2, 'MEWS': 3, 'qSOFA': 0, 'Person ID': 1118}
+{'NEWS': 6, 'MEWS': 4, 'qSOFA': 1, 'Person ID': 1119}
+{'Person ID': 1120}
+{'Person ID': 1121}
+{'NEWS': 8, 'MEWS': 2, 'qSOFA': 0, 'Person ID': 1122}
+{'MEWS': 1, 'qSOFA': 0, 'Person ID': 1123}
+{'NEWS': 4, 'MEWS': 4, 'qSOFA': 0, 'Person ID': 1124}
+{'NEWS': 0, 'MEWS': 1, 'qSOFA': 0, 'Person ID': 1125}
+{'NEWS': 4, 'MEWS': 3, 'qSOFA': 1, 'Person ID': 1126}
+{'NEWS': 3, 'MEWS': 2, 'qSOFA': 1, 'Person ID': 1127}
+{'NEWS': 5, 'MEWS': 2, 'qSOFA': 0, 'Person ID': 1128}
+{'qSOFA': 0, 'Person ID': 1129}
+{'qSOFA': 0, 'Person ID': 1130}
+{'MEWS': 3, 'qSOFA': 1, 'Person ID': 1131}
+{'NEWS': 5, 'MEWS': 5, 'qSOFA': 0, 'Person ID': 1132}
+{'qSOFA': 1, 'Person ID': 1133}
+{'Person ID': 1134}
+{'NEWS': 3, 'MEWS': 3, 'qSOFA': 0, 'Person ID': 1135}
+{'NEWS': 0, 'MEWS': 3, 'qSOFA': 0, 'Person ID': 1136}
+{'NEWS': 6, 'MEWS': 4, 'qSOFA': 1, 'Person ID': 1137}
+{'NEWS': 0, 'MEWS': 1, 'qSOFA': 0, 'Person ID': 1138}
+{'Person ID': 1139}
+{'NEWS': 6, 'MEWS': 5, 'qSOFA': 0, 'Person ID': 1140}
+{'Person ID': 1141}
+{'NEWS': 12, 'MEWS': 5, 'qSOFA': 2, 'Person ID': 1142}
+{'NEWS': 0, 'MEWS': 1, 'qSOFA': 0, 'Person ID': 1143}
+{'NEWS': 4, 'MEWS': 4, 'qSOFA': 0, 'Person ID': 1144}
+{'NEWS': 6, 'MEWS': 6, 'qSOFA': 1, 'Person ID': 1145}
+{'NEWS': 10, 'MEWS': 4, 'qSOFA': 1, 'Person ID': 1146}
+{'NEWS': 3, 'MEWS': 2, 'qSOFA': 0, 'Person ID': 1147}
+{'NEWS': 7, 'qSOFA': 1, 'Person ID': 1148}
+{'qSOFA': 0, 'Person ID': 1149}
+{'NEWS': 5, 'MEWS': 6, 'qSOFA': 0, 'Person ID': 1150}
+{'qSOFA': 1, 'Person ID': 1151}
+{'NEWS': 3, 'MEWS': 2, 'qSOFA': 0, 'Person ID': 1152}
+{'NEWS': 9, 'MEWS': 5, 'qSOFA': 0, 'Person ID': 1153}
+{'NEWS': 3, 'MEWS': 3, 'qSOFA': 0, 'Person ID': 1154}
+{'NEWS': 2, 'MEWS': 3, 'qSOFA': 0, 'Person ID': 1155}
+{'NEWS': 4, 'MEWS': 6, 'qSOFA': 0, 'Person ID': 1156}
+{'Person ID': 1157}
+{'qSOFA': 0, 'Person ID': 1158}
+{'NEWS': 6, 'MEWS': 0, 'qSOFA': 0, 'Person ID': 1159}
+{'qSOFA': 1, 'Person ID': 1160}
+{'MEWS': 2, 'qSOFA': 0, 'Person ID': 1161}
+{'NEWS': 6, 'MEWS': 5, 'qSOFA': 0, 'Person ID': 1162}
+{'NEWS': 3, 'MEWS': 2, 'qSOFA': 1, 'Person ID': 1163}
+{'NEWS': 5, 'MEWS': 3, 'qSOFA': 1, 'Person ID': 1164}
+{'NEWS': 5, 'MEWS': 3, 'qSOFA': 0, 'Person ID': 1165}
+{'qSOFA': 1, 'Person ID': 1166}
+{'NEWS': 4, 'MEWS': 3, 'qSOFA': 1, 'Person ID': 1167}
+{'NEWS': 4, 'MEWS': 5, 'qSOFA': 0, 'Person ID': 1168}
+{'NEWS': 5, 'MEWS': 3, 'qSOFA': 2, 'Person ID': 1169}
+{'MEWS': 5, 'qSOFA': 0, 'Person ID': 1170}
+{'NEWS': 1, 'MEWS': 5, 'qSOFA': 0, 'Person ID': 1171}
+{'NEWS': 2, 'MEWS': 3, 'qSOFA': 0, 'Person ID': 1172}
+{'MEWS': 3, 'qSOFA': 0, 'Person ID': 1173}
+{'NEWS': 1, 'MEWS': 1, 'qSOFA': 0, 'Person ID': 1174}
+{'NEWS': 3, 'MEWS': 4, 'qSOFA': 1, 'Person ID': 1175}
+{'NEWS': 9, 'MEWS': 9, 'qSOFA': 2, 'Person ID': 1176}
+{'NEWS': 10, 'MEWS': 4, 'qSOFA': 0, 'Person ID': 1177}
+{'NEWS': 4, 'MEWS': 1, 'qSOFA': 0, 'Person ID': 1178}
+{'NEWS': 2, 'MEWS': 6, 'qSOFA': 0, 'Person ID': 1179}
+{'Person ID': 1180}
+{'NEWS': 3, 'MEWS': 3, 'qSOFA': 0, 'Person ID': 1181}
+{'NEWS': 6, 'MEWS': 6, 'qSOFA': 1, 'Person ID': 1182}
+{'NEWS': 5, 'MEWS': 3, 'qSOFA': 2, 'Person ID': 1183}
+{'NEWS': 9, 'MEWS': 2, 'qSOFA': 0, 'Person ID': 1184}
+{'Person ID': 1185}
+{'Person ID': 1186}
+{'NEWS': 1, 'MEWS': 2, 'qSOFA': 0, 'Person ID': 1187}
+{'Person ID': 1188}
+{'NEWS': 4, 'MEWS': 4, 'qSOFA': 1, 'Person ID': 1189}
+{'NEWS': 1, 'MEWS': 4, 'qSOFA': 0, 'Person ID': 1190}
+{'NEWS': 3, 'MEWS': 2, 'qSOFA': 1, 'Person ID': 1191}
+{'NEWS': 10, 'MEWS': 5, 'qSOFA': 1, 'Person ID': 1192}
+{'NEWS': 4, 'MEWS': 3, 'qSOFA': 0, 'Person ID': 1193}
+{'NEWS': 6, 'MEWS': 2, 'qSOFA': 1, 'Person ID': 1194}
+{'Person ID': 1195}
+{'NEWS': 5, 'MEWS': 6, 'qSOFA': 0, 'Person ID': 1196}
+{'Person ID': 1197}
+{'NEWS': 4, 'MEWS': 2, 'qSOFA': 0, 'Person ID': 1198}
+{'NEWS': 3, 'MEWS': 3, 'qSOFA': 0, 'Person ID': 1199}
+{'NEWS': 6, 'MEWS': 3, 'qSOFA': 1, 'Person ID': 1200}
+{'Person ID': 1201}
+{'NEWS': 1, 'MEWS': 1, 'qSOFA': 0, 'Person ID': 1202}
+{'NEWS': 5, 'MEWS': 4, 'qSOFA': 2, 'Person ID': 1203}
+{'NEWS': 6, 'MEWS': 6, 'qSOFA': 1, 'Person ID': 1204}
+{'NEWS': 1, 'MEWS': 2, 'qSOFA': 0, 'Person ID': 1205}
+{'NEWS': 5, 'qSOFA': 0, 'Person ID': 1206}
+{'Person ID': 1207}
+{'NEWS': 6, 'MEWS': 5, 'qSOFA': 0, 'Person ID': 1208}
+{'NEWS': 2, 'MEWS': 2, 'qSOFA': 1, 'Person ID': 1209}
+{'NEWS': 9, 'MEWS': 6, 'qSOFA': 0, 'Person ID': 1210}
+{'qSOFA': 1, 'Person ID': 1211}
+{'MEWS': 2, 'qSOFA': 0, 'Person ID': 1212}
+{'qSOFA': 0, 'Person ID': 1213}
+{'NEWS': 1, 'qSOFA': 0, 'Person ID': 1214}
+{'NEWS': 6, 'MEWS': 5, 'qSOFA': 0, 'Person ID': 1215}
+{'NEWS': 3, 'MEWS': 3, 'qSOFA': 0, 'Person ID': 1216}
+{'qSOFA': 1, 'Person ID': 1217}
+{'NEWS': 3, 'qSOFA': 1, 'Person ID': 1218}
+{'Person ID': 1219}
+{'NEWS': 8, 'MEWS': 4, 'qSOFA': 1, 'Person ID': 1220}
+{'Person ID': 1221}
+{'NEWS': 2, 'MEWS': 2, 'qSOFA': 1, 'Person ID': 1222}
+{'Person ID': 1223}
+{'NEWS': 7, 'MEWS': 6, 'qSOFA': 0, 'Person ID': 1224}
+{'NEWS': 2, 'MEWS': 2, 'qSOFA': 0, 'Person ID': 1225}
+{'NEWS': 7, 'MEWS': 6, 'qSOFA': 1, 'Person ID': 1226}
+{'NEWS': 1, 'MEWS': 0, 'qSOFA': 0, 'Person ID': 1227}
+{'qSOFA': 1, 'Person ID': 1228}
+{'NEWS': 5, 'MEWS': 2, 'qSOFA': 0, 'Person ID': 1229}
+{'NEWS': 1, 'MEWS': 1, 'qSOFA': 0, 'Person ID': 1230}
+{'NEWS': 1, 'MEWS': 3, 'qSOFA': 0, 'Person ID': 1231}
+{'NEWS': 8, 'MEWS': 6, 'qSOFA': 1, 'Person ID': 1232}
+{'NEWS': 3, 'MEWS': 2, 'qSOFA': 0, 'Person ID': 1233}
+{'NEWS': 1, 'MEWS': 1, 'qSOFA': 0, 'Person ID': 1234}
+{'NEWS': 8, 'MEWS': 3, 'qSOFA': 0, 'Person ID': 1235}
+{'NEWS': 10, 'MEWS': 4, 'qSOFA': 0, 'Person ID': 1236}
+{'qSOFA': 0, 'Person ID': 1237}
+{'NEWS': 1, 'MEWS': 2, 'qSOFA': 0, 'Person ID': 1238}
+{'qSOFA': 0, 'Person ID': 1239}
+{'NEWS': 3, 'MEWS': 3, 'qSOFA': 0, 'Person ID': 1240}
+{'qSOFA': 1, 'Person ID': 1241}
+{'NEWS': 3, 'MEWS': 4, 'qSOFA': 0, 'Person ID': 1242}
+{'NEWS': 5, 'MEWS': 7, 'qSOFA': 0, 'Person ID': 1243}
+{'NEWS': 2, 'MEWS': 0, 'qSOFA': 0, 'Person ID': 1244}
+{'NEWS': 3, 'MEWS': 3, 'qSOFA': 0, 'Person ID': 1245}
+{'Person ID': 1246}
+{'NEWS': 0, 'MEWS': 0, 'qSOFA': 0, 'Person ID': 1247}
+{'Person ID': 1248}
+{'qSOFA': 1, 'Person ID': 1249}
+{'Person ID': 1250}
+{'NEWS': 6, 'MEWS': 5, 'qSOFA': 1, 'Person ID': 1251}
+{'NEWS': 3, 'MEWS': 2, 'qSOFA': 0, 'Person ID': 1252}
+{'NEWS': 5, 'MEWS': 3, 'qSOFA': 0, 'Person ID': 1253}
+{'NEWS': 5, 'MEWS': 3, 'qSOFA': 2, 'Person ID': 1254}
+{'NEWS': 6, 'MEWS': 4, 'qSOFA': 1, 'Person ID': 1255}
+{'NEWS': 4, 'MEWS': 3, 'qSOFA': 1, 'Person ID': 1256}
+{'MEWS': 2, 'qSOFA': 0, 'Person ID': 1257}
+{'qSOFA': 1, 'Person ID': 1258}
+{'NEWS': 0, 'MEWS': 1, 'qSOFA': 0, 'Person ID': 1259}
+{'NEWS': 2, 'MEWS': 1, 'qSOFA': 0, 'Person ID': 1260}
+{'NEWS': 0, 'MEWS': 1, 'qSOFA': 0, 'Person ID': 1261}
+{'NEWS': 3, 'MEWS': 2, 'qSOFA': 0, 'Person ID': 1262}
+{'NEWS': 5, 'MEWS': 3, 'qSOFA': 0, 'Person ID': 1263}
+{'qSOFA': 1, 'Person ID': 1264}
+{'qSOFA': 1, 'Person ID': 1265}
+{'NEWS': 3, 'MEWS': 4, 'qSOFA': 0, 'Person ID': 1266}
+{'NEWS': 3, 'MEWS': 1, 'qSOFA': 1, 'Person ID': 1267}
+{'Person ID': 1268}
+{'NEWS': 5, 'MEWS': 1, 'qSOFA': 0, 'Person ID': 1269}
+{'NEWS': 0, 'MEWS': 4, 'qSOFA': 0, 'Person ID': 1270}
+{'NEWS': 2, 'MEWS': 2, 'qSOFA': 0, 'Person ID': 1271}
+{'NEWS': 4, 'MEWS': 2, 'qSOFA': 0, 'Person ID': 1272}
+{'Person ID': 1273}
+{'Person ID': 1274}
+{'NEWS': 3, 'MEWS': 2, 'qSOFA': 1, 'Person ID': 1275}
+{'Person ID': 1276}
+{'NEWS': 9, 'qSOFA': 0, 'Person ID': 1277}
+{'NEWS': 3, 'qSOFA': 0, 'Person ID': 1278}
+{'NEWS': 5, 'MEWS': 2, 'qSOFA': 0, 'Person ID': 1279}
+{'NEWS': 3, 'qSOFA': 0, 'Person ID': 1280}
+{'NEWS': 4, 'MEWS': 3, 'qSOFA': 0, 'Person ID': 1281}
+{'NEWS': 4, 'MEWS': 5, 'qSOFA': 0, 'Person ID': 1282}
+{'NEWS': 3, 'MEWS': 2, 'qSOFA': 0, 'Person ID': 1283}
+{'Person ID': 1284}
+{'NEWS': 0, 'MEWS': 1, 'qSOFA': 0, 'Person ID': 1285}
+{'NEWS': 4, 'MEWS': 4, 'qSOFA': 1, 'Person ID': 1286}
+{'NEWS': 5, 'MEWS': 5, 'qSOFA': 1, 'Person ID': 1287}
+{'NEWS': 3, 'MEWS': 4, 'qSOFA': 0, 'Person ID': 1288}
+{'Person ID': 1289}
+{'NEWS': 0, 'MEWS': 3, 'qSOFA': 0, 'Person ID': 1290}
+{'NEWS': 5, 'MEWS': 3, 'qSOFA': 1, 'Person ID': 1291}
+{'qSOFA': 0, 'Person ID': 1292}
+{'qSOFA': 0, 'Person ID': 1293}
+{'NEWS': 7, 'MEWS': 6, 'qSOFA': 0, 'Person ID': 1294}
+{'NEWS': 3, 'MEWS': 3, 'qSOFA': 0, 'Person ID': 1295}
+{'NEWS': 5, 'qSOFA': 1, 'Person ID': 1296}
+{'qSOFA': 0, 'Person ID': 1297}
+{'NEWS': 7, 'MEWS': 5, 'qSOFA': 2, 'Person ID': 1298}
+{'Person ID': 1299}
+{'NEWS': 1, 'MEWS': 1, 'qSOFA': 0, 'Person ID': 1300}
+{'Person ID': 1301}
+{'NEWS': 10, 'MEWS': 5, 'qSOFA': 1, 'Person ID': 1302}
+{'MEWS': 3, 'qSOFA': 0, 'Person ID': 1303}
+{'NEWS': 5, 'MEWS': 3, 'qSOFA': 1, 'Person ID': 1304}
+{'NEWS': 6, 'MEWS': 6, 'qSOFA': 1, 'Person ID': 1305}
+{'NEWS': 4, 'MEWS': 4, 'qSOFA': 0, 'Person ID': 1306}
+{'NEWS': 4, 'MEWS': 2, 'qSOFA': 1, 'Person ID': 1307}
+{'NEWS': 2, 'MEWS': 2, 'qSOFA': 0, 'Person ID': 1308}
+{'NEWS': 3, 'MEWS': 3, 'qSOFA': 0, 'Person ID': 1309}
+{'Person ID': 1310}
+{'qSOFA': 1, 'Person ID': 1311}
+{'NEWS': 4, 'MEWS': 2, 'qSOFA': 0, 'Person ID': 1312}
+{'qSOFA': 0, 'Person ID': 1313}
+{'NEWS': 4, 'MEWS': 4, 'qSOFA': 0, 'Person ID': 1314}
+{'NEWS': 4, 'MEWS': 3, 'qSOFA': 0, 'Person ID': 1315}
+{'NEWS': 1, 'MEWS': 1, 'qSOFA': 0, 'Person ID': 1316}
+{'MEWS': 4, 'qSOFA': 1, 'Person ID': 1317}
+{'NEWS': 3, 'MEWS': 2, 'qSOFA': 0, 'Person ID': 1318}
+{'NEWS': 2, 'MEWS': 5, 'qSOFA': 0, 'Person ID': 1319}
+{'NEWS': 0, 'MEWS': 2, 'qSOFA': 0, 'Person ID': 1320}
+{'NEWS': 3, 'MEWS': 2, 'qSOFA': 0, 'Person ID': 1321}
+{'NEWS': 3, 'MEWS': 3, 'qSOFA': 1, 'Person ID': 1322}
+{'NEWS': 4, 'MEWS': 2, 'qSOFA': 1, 'Person ID': 1323}
+{'NEWS': 10, 'MEWS': 7, 'qSOFA': 1, 'Person ID': 1324}
+{'qSOFA': 1, 'Person ID': 1325}
+{'Person ID': 1326}
+{'NEWS': 3, 'MEWS': 3, 'qSOFA': 1, 'Person ID': 1327}
+{'NEWS': 1, 'MEWS': 1, 'qSOFA': 0, 'Person ID': 1328}
+{'qSOFA': 0, 'Person ID': 1329}
+{'Person ID': 1330}
+{'NEWS': 5, 'MEWS': 2, 'qSOFA': 0, 'Person ID': 1331}
+{'NEWS': 3, 'MEWS': 3, 'qSOFA': 0, 'Person ID': 1332}
+{'NEWS': 10, 'MEWS': 4, 'qSOFA': 0, 'Person ID': 1333}
+{'NEWS': 0, 'MEWS': 4, 'qSOFA': 0, 'Person ID': 1334}
+{'NEWS': 6, 'qSOFA': 0, 'Person ID': 1335}
+{'NEWS': 7, 'MEWS': 4, 'qSOFA': 1, 'Person ID': 1336}
+{'NEWS': 6, 'MEWS': 4, 'qSOFA': 1, 'Person ID': 1337}
+{'NEWS': 3, 'MEWS': 2, 'qSOFA': 0, 'Person ID': 1338}
+{'NEWS': 2, 'MEWS': 1, 'qSOFA': 0, 'Person ID': 1339}
+{'NEWS': 3, 'MEWS': 4, 'qSOFA': 1, 'Person ID': 1340}
+{'NEWS': 2, 'MEWS': 3, 'qSOFA': 0, 'Person ID': 1341}
+{'NEWS': 6, 'MEWS': 4, 'qSOFA': 2, 'Person ID': 1342}
+{'NEWS': 8, 'MEWS': 3, 'qSOFA': 0, 'Person ID': 1343}
+{'NEWS': 6, 'MEWS': 2, 'qSOFA': 0, 'Person ID': 1344}
+{'Person ID': 1345}
+{'qSOFA': 0, 'Person ID': 1346}
+{'NEWS': 3, 'MEWS': 2, 'qSOFA': 1, 'Person ID': 1347}
+{'NEWS': 2, 'MEWS': 1, 'qSOFA': 0, 'Person ID': 1348}
+{'NEWS': 6, 'MEWS': 5, 'qSOFA': 1, 'Person ID': 1349}
+{'NEWS': 1, 'MEWS': 2, 'qSOFA': 0, 'Person ID': 1350}
+{'NEWS': 7, 'MEWS': 7, 'qSOFA': 0, 'Person ID': 1351}
+{'Person ID': 1352}
+{'NEWS': 3, 'MEWS': 2, 'qSOFA': 1, 'Person ID': 1353}
+{'NEWS': 2, 'MEWS': 2, 'qSOFA': 0, 'Person ID': 1354}
+{'NEWS': 8, 'MEWS': 6, 'qSOFA': 0, 'Person ID': 1355}
+{'NEWS': 2, 'MEWS': 3, 'qSOFA': 0, 'Person ID': 1356}
+{'NEWS': 2, 'MEWS': 1, 'qSOFA': 0, 'Person ID': 1357}
+{'NEWS': 2, 'MEWS': 3, 'qSOFA': 0, 'Person ID': 1358}
+{'NEWS': 3, 'MEWS': 2, 'qSOFA': 0, 'Person ID': 1359}
+{'NEWS': 5, 'MEWS': 4, 'qSOFA': 0, 'Person ID': 1360}
+{'NEWS': 3, 'MEWS': 4, 'qSOFA': 0, 'Person ID': 1361}
+{'NEWS': 14, 'MEWS': 8, 'qSOFA': 1, 'Person ID': 1362}
+{'NEWS': 3, 'MEWS': 5, 'qSOFA': 0, 'Person ID': 1363}
+{'NEWS': 8, 'MEWS': 7, 'qSOFA': 1, 'Person ID': 1364}
+{'NEWS': 6, 'MEWS': 6, 'qSOFA': 1, 'Person ID': 1365}
+{'NEWS': 8, 'MEWS': 5, 'qSOFA': 2, 'Person ID': 1366}
+{'NEWS': 5, 'MEWS': 6, 'qSOFA': 0, 'Person ID': 1367}
+{'NEWS': 0, 'MEWS': 1, 'qSOFA': 0, 'Person ID': 1368}
+{'NEWS': 6, 'MEWS': 5, 'qSOFA': 0, 'Person ID': 1369}
+{'NEWS': 2, 'MEWS': 2, 'qSOFA': 0, 'Person ID': 1370}
+{'NEWS': 3, 'MEWS': 2, 'qSOFA': 0, 'Person ID': 1371}
+{'NEWS': 8, 'MEWS': 3, 'qSOFA': 1, 'Person ID': 1372}
+{'qSOFA': 0, 'Person ID': 1373}
+{'NEWS': 3, 'MEWS': 2, 'qSOFA': 0, 'Person ID': 1374}
+{'NEWS': 2, 'MEWS': 3, 'qSOFA': 1, 'Person ID': 1375}
+{'Person ID': 1376}
+{'Person ID': 1377}
+{'NEWS': 4, 'MEWS': 5, 'qSOFA': 1, 'Person ID': 1378}
+{'MEWS': 3, 'qSOFA': 0, 'Person ID': 1379}
+{'NEWS': 2, 'MEWS': 3, 'qSOFA': 0, 'Person ID': 1380}
+{'NEWS': 0, 'qSOFA': 0, 'Person ID': 1381}
+{'NEWS': 5, 'MEWS': 7, 'qSOFA': 0, 'Person ID': 1382}
+{'NEWS': 3, 'MEWS': 4, 'qSOFA': 0, 'Person ID': 1383}
+{'Person ID': 1384}
+{'NEWS': 3, 'MEWS': 5, 'qSOFA': 1, 'Person ID': 1385}
+{'NEWS': 2, 'MEWS': 3, 'qSOFA': 0, 'Person ID': 1386}
+{'qSOFA': 0, 'Person ID': 1387}
+{'NEWS': 1, 'MEWS': 1, 'qSOFA': 0, 'Person ID': 1388}
+{'NEWS': 1, 'MEWS': 4, 'qSOFA': 0, 'Person ID': 1389}
+{'Person ID': 1390}
+{'NEWS': 1, 'MEWS': 1, 'qSOFA': 0, 'Person ID': 1391}
+{'NEWS': 3, 'MEWS': 5, 'qSOFA': 0, 'Person ID': 1392}
+{'NEWS': 1, 'MEWS': 2, 'qSOFA': 0, 'Person ID': 1393}
+{'NEWS': 1, 'MEWS': 2, 'qSOFA': 0, 'Person ID': 1394}
+{'NEWS': 5, 'MEWS': 5, 'qSOFA': 1, 'Person ID': 1395}
+{'Person ID': 1396}
+{'Person ID': 1397}
+{'NEWS': 8, 'MEWS': 3, 'qSOFA': 0, 'Person ID': 1398}
+{'NEWS': 4, 'qSOFA': 1, 'Person ID': 1399}
+{'NEWS': 3, 'MEWS': 2, 'qSOFA': 1, 'Person ID': 1400}
+{'NEWS': 3, 'MEWS': 2, 'qSOFA': 0, 'Person ID': 1401}
+{'NEWS': 3, 'MEWS': 4, 'qSOFA': 0, 'Person ID': 1402}
+{'NEWS': 4, 'MEWS': 2, 'qSOFA': 1, 'Person ID': 1403}
+{'NEWS': 2, 'MEWS': 1, 'qSOFA': 0, 'Person ID': 1404}
+{'Person ID': 1405}
+{'NEWS': 1, 'MEWS': 1, 'qSOFA': 0, 'Person ID': 1406}
+{'Person ID': 1407}
+{'NEWS': 2, 'MEWS': 4, 'qSOFA': 0, 'Person ID': 1408}
+{'qSOFA': 0, 'Person ID': 1409}
+{'NEWS': 2, 'MEWS': 1, 'qSOFA': 0, 'Person ID': 1410}
+{'qSOFA': 0, 'Person ID': 1411}
+{'NEWS': 3, 'MEWS': 1, 'qSOFA': 1, 'Person ID': 1412}
+{'qSOFA': 0, 'Person ID': 1413}
+{'NEWS': 4, 'MEWS': 4, 'qSOFA': 1, 'Person ID': 1414}
+{'NEWS': 1, 'MEWS': 0, 'qSOFA': 0, 'Person ID': 1415}
+{'qSOFA': 0, 'Person ID': 1416}
+{'NEWS': 3, 'MEWS': 3, 'qSOFA': 0, 'Person ID': 1417}
+{'qSOFA': 0, 'Person ID': 1418}
+{'qSOFA': 1, 'Person ID': 1419}
+{'NEWS': 1, 'MEWS': 1, 'qSOFA': 0, 'Person ID': 1420}
+{'NEWS': 4, 'qSOFA': 0, 'Person ID': 1421}
+{'NEWS': 7, 'MEWS': 1, 'qSOFA': 0, 'Person ID': 1422}
+{'qSOFA': 1, 'Person ID': 1423}
+{'NEWS': 5, 'MEWS': 6, 'qSOFA': 1, 'Person ID': 1424}
+{'NEWS': 8, 'MEWS': 2, 'qSOFA': 1, 'Person ID': 1425}
+{'NEWS': 7, 'MEWS': 8, 'qSOFA': 1, 'Person ID': 1426}
+{'NEWS': 1, 'MEWS': 1, 'qSOFA': 0, 'Person ID': 1427}
+{'Person ID': 1428}
+{'NEWS': 4, 'qSOFA': 1, 'Person ID': 1429}
+{'NEWS': 0, 'MEWS': 1, 'qSOFA': 0, 'Person ID': 1430}
+{'NEWS': 6, 'MEWS': 2, 'qSOFA': 1, 'Person ID': 1431}
+{'NEWS': 2, 'qSOFA': 0, 'Person ID': 1432}
+{'NEWS': 3, 'MEWS': 3, 'qSOFA': 0, 'Person ID': 1433}
+{'Person ID': 1434}
+{'qSOFA': 1, 'Person ID': 1435}
+{'qSOFA': 0, 'Person ID': 1436}
+{'NEWS': 4, 'MEWS': 3, 'qSOFA': 1, 'Person ID': 1437}
+{'NEWS': 2, 'MEWS': 2, 'qSOFA': 1, 'Person ID': 1438}
+{'NEWS': 4, 'MEWS': 2, 'qSOFA': 1, 'Person ID': 1439}
+{'Person ID': 1440}
+{'Person ID': 1441}
+{'qSOFA': 0, 'Person ID': 1442}
+{'qSOFA': 0, 'Person ID': 1443}
+{'Person ID': 1444}
+{'NEWS': 4, 'MEWS': 2, 'qSOFA': 1, 'Person ID': 1445}
+{'NEWS': 2, 'MEWS': 3, 'qSOFA': 0, 'Person ID': 1446}
+{'NEWS': 2, 'MEWS': 1, 'qSOFA': 0, 'Person ID': 1447}
+{'qSOFA': 2, 'Person ID': 1448}
+{'NEWS': 0, 'qSOFA': 0, 'Person ID': 1449}
+{'MEWS': 1, 'qSOFA': 0, 'Person ID': 1450}
+{'NEWS': 3, 'MEWS': 3, 'qSOFA': 0, 'Person ID': 1451}
+{'NEWS': 3, 'MEWS': 2, 'qSOFA': 1, 'Person ID': 1452}
+{'NEWS': 3, 'MEWS': 2, 'qSOFA': 0, 'Person ID': 1453}
+{'NEWS': 4, 'MEWS': 3, 'qSOFA': 1, 'Person ID': 1454}
+{'NEWS': 2, 'MEWS': 2, 'qSOFA': 1, 'Person ID': 1455}
+{'NEWS': 3, 'MEWS': 4, 'qSOFA': 1, 'Person ID': 1456}
+{'NEWS': 7, 'MEWS': 3, 'qSOFA': 0, 'Person ID': 1457}
+{'NEWS': 3, 'MEWS': 4, 'qSOFA': 0, 'Person ID': 1458}
+{'NEWS': 8, 'MEWS': 4, 'qSOFA': 0, 'Person ID': 1459}
+{'Person ID': 1460}
+{'Person ID': 1461}
+{'qSOFA': 0, 'Person ID': 1462}
+{'NEWS': 3, 'MEWS': 2, 'qSOFA': 0, 'Person ID': 1463}
+{'NEWS': 6, 'MEWS': 7, 'qSOFA': 0, 'Person ID': 1464}
+{'NEWS': 3, 'MEWS': 3, 'qSOFA': 0, 'Person ID': 1465}
+{'NEWS': 4, 'MEWS': 3, 'qSOFA': 1, 'Person ID': 1466}
+{'NEWS': 2, 'MEWS': 2, 'qSOFA': 1, 'Person ID': 1467}
+{'NEWS': 7, 'MEWS': 2, 'qSOFA': 0, 'Person ID': 1468}
+{'NEWS': 3, 'MEWS': 3, 'qSOFA': 0, 'Person ID': 1469}
+{'NEWS': 4, 'MEWS': 5, 'qSOFA': 0, 'Person ID': 1470}
+{'NEWS': 0, 'MEWS': 3, 'qSOFA': 0, 'Person ID': 1471}
+{'NEWS': 3, 'MEWS': 2, 'qSOFA': 1, 'Person ID': 1472}
+{'NEWS': 1, 'MEWS': 2, 'qSOFA': 0, 'Person ID': 1473}
+{'NEWS': 3, 'MEWS': 5, 'qSOFA': 1, 'Person ID': 1474}
+{'NEWS': 2, 'MEWS': 0, 'qSOFA': 0, 'Person ID': 1475}
+{'NEWS': 5, 'MEWS': 4, 'qSOFA': 1, 'Person ID': 1476}
+{'NEWS': 5, 'MEWS': 4, 'qSOFA': 1, 'Person ID': 1477}
+{'qSOFA': 0, 'Person ID': 1478}
+{'NEWS': 4, 'MEWS': 2, 'qSOFA': 1, 'Person ID': 1479}
+{'Person ID': 1480}
+{'NEWS': 1, 'MEWS': 2, 'qSOFA': 0, 'Person ID': 1481}
+{'NEWS': 0, 'MEWS': 1, 'qSOFA': 0, 'Person ID': 1482}
+{'NEWS': 4, 'MEWS': 3, 'qSOFA': 0, 'Person ID': 1483}
+{'Person ID': 1484}
+{'NEWS': 2, 'MEWS': 3, 'qSOFA': 0, 'Person ID': 1485}
+{'Person ID': 1486}
+{'qSOFA': 0, 'Person ID': 1487}
+{'NEWS': 3, 'MEWS': 5, 'qSOFA': 1, 'Person ID': 1488}
+{'NEWS': 2, 'MEWS': 7, 'qSOFA': 0, 'Person ID': 1489}
+{'NEWS': 2, 'MEWS': 3, 'qSOFA': 0, 'Person ID': 1490}
+{'NEWS': 1, 'qSOFA': 0, 'Person ID': 1491}
+{'NEWS': 7, 'MEWS': 4, 'qSOFA': 1, 'Person ID': 1492}
+{'Person ID': 1493}
+{'NEWS': 8, 'qSOFA': 1, 'Person ID': 1494}
+{'NEWS': 4, 'MEWS': 4, 'qSOFA': 0, 'Person ID': 1495}
+{'NEWS': 6, 'MEWS': 5, 'qSOFA': 0, 'Person ID': 1496}
+{'NEWS': 3, 'MEWS': 3, 'qSOFA': 1, 'Person ID': 1497}
+{'NEWS': 4, 'MEWS': 7, 'qSOFA': 1, 'Person ID': 1498}
+{'NEWS': 4, 'MEWS': 5, 'qSOFA': 0, 'Person ID': 1499}
+{'NEWS': 1, 'MEWS': 2, 'qSOFA': 0, 'Person ID': 1500}
+{'Person ID': 1501}
+{'NEWS': 7, 'qSOFA': 0, 'Person ID': 1502}
+{'NEWS': 2, 'MEWS': 3, 'qSOFA': 0, 'Person ID': 1503}
+{'NEWS': 4, 'MEWS': 4, 'qSOFA': 0, 'Person ID': 1504}
+{'NEWS': 6, 'MEWS': 3, 'qSOFA': 2, 'Person ID': 1505}
+{'NEWS': 3, 'MEWS': 2, 'qSOFA': 1, 'Person ID': 1506}
+{'NEWS': 3, 'MEWS': 3, 'qSOFA': 0, 'Person ID': 1507}
+{'NEWS': 5, 'MEWS': 5, 'qSOFA': 1, 'Person ID': 1508}
+{'NEWS': 5, 'MEWS': 1, 'qSOFA': 0, 'Person ID': 1509}
+{'NEWS': 2, 'MEWS': 1, 'qSOFA': 0, 'Person ID': 1510}
+{'NEWS': 1, 'MEWS': 1, 'qSOFA': 0, 'Person ID': 1511}
+{'Person ID': 1512}
+{'NEWS': 5, 'MEWS': 4, 'qSOFA': 1, 'Person ID': 1513}
+{'NEWS': 2, 'MEWS': 2, 'qSOFA': 0, 'Person ID': 1514}
+{'NEWS': 2, 'MEWS': 4, 'qSOFA': 0, 'Person ID': 1515}
+{'NEWS': 5, 'MEWS': 3, 'qSOFA': 0, 'Person ID': 1516}
+{'NEWS': 2, 'MEWS': 5, 'qSOFA': 1, 'Person ID': 1517}
+{'Person ID': 1518}
+{'NEWS': 15, 'MEWS': 8, 'qSOFA': 1, 'Person ID': 1519}
+{'NEWS': 1, 'MEWS': 2, 'qSOFA': 0, 'Person ID': 1520}
+{'NEWS': 2, 'MEWS': 2, 'qSOFA': 0, 'Person ID': 1521}
+{'NEWS': 11, 'MEWS': 8, 'qSOFA': 1, 'Person ID': 1522}
+{'NEWS': 8, 'MEWS': 2, 'qSOFA': 1, 'Person ID': 1523}
+{'NEWS': 3, 'MEWS': 2, 'qSOFA': 1, 'Person ID': 1524}
+{'NEWS': 0, 'MEWS': 1, 'qSOFA': 0, 'Person ID': 1525}
+{'qSOFA': 0, 'Person ID': 1526}
+{'NEWS': 3, 'MEWS': 3, 'qSOFA': 0, 'Person ID': 1527}
+{'Person ID': 1528}
+{'NEWS': 7, 'MEWS': 4, 'qSOFA': 2, 'Person ID': 1529}
+{'NEWS': 3, 'MEWS': 4, 'qSOFA': 0, 'Person ID': 1530}
+{'qSOFA': 0, 'Person ID': 1531}
+{'Person ID': 1532}
+{'NEWS': 3, 'MEWS': 2, 'qSOFA': 1, 'Person ID': 1533}
+{'NEWS': 3, 'MEWS': 7, 'qSOFA': 1, 'Person ID': 1534}
+{'Person ID': 1535}
+{'Person ID': 1536}
+{'NEWS': 7, 'MEWS': 4, 'qSOFA': 1, 'Person ID': 1537}
+{'NEWS': 0, 'MEWS': 1, 'qSOFA': 0, 'Person ID': 1538}
+{'NEWS': 3, 'MEWS': 2, 'qSOFA': 1, 'Person ID': 1539}
+{'Person ID': 1540}
+{'NEWS': 6, 'MEWS': 4, 'qSOFA': 1, 'Person ID': 1541}
+{'Person ID': 1542}
+{'NEWS': 5, 'MEWS': 5, 'qSOFA': 0, 'Person ID': 1543}
+{'NEWS': 6, 'MEWS': 4, 'qSOFA': 1, 'Person ID': 1544}
+{'NEWS': 4, 'MEWS': 4, 'qSOFA': 0, 'Person ID': 1545}
+{'NEWS': 8, 'MEWS': 3, 'qSOFA': 0, 'Person ID': 1546}
+{'NEWS': 5, 'MEWS': 3, 'qSOFA': 2, 'Person ID': 1547}
+{'Person ID': 1548}
+{'qSOFA': 0, 'Person ID': 1549}
+{'NEWS': 5, 'MEWS': 4, 'qSOFA': 0, 'Person ID': 1550}
+{'NEWS': 11, 'MEWS': 4, 'qSOFA': 0, 'Person ID': 1551}
+{'qSOFA': 0, 'Person ID': 1552}
+{'NEWS': 3, 'MEWS': 3, 'qSOFA': 0, 'Person ID': 1553}
+{'Person ID': 1554}
+{'Person ID': 1555}
+{'NEWS': 6, 'MEWS': 5, 'qSOFA': 1, 'Person ID': 1556}
+{'NEWS': 1, 'qSOFA': 0, 'Person ID': 1557}
+{'NEWS': 1, 'MEWS': 2, 'qSOFA': 0, 'Person ID': 1558}
+{'Person ID': 1559}
+{'NEWS': 4, 'MEWS': 6, 'qSOFA': 1, 'Person ID': 1560}
+{'NEWS': 5, 'MEWS': 3, 'qSOFA': 1, 'Person ID': 1561}
+{'NEWS': 3, 'MEWS': 3, 'qSOFA': 1, 'Person ID': 1562}
+{'NEWS': 3, 'MEWS': 3, 'qSOFA': 0, 'Person ID': 1563}
+{'NEWS': 5, 'MEWS': 4, 'qSOFA': 1, 'Person ID': 1564}
+{'NEWS': 6, 'MEWS': 4, 'qSOFA': 2, 'Person ID': 1565}
+{'NEWS': 1, 'MEWS': 2, 'qSOFA': 0, 'Person ID': 1566}
+{'NEWS': 0, 'MEWS': 2, 'qSOFA': 0, 'Person ID': 1567}
+{'NEWS': 6, 'MEWS': 4, 'qSOFA': 0, 'Person ID': 1568}
+{'NEWS': 3, 'MEWS': 2, 'qSOFA': 0, 'Person ID': 1569}
+{'NEWS': 6, 'MEWS': 5, 'qSOFA': 0, 'Person ID': 1570}
+{'NEWS': 3, 'MEWS': 1, 'qSOFA': 0, 'Person ID': 1571}
+{'NEWS': 0, 'MEWS': 3, 'qSOFA': 0, 'Person ID': 1572}
+{'NEWS': 1, 'MEWS': 2, 'qSOFA': 0, 'Person ID': 1573}
+{'qSOFA': 1, 'Person ID': 1574}
+{'NEWS': 8, 'MEWS': 6, 'qSOFA': 0, 'Person ID': 1575}
+{'NEWS': 3, 'MEWS': 2, 'qSOFA': 0, 'Person ID': 1576}
+{'NEWS': 4, 'MEWS': 2, 'qSOFA': 0, 'Person ID': 1577}
+{'NEWS': 4, 'MEWS': 4, 'qSOFA': 1, 'Person ID': 1578}
+{'NEWS': 6, 'MEWS': 4, 'qSOFA': 1, 'Person ID': 1579}
+{'NEWS': 6, 'MEWS': 5, 'qSOFA': 1, 'Person ID': 1580}
+{'qSOFA': 0, 'Person ID': 1581}
+{'NEWS': 2, 'MEWS': 2, 'qSOFA': 0, 'Person ID': 1582}
+{'NEWS': 5, 'MEWS': 4, 'qSOFA': 1, 'Person ID': 1583}
+{'NEWS': 2, 'MEWS': 2, 'qSOFA': 0, 'Person ID': 1584}
+{'MEWS': 7, 'qSOFA': 0, 'Person ID': 1585}
+{'NEWS': 3, 'MEWS': 2, 'qSOFA': 0, 'Person ID': 1586}
+{'NEWS': 10, 'MEWS': 5, 'qSOFA': 1, 'Person ID': 1587}
+{'NEWS': 4, 'MEWS': 4, 'qSOFA': 1, 'Person ID': 1588}
+{'NEWS': 9, 'MEWS': 4, 'qSOFA': 1, 'Person ID': 1589}
+{'NEWS': 7, 'qSOFA': 2, 'Person ID': 1590}
+{'NEWS': 3, 'MEWS': 5, 'qSOFA': 0, 'Person ID': 1591}
+{'NEWS': 5, 'MEWS': 3, 'qSOFA': 1, 'Person ID': 1592}
+{'NEWS': 8, 'MEWS': 4, 'qSOFA': 1, 'Person ID': 1593}
+{'NEWS': 2, 'MEWS': 4, 'qSOFA': 0, 'Person ID': 1594}
+{'NEWS': 4, 'MEWS': 4, 'qSOFA': 1, 'Person ID': 1595}
+{'NEWS': 8, 'MEWS': 3, 'qSOFA': 0, 'Person ID': 1596}
+{'NEWS': 1, 'MEWS': 1, 'qSOFA': 0, 'Person ID': 1597}
+{'NEWS': 13, 'MEWS': 6, 'qSOFA': 2, 'Person ID': 1598}
+{'NEWS': 9, 'MEWS': 5, 'qSOFA': 0, 'Person ID': 1599}
+{'NEWS': 2, 'MEWS': 3, 'qSOFA': 0, 'Person ID': 1600}
+{'NEWS': 5, 'MEWS': 1, 'qSOFA': 0, 'Person ID': 1601}
+{'NEWS': 0, 'MEWS': 0, 'qSOFA': 0, 'Person ID': 1602}
+{'NEWS': 2, 'MEWS': 1, 'qSOFA': 0, 'Person ID': 1603}
+{'NEWS': 3, 'MEWS': 2, 'qSOFA': 1, 'Person ID': 1604}
+{'Person ID': 1605}
+{'NEWS': 0, 'MEWS': 2, 'qSOFA': 0, 'Person ID': 1606}
+{'NEWS': 4, 'MEWS': 4, 'qSOFA': 1, 'Person ID': 1607}
+{'NEWS': 2, 'MEWS': 4, 'qSOFA': 1, 'Person ID': 1608}
+{'NEWS': 3, 'MEWS': 4, 'qSOFA': 0, 'Person ID': 1609}
+{'Person ID': 1610}
+{'NEWS': 1, 'MEWS': 2, 'qSOFA': 0, 'Person ID': 1611}
+{'NEWS': 2, 'MEWS': 2, 'qSOFA': 0, 'Person ID': 1612}
+{'NEWS': 7, 'MEWS': 6, 'qSOFA': 1, 'Person ID': 1613}
+{'NEWS': 8, 'MEWS': 3, 'qSOFA': 0, 'Person ID': 1614}
+{'NEWS': 6, 'MEWS': 3, 'qSOFA': 2, 'Person ID': 1615}
+{'NEWS': 2, 'MEWS': 3, 'qSOFA': 0, 'Person ID': 1616}
+{'NEWS': 5, 'MEWS': 4, 'qSOFA': 1, 'Person ID': 1617}
+{'NEWS': 3, 'qSOFA': 0, 'Person ID': 1618}
+{'NEWS': 1, 'qSOFA': 0, 'Person ID': 1619}
+{'NEWS': 1, 'MEWS': 2, 'qSOFA': 0, 'Person ID': 1620}
+{'NEWS': 3, 'MEWS': 2, 'qSOFA': 0, 'Person ID': 1621}
+{'NEWS': 2, 'MEWS': 3, 'qSOFA': 0, 'Person ID': 1622}
+{'NEWS': 0, 'MEWS': 3, 'qSOFA': 0, 'Person ID': 1623}
+{'NEWS': 1, 'MEWS': 2, 'qSOFA': 0, 'Person ID': 1624}
+{'NEWS': 6, 'MEWS': 5, 'qSOFA': 0, 'Person ID': 1625}
+{'NEWS': 1, 'MEWS': 1, 'qSOFA': 0, 'Person ID': 1626}
+{'NEWS': 4, 'MEWS': 5, 'qSOFA': 1, 'Person ID': 1627}
+{'NEWS': 1, 'MEWS': 4, 'qSOFA': 0, 'Person ID': 1628}
+{'NEWS': 8, 'MEWS': 5, 'qSOFA': 1, 'Person ID': 1629}
+{'NEWS': 0, 'MEWS': 3, 'qSOFA': 0, 'Person ID': 1630}
+{'Person ID': 1631}
+{'NEWS': 8, 'MEWS': 4, 'qSOFA': 1, 'Person ID': 1632}
+{'NEWS': 3, 'MEWS': 2, 'qSOFA': 0, 'Person ID': 1633}
+{'qSOFA': 0, 'Person ID': 1634}
+{'NEWS': 7, 'MEWS': 2, 'qSOFA': 0, 'Person ID': 1635}
+{'NEWS': 5, 'qSOFA': 0, 'Person ID': 1636}
+{'NEWS': 12, 'MEWS': 5, 'qSOFA': 2, 'Person ID': 1637}
+{'Person ID': 1638}
+{'NEWS': 3, 'MEWS': 5, 'qSOFA': 0, 'Person ID': 1639}
+{'NEWS': 1, 'MEWS': 0, 'qSOFA': 0, 'Person ID': 1640}
+{'Person ID': 1641}
+{'NEWS': 7, 'MEWS': 2, 'qSOFA': 1, 'Person ID': 1642}
+{'NEWS': 3, 'MEWS': 6, 'qSOFA': 0, 'Person ID': 1643}
+{'NEWS': 2, 'MEWS': 3, 'qSOFA': 0, 'Person ID': 1644}
+{'Person ID': 1645}
+{'NEWS': 5, 'MEWS': 4, 'qSOFA': 0, 'Person ID': 1646}
+{'NEWS': 3, 'MEWS': 0, 'qSOFA': 0, 'Person ID': 1647}
+{'NEWS': 2, 'MEWS': 5, 'qSOFA': 1, 'Person ID': 1648}
+{'NEWS': 7, 'MEWS': 7, 'qSOFA': 1, 'Person ID': 1649}
+{'NEWS': 6, 'MEWS': 6, 'qSOFA': 1, 'Person ID': 1650}
+{'Person ID': 1651}
+{'NEWS': 4, 'MEWS': 5, 'qSOFA': 0, 'Person ID': 1652}
+{'Person ID': 1653}
+{'Person ID': 1654}
+{'Person ID': 1655}
+{'NEWS': 5, 'MEWS': 4, 'qSOFA': 0, 'Person ID': 1656}
+{'NEWS': 9, 'MEWS': 4, 'qSOFA': 1, 'Person ID': 1657}
+{'NEWS': 1, 'MEWS': 0, 'qSOFA': 0, 'Person ID': 1658}
+{'NEWS': 4, 'MEWS': 3, 'qSOFA': 1, 'Person ID': 1659}
+{'Person ID': 1660}
+{'MEWS': 2, 'qSOFA': 0, 'Person ID': 1661}
+{'NEWS': 5, 'MEWS': 5, 'qSOFA': 1, 'Person ID': 1662}
+{'NEWS': 2, 'MEWS': 0, 'qSOFA': 0, 'Person ID': 1663}
+{'NEWS': 0, 'MEWS': 1, 'qSOFA': 0, 'Person ID': 1664}
+{'NEWS': 6, 'MEWS': 2, 'qSOFA': 0, 'Person ID': 1665}
+{'Person ID': 1666}
+{'NEWS': 3, 'MEWS': 4, 'qSOFA': 0, 'Person ID': 1667}
+{'NEWS': 1, 'MEWS': 1, 'qSOFA': 0, 'Person ID': 1668}
+{'NEWS': 4, 'qSOFA': 1, 'Person ID': 1669}
+{'NEWS': 1, 'MEWS': 2, 'qSOFA': 0, 'Person ID': 1670}
+{'NEWS': 1, 'MEWS': 2, 'qSOFA': 0, 'Person ID': 1671}
+{'Person ID': 1672}
+{'NEWS': 0, 'MEWS': 0, 'qSOFA': 0, 'Person ID': 1673}
+{'qSOFA': 0, 'Person ID': 1674}
+{'NEWS': 2, 'MEWS': 1, 'qSOFA': 0, 'Person ID': 1675}
+{'NEWS': 0, 'MEWS': 1, 'qSOFA': 0, 'Person ID': 1676}
+{'NEWS': 8, 'MEWS': 7, 'qSOFA': 2, 'Person ID': 1677}
+{'NEWS': 3, 'MEWS': 2, 'qSOFA': 0, 'Person ID': 1678}
+{'NEWS': 5, 'MEWS': 1, 'qSOFA': 0, 'Person ID': 1679}
+{'NEWS': 5, 'qSOFA': 1, 'Person ID': 1680}
+{'NEWS': 0, 'qSOFA': 0, 'Person ID': 1681}
+{'NEWS': 1, 'MEWS': 1, 'qSOFA': 0, 'Person ID': 1682}
+{'Person ID': 1683}
+{'NEWS': 1, 'MEWS': 2, 'qSOFA': 0, 'Person ID': 1684}
+{'NEWS': 6, 'MEWS': 4, 'qSOFA': 1, 'Person ID': 1685}
+{'NEWS': 4, 'MEWS': 2, 'qSOFA': 0, 'Person ID': 1686}
+{'qSOFA': 0, 'Person ID': 1687}
+{'NEWS': 6, 'MEWS': 3, 'qSOFA': 2, 'Person ID': 1688}
+{'NEWS': 7, 'MEWS': 6, 'qSOFA': 0, 'Person ID': 1689}
+{'NEWS': 2, 'MEWS': 3, 'qSOFA': 0, 'Person ID': 1690}
+{'qSOFA': 0, 'Person ID': 1691}
+{'NEWS': 4, 'MEWS': 4, 'qSOFA': 0, 'Person ID': 1692}
+{'NEWS': 1, 'MEWS': 0, 'qSOFA': 0, 'Person ID': 1693}
+{'Person ID': 1694}
+{'NEWS': 6, 'MEWS': 4, 'qSOFA': 1, 'Person ID': 1695}
+{'qSOFA': 1, 'Person ID': 1696}
+{'NEWS': 7, 'MEWS': 7, 'qSOFA': 1, 'Person ID': 1697}
+{'NEWS': 5, 'MEWS': 6, 'qSOFA': 1, 'Person ID': 1698}
+{'NEWS': 6, 'MEWS': 6, 'qSOFA': 0, 'Person ID': 1699}
+{'NEWS': 2, 'MEWS': 0, 'qSOFA': 0, 'Person ID': 1700}
+{'Person ID': 1701}
+{'qSOFA': 0, 'Person ID': 1702}
+{'NEWS': 5, 'MEWS': 3, 'qSOFA': 1, 'Person ID': 1703}
+{'NEWS': 10, 'MEWS': 6, 'qSOFA': 1, 'Person ID': 1704}
+{'NEWS': 2, 'MEWS': 2, 'qSOFA': 1, 'Person ID': 1705}
+{'NEWS': 0, 'MEWS': 1, 'qSOFA': 0, 'Person ID': 1706}
+{'NEWS': 7, 'MEWS': 7, 'qSOFA': 1, 'Person ID': 1707}
+{'NEWS': 4, 'MEWS': 2, 'qSOFA': 0, 'Person ID': 1708}
+{'NEWS': 0, 'MEWS': 0, 'qSOFA': 0, 'Person ID': 1709}
+{'NEWS': 0, 'MEWS': 1, 'qSOFA': 0, 'Person ID': 1710}
+{'NEWS': 4, 'MEWS': 2, 'qSOFA': 0, 'Person ID': 1711}
+{'NEWS': 3, 'MEWS': 2, 'qSOFA': 0, 'Person ID': 1712}
+{'NEWS': 2, 'MEWS': 5, 'qSOFA': 0, 'Person ID': 1713}
+{'NEWS': 1, 'MEWS': 0, 'qSOFA': 0, 'Person ID': 1714}
+{'NEWS': 1, 'MEWS': 2, 'qSOFA': 0, 'Person ID': 1715}
+{'NEWS': 8, 'MEWS': 5, 'qSOFA': 1, 'Person ID': 1716}
+{'NEWS': 5, 'qSOFA': 2, 'Person ID': 1717}
+{'NEWS': 5, 'MEWS': 2, 'qSOFA': 1, 'Person ID': 1718}
+{'NEWS': 3, 'MEWS': 4, 'qSOFA': 1, 'Person ID': 1719}
+{'Person ID': 1720}
+{'NEWS': 4, 'MEWS': 3, 'qSOFA': 1, 'Person ID': 1721}
+{'NEWS': 2, 'MEWS': 2, 'qSOFA': 0, 'Person ID': 1722}
+{'NEWS': 3, 'MEWS': 2, 'qSOFA': 1, 'Person ID': 1723}
+{'NEWS': 1, 'MEWS': 2, 'qSOFA': 0, 'Person ID': 1724}
+{'NEWS': 3, 'MEWS': 4, 'qSOFA': 0, 'Person ID': 1725}
+{'NEWS': 5, 'MEWS': 1, 'qSOFA': 0, 'Person ID': 1726}
+{'NEWS': 4, 'MEWS': 4, 'qSOFA': 0, 'Person ID': 1727}
+{'NEWS': 7, 'MEWS': 5, 'qSOFA': 1, 'Person ID': 1728}
+{'NEWS': 4, 'MEWS': 2, 'qSOFA': 1, 'Person ID': 1729}
+{'qSOFA': 0, 'Person ID': 1730}
+{'Person ID': 1731}
+{'NEWS': 3, 'MEWS': 2, 'qSOFA': 0, 'Person ID': 1732}
+{'NEWS': 4, 'MEWS': 4, 'qSOFA': 1, 'Person ID': 1733}
+{'NEWS': 4, 'MEWS': 7, 'qSOFA': 1, 'Person ID': 1734}
+{'NEWS': 4, 'MEWS': 2, 'qSOFA': 0, 'Person ID': 1735}
+{'NEWS': 3, 'MEWS': 2, 'qSOFA': 1, 'Person ID': 1736}
+{'NEWS': 5, 'MEWS': 6, 'qSOFA': 1, 'Person ID': 1737}
+{'Person ID': 1738}
+{'NEWS': 5, 'MEWS': 4, 'qSOFA': 1, 'Person ID': 1739}
+{'NEWS': 4, 'MEWS': 6, 'qSOFA': 0, 'Person ID': 1740}
+{'NEWS': 0, 'MEWS': 1, 'qSOFA': 0, 'Person ID': 1741}
+{'NEWS': 2, 'MEWS': 1, 'qSOFA': 1, 'Person ID': 1742}
+{'Person ID': 1743}
+{'qSOFA': 1, 'Person ID': 1744}
+{'NEWS': 3, 'MEWS': 3, 'qSOFA': 0, 'Person ID': 1745}
+{'NEWS': 6, 'MEWS': 5, 'qSOFA': 0, 'Person ID': 1746}
+{'NEWS': 1, 'MEWS': 3, 'qSOFA': 0, 'Person ID': 1747}
+{'qSOFA': 0, 'Person ID': 1748}
+{'NEWS': 10, 'MEWS': 6, 'qSOFA': 1, 'Person ID': 1749}
+{'NEWS': 12, 'MEWS': 8, 'qSOFA': 0, 'Person ID': 1750}
+{'NEWS': 0, 'MEWS': 1, 'qSOFA': 0, 'Person ID': 1751}
+{'NEWS': 6, 'MEWS': 4, 'qSOFA': 1, 'Person ID': 1752}
+{'NEWS': 11, 'MEWS': 4, 'qSOFA': 1, 'Person ID': 1753}
+{'NEWS': 7, 'MEWS': 7, 'qSOFA': 0, 'Person ID': 1754}
+{'NEWS': 4, 'MEWS': 2, 'qSOFA': 1, 'Person ID': 1755}
+{'NEWS': 3, 'MEWS': 6, 'qSOFA': 0, 'Person ID': 1756}
+{'NEWS': 2, 'MEWS': 0, 'qSOFA': 0, 'Person ID': 1757}
+{'NEWS': 6, 'MEWS': 3, 'qSOFA': 0, 'Person ID': 1758}
+{'NEWS': 3, 'MEWS': 4, 'qSOFA': 0, 'Person ID': 1759}
+{'NEWS': 2, 'MEWS': 2, 'qSOFA': 0, 'Person ID': 1760}
+{'NEWS': 8, 'qSOFA': 1, 'Person ID': 1761}
+{'NEWS': 7, 'MEWS': 3, 'qSOFA': 0, 'Person ID': 1762}
+{'NEWS': 5, 'MEWS': 3, 'qSOFA': 0, 'Person ID': 1763}
+{'Person ID': 1764}
+{'NEWS': 4, 'MEWS': 4, 'qSOFA': 1, 'Person ID': 1765}
+{'NEWS': 9, 'MEWS': 3, 'qSOFA': 1, 'Person ID': 1766}
+{'Person ID': 1767}
+{'NEWS': 10, 'MEWS': 3, 'qSOFA': 1, 'Person ID': 1768}
+{'NEWS': 7, 'MEWS': 7, 'qSOFA': 1, 'Person ID': 1769}
+{'NEWS': 1, 'MEWS': 2, 'qSOFA': 0, 'Person ID': 1770}
+{'Person ID': 1771}
+{'NEWS': 4, 'MEWS': 5, 'qSOFA': 0, 'Person ID': 1772}
+{'Person ID': 1773}
+{'NEWS': 1, 'qSOFA': 0, 'Person ID': 1774}
+{'NEWS': 6, 'MEWS': 2, 'qSOFA': 1, 'Person ID': 1775}
+{'NEWS': 2, 'MEWS': 1, 'qSOFA': 0, 'Person ID': 1776}
+{'NEWS': 4, 'MEWS': 3, 'qSOFA': 0, 'Person ID': 1777}
+{'NEWS': 6, 'MEWS': 5, 'qSOFA': 1, 'Person ID': 1778}
+{'NEWS': 6, 'MEWS': 2, 'qSOFA': 1, 'Person ID': 1779}
+{'Person ID': 1780}
+{'qSOFA': 0, 'Person ID': 1781}
+{'NEWS': 8, 'MEWS': 6, 'qSOFA': 0, 'Person ID': 1782}
+{'qSOFA': 1, 'Person ID': 1783}
+{'NEWS': 1, 'MEWS': 3, 'qSOFA': 0, 'Person ID': 1784}
+{'NEWS': 1, 'MEWS': 4, 'qSOFA': 0, 'Person ID': 1785}
+{'NEWS': 9, 'MEWS': 7, 'qSOFA': 1, 'Person ID': 1786}
+{'NEWS': 0, 'MEWS': 0, 'qSOFA': 0, 'Person ID': 1787}
+{'NEWS': 5, 'MEWS': 4, 'qSOFA': 0, 'Person ID': 1788}
+{'Person ID': 1789}
+{'NEWS': 3, 'MEWS': 5, 'qSOFA': 0, 'Person ID': 1790}
+{'NEWS': 4, 'MEWS': 3, 'qSOFA': 1, 'Person ID': 1791}
+{'NEWS': 13, 'MEWS': 6, 'qSOFA': 1, 'Person ID': 1792}
+{'Person ID': 1793}
+{'NEWS': 8, 'MEWS': 4, 'qSOFA': 1, 'Person ID': 1794}
+{'Person ID': 1795}
+{'NEWS': 3, 'MEWS': 2, 'qSOFA': 0, 'Person ID': 1796}
+{'MEWS': 6, 'qSOFA': 2, 'Person ID': 1797}
+{'NEWS': 1, 'MEWS': 0, 'qSOFA': 0, 'Person ID': 1798}
+{'NEWS': 1, 'MEWS': 2, 'qSOFA': 0, 'Person ID': 1799}
+{'NEWS': 3, 'MEWS': 3, 'qSOFA': 0, 'Person ID': 1800}
+{'NEWS': 5, 'MEWS': 6, 'qSOFA': 0, 'Person ID': 1801}
+{'NEWS': 9, 'MEWS': 5, 'qSOFA': 1, 'Person ID': 1802}
+{'Person ID': 1803}
+{'NEWS': 2, 'MEWS': 3, 'qSOFA': 0, 'Person ID': 1804}
+{'NEWS': 7, 'qSOFA': 1, 'Person ID': 1805}
+{'NEWS': 5, 'MEWS': 5, 'qSOFA': 0, 'Person ID': 1806}
+{'NEWS': 2, 'MEWS': 2, 'qSOFA': 1, 'Person ID': 1807}
+{'NEWS': 5, 'MEWS': 2, 'qSOFA': 1, 'Person ID': 1808}
+{'NEWS': 8, 'MEWS': 7, 'qSOFA': 0, 'Person ID': 1809}
+{'Person ID': 1810}
+{'NEWS': 3, 'MEWS': 3, 'qSOFA': 0, 'Person ID': 1811}
+{'NEWS': 3, 'MEWS': 2, 'qSOFA': 1, 'Person ID': 1812}
+{'Person ID': 1813}
+{'NEWS': 5, 'MEWS': 4, 'qSOFA': 0, 'Person ID': 1814}
+{'NEWS': 4, 'MEWS': 3, 'qSOFA': 0, 'Person ID': 1815}
+{'NEWS': 2, 'MEWS': 1, 'qSOFA': 1, 'Person ID': 1816}
+{'NEWS': 4, 'MEWS': 2, 'qSOFA': 0, 'Person ID': 1817}
+{'Person ID': 1818}
+{'NEWS': 3, 'MEWS': 4, 'qSOFA': 1, 'Person ID': 1819}
+{'NEWS': 1, 'MEWS': 0, 'qSOFA': 0, 'Person ID': 1820}
+{'NEWS': 2, 'MEWS': 3, 'qSOFA': 0, 'Person ID': 1821}
+{'NEWS': 2, 'MEWS': 1, 'qSOFA': 0, 'Person ID': 1822}
+{'qSOFA': 1, 'Person ID': 1823}
+{'NEWS': 1, 'MEWS': 0, 'qSOFA': 0, 'Person ID': 1824}
+{'NEWS': 5, 'MEWS': 8, 'qSOFA': 1, 'Person ID': 1825}
+{'NEWS': 8, 'MEWS': 4, 'qSOFA': 0, 'Person ID': 1826}
+{'qSOFA': 0, 'Person ID': 1827}
+{'NEWS': 0, 'MEWS': 2, 'qSOFA': 0, 'Person ID': 1828}
+{'NEWS': 3, 'MEWS': 4, 'qSOFA': 0, 'Person ID': 1829}
+{'NEWS': 3, 'MEWS': 3, 'qSOFA': 0, 'Person ID': 1830}
+{'Person ID': 1831}
+{'Person ID': 1832}
+{'NEWS': 3, 'MEWS': 3, 'qSOFA': 0, 'Person ID': 1833}
+{'NEWS': 5, 'MEWS': 5, 'qSOFA': 1, 'Person ID': 1834}
+{'MEWS': 6, 'qSOFA': 1, 'Person ID': 1835}
+{'NEWS': 8, 'MEWS': 3, 'qSOFA': 1, 'Person ID': 1836}
+{'NEWS': 5, 'MEWS': 3, 'qSOFA': 2, 'Person ID': 1837}
+{'NEWS': 5, 'MEWS': 7, 'qSOFA': 1, 'Person ID': 1838}
+{'Person ID': 1839}
+{'MEWS': 5, 'qSOFA': 1, 'Person ID': 1840}
+{'MEWS': 1, 'qSOFA': 0, 'Person ID': 1841}
+{'NEWS': 2, 'MEWS': 3, 'qSOFA': 0, 'Person ID': 1842}
+{'Person ID': 1843}
+{'NEWS': 3, 'MEWS': 4, 'qSOFA': 0, 'Person ID': 1844}
+{'Person ID': 1845}
+{'NEWS': 5, 'MEWS': 3, 'qSOFA': 0, 'Person ID': 1846}
+{'NEWS': 3, 'MEWS': 2, 'qSOFA': 0, 'Person ID': 1847}
+{'NEWS': 4, 'MEWS': 5, 'qSOFA': 1, 'Person ID': 1848}
+{'NEWS': 0, 'MEWS': 1, 'qSOFA': 0, 'Person ID': 1849}
+{'NEWS': 0, 'MEWS': 1, 'qSOFA': 0, 'Person ID': 1850}
+{'Person ID': 1851}
+{'NEWS': 3, 'MEWS': 3, 'qSOFA': 0, 'Person ID': 1852}
+{'NEWS': 2, 'MEWS': 3, 'qSOFA': 0, 'Person ID': 1853}
+{'Person ID': 1854}
+{'qSOFA': 0, 'Person ID': 1855}
+{'qSOFA': 0, 'Person ID': 1856}
+{'NEWS': 3, 'MEWS': 2, 'qSOFA': 0, 'Person ID': 1857}
+{'MEWS': 1, 'qSOFA': 0, 'Person ID': 1858}
+{'NEWS': 6, 'MEWS': 4, 'qSOFA': 1, 'Person ID': 1859}
+{'NEWS': 5, 'MEWS': 6, 'qSOFA': 1, 'Person ID': 1860}
+{'NEWS': 1, 'MEWS': 1, 'qSOFA': 0, 'Person ID': 1861}
+{'NEWS': 2, 'qSOFA': 1, 'Person ID': 1862}
+{'NEWS': 3, 'MEWS': 3, 'qSOFA': 1, 'Person ID': 1863}
+{'Person ID': 1864}
+{'Person ID': 1865}
+{'NEWS': 7, 'MEWS': 6, 'qSOFA': 0, 'Person ID': 1866}
+{'Person ID': 1867}
+{'NEWS': 7, 'MEWS': 0, 'qSOFA': 0, 'Person ID': 1868}
+{'NEWS': 5, 'MEWS': 1, 'qSOFA': 0, 'Person ID': 1869}
+{'NEWS': 4, 'qSOFA': 0, 'Person ID': 1870}
+{'NEWS': 6, 'MEWS': 5, 'qSOFA': 1, 'Person ID': 1871}
+{'qSOFA': 2, 'Person ID': 1872}
+{'NEWS': 1, 'MEWS': 0, 'qSOFA': 0, 'Person ID': 1873}
+{'NEWS': 3, 'MEWS': 3, 'qSOFA': 0, 'Person ID': 1874}
+{'NEWS': 6, 'MEWS': 4, 'qSOFA': 0, 'Person ID': 1875}
+{'NEWS': 3, 'MEWS': 4, 'qSOFA': 1, 'Person ID': 1876}
+{'NEWS': 1, 'MEWS': 1, 'qSOFA': 0, 'Person ID': 1877}
+{'NEWS': 7, 'MEWS': 7, 'qSOFA': 1, 'Person ID': 1878}
+{'NEWS': 2, 'MEWS': 5, 'qSOFA': 0, 'Person ID': 1879}
+{'NEWS': 4, 'MEWS': 4, 'qSOFA': 1, 'Person ID': 1880}
+{'NEWS': 1, 'qSOFA': 0, 'Person ID': 1881}
+{'NEWS': 9, 'MEWS': 3, 'qSOFA': 0, 'Person ID': 1882}
+{'NEWS': 9, 'MEWS': 6, 'qSOFA': 1, 'Person ID': 1883}
+{'NEWS': 2, 'MEWS': 2, 'qSOFA': 0, 'Person ID': 1884}
+{'qSOFA': 0, 'Person ID': 1885}
+{'NEWS': 3, 'MEWS': 0, 'qSOFA': 0, 'Person ID': 1886}
+{'NEWS': 8, 'MEWS': 6, 'qSOFA': 1, 'Person ID': 1887}
+{'NEWS': 1, 'MEWS': 1, 'qSOFA': 0, 'Person ID': 1888}
+{'NEWS': 9, 'MEWS': 5, 'qSOFA': 1, 'Person ID': 1889}
+{'Person ID': 1890}
+{'NEWS': 0, 'MEWS': 0, 'qSOFA': 0, 'Person ID': 1891}
+{'NEWS': 2, 'MEWS': 3, 'qSOFA': 0, 'Person ID': 1892}
+{'NEWS': 0, 'MEWS': 1, 'qSOFA': 0, 'Person ID': 1893}
+{'NEWS': 5, 'MEWS': 1, 'qSOFA': 0, 'Person ID': 1894}
+{'NEWS': 7, 'MEWS': 5, 'qSOFA': 2, 'Person ID': 1895}
+{'NEWS': 9, 'MEWS': 8, 'qSOFA': 0, 'Person ID': 1896}
+{'NEWS': 2, 'MEWS': 2, 'qSOFA': 0, 'Person ID': 1897}
+{'NEWS': 3, 'MEWS': 5, 'qSOFA': 0, 'Person ID': 1898}
+{'NEWS': 1, 'MEWS': 1, 'qSOFA': 0, 'Person ID': 1899}
+{'NEWS': 2, 'MEWS': 3, 'qSOFA': 0, 'Person ID': 1900}
+{'qSOFA': 1, 'Person ID': 1901}
+{'NEWS': 1, 'MEWS': 2, 'qSOFA': 0, 'Person ID': 1902}
+{'MEWS': 3, 'qSOFA': 2, 'Person ID': 1903}
+{'Person ID': 1904}
+{'NEWS': 4, 'MEWS': 3, 'qSOFA': 0, 'Person ID': 1905}
+{'NEWS': 0, 'MEWS': 3, 'qSOFA': 0, 'Person ID': 1906}
+{'NEWS': 0, 'MEWS': 1, 'qSOFA': 0, 'Person ID': 1907}
+{'NEWS': 3, 'MEWS': 2, 'qSOFA': 0, 'Person ID': 1908}
+{'NEWS': 5, 'MEWS': 1, 'qSOFA': 0, 'Person ID': 1909}
+{'qSOFA': 1, 'Person ID': 1910}
+{'NEWS': 3, 'MEWS': 5, 'qSOFA': 1, 'Person ID': 1911}
+{'NEWS': 2, 'MEWS': 3, 'qSOFA': 0, 'Person ID': 1912}
+{'NEWS': 2, 'MEWS': 4, 'qSOFA': 0, 'Person ID': 1913}
+{'NEWS': 7, 'MEWS': 3, 'qSOFA': 1, 'Person ID': 1914}
+{'NEWS': 6, 'MEWS': 5, 'qSOFA': 0, 'Person ID': 1915}
+{'NEWS': 13, 'MEWS': 6, 'qSOFA': 1, 'Person ID': 1916}
+{'NEWS': 11, 'MEWS': 5, 'qSOFA': 1, 'Person ID': 1917}
+{'NEWS': 7, 'MEWS': 3, 'qSOFA': 0, 'Person ID': 1918}
+{'Person ID': 1919}
+{'Person ID': 1920}
+{'NEWS': 2, 'MEWS': 3, 'qSOFA': 0, 'Person ID': 1921}
+{'NEWS': 1, 'MEWS': 1, 'qSOFA': 0, 'Person ID': 1922}
+{'NEWS': 3, 'MEWS': 2, 'qSOFA': 1, 'Person ID': 1923}
+{'MEWS': 5, 'qSOFA': 0, 'Person ID': 1924}
+{'Person ID': 1925}
+{'Person ID': 1926}
+{'NEWS': 6, 'MEWS': 4, 'qSOFA': 0, 'Person ID': 1927}
+{'NEWS': 4, 'MEWS': 3, 'qSOFA': 2, 'Person ID': 1928}
+{'NEWS': 3, 'MEWS': 5, 'qSOFA': 0, 'Person ID': 1929}
+{'NEWS': 5, 'MEWS': 1, 'qSOFA': 1, 'Person ID': 1930}
+{'NEWS': 4, 'MEWS': 2, 'qSOFA': 0, 'Person ID': 1931}
+{'NEWS': 4, 'MEWS': 4, 'qSOFA': 1, 'Person ID': 1932}
+{'NEWS': 7, 'MEWS': 3, 'qSOFA': 0, 'Person ID': 1933}
+{'NEWS': 5, 'MEWS': 2, 'qSOFA': 0, 'Person ID': 1934}
+{'NEWS': 8, 'MEWS': 1, 'qSOFA': 0, 'Person ID': 1935}
+{'NEWS': 3, 'MEWS': 6, 'qSOFA': 0, 'Person ID': 1936}
+{'qSOFA': 1, 'Person ID': 1937}
+{'MEWS': 2, 'qSOFA': 1, 'Person ID': 1938}
+{'NEWS': 9, 'MEWS': 2, 'qSOFA': 1, 'Person ID': 1939}
+{'Person ID': 1940}
+{'NEWS': 6, 'MEWS': 4, 'qSOFA': 1, 'Person ID': 1941}
+{'NEWS': 5, 'MEWS': 5, 'qSOFA': 0, 'Person ID': 1942}
+{'NEWS': 0, 'MEWS': 4, 'qSOFA': 0, 'Person ID': 1943}
+{'NEWS': 1, 'MEWS': 1, 'qSOFA': 0, 'Person ID': 1944}
+{'NEWS': 3, 'MEWS': 5, 'qSOFA': 0, 'Person ID': 1945}
+{'NEWS': 2, 'MEWS': 0, 'qSOFA': 0, 'Person ID': 1946}
+{'NEWS': 1, 'MEWS': 1, 'qSOFA': 0, 'Person ID': 1947}
+{'qSOFA': 0, 'Person ID': 1948}
+{'NEWS': 3, 'MEWS': 2, 'qSOFA': 1, 'Person ID': 1949}
+{'NEWS': 5, 'qSOFA': 0, 'Person ID': 1950}
+{'NEWS': 2, 'qSOFA': 0, 'Person ID': 1951}
+{'qSOFA': 1, 'Person ID': 1952}
+{'Person ID': 1953}
+{'NEWS': 7, 'MEWS': 8, 'qSOFA': 0, 'Person ID': 1954}
+{'NEWS': 7, 'MEWS': 6, 'qSOFA': 1, 'Person ID': 1955}
+{'NEWS': 3, 'MEWS': 2, 'qSOFA': 0, 'Person ID': 1956}
+{'NEWS': 5, 'MEWS': 4, 'qSOFA': 1, 'Person ID': 1957}
+{'NEWS': 9, 'MEWS': 8, 'qSOFA': 2, 'Person ID': 1958}
+{'MEWS': 4, 'qSOFA': 1, 'Person ID': 1959}
+{'NEWS': 5, 'MEWS': 4, 'qSOFA': 1, 'Person ID': 1960}
+{'NEWS': 0, 'MEWS': 3, 'qSOFA': 0, 'Person ID': 1961}
+{'Person ID': 1962}
+{'NEWS': 1, 'MEWS': 0, 'qSOFA': 0, 'Person ID': 1963}
+{'NEWS': 5, 'MEWS': 3, 'qSOFA': 1, 'Person ID': 1964}
+{'NEWS': 7, 'MEWS': 7, 'qSOFA': 2, 'Person ID': 1965}
+{'NEWS': 2, 'MEWS': 2, 'qSOFA': 0, 'Person ID': 1966}
+{'qSOFA': 1, 'Person ID': 1967}
+{'NEWS': 3, 'MEWS': 2, 'qSOFA': 0, 'Person ID': 1968}
+{'NEWS': 1, 'MEWS': 1, 'qSOFA': 0, 'Person ID': 1969}
+{'NEWS': 5, 'MEWS': 6, 'qSOFA': 1, 'Person ID': 1970}
+{'NEWS': 3, 'MEWS': 4, 'qSOFA': 1, 'Person ID': 1971}
+{'NEWS': 4, 'MEWS': 3, 'qSOFA': 0, 'Person ID': 1972}
+{'NEWS': 1, 'MEWS': 2, 'qSOFA': 0, 'Person ID': 1973}
+{'NEWS': 3, 'MEWS': 5, 'qSOFA': 0, 'Person ID': 1974}
+{'NEWS': 3, 'MEWS': 3, 'qSOFA': 0, 'Person ID': 1975}
+{'MEWS': 3, 'qSOFA': 0, 'Person ID': 1976}
+{'Person ID': 1977}
+{'Person ID': 1978}
+{'Person ID': 1979}
+{'NEWS': 6, 'MEWS': 3, 'qSOFA': 0, 'Person ID': 1980}
+{'Person ID': 1981}
+{'NEWS': 7, 'MEWS': 5, 'qSOFA': 0, 'Person ID': 1982}
+{'MEWS': 6, 'qSOFA': 1, 'Person ID': 1983}
+{'NEWS': 3, 'MEWS': 3, 'qSOFA': 1, 'Person ID': 1984}
+{'NEWS': 5, 'MEWS': 2, 'qSOFA': 1, 'Person ID': 1985}
+{'qSOFA': 0, 'Person ID': 1986}
+{'NEWS': 2, 'MEWS': 3, 'qSOFA': 0, 'Person ID': 1987}
+{'NEWS': 3, 'MEWS': 4, 'qSOFA': 0, 'Person ID': 1988}
+{'NEWS': 5, 'MEWS': 4, 'qSOFA': 1, 'Person ID': 1989}
+{'Person ID': 1990}
+{'MEWS': 3, 'qSOFA': 0, 'Person ID': 1991}
+{'NEWS': 4, 'MEWS': 4, 'qSOFA': 0, 'Person ID': 1992}
+{'NEWS': 0, 'MEWS': 1, 'qSOFA': 0, 'Person ID': 1993}
+{'Person ID': 1994}
+{'NEWS': 6, 'MEWS': 4, 'qSOFA': 0, 'Person ID': 1995}
+{'NEWS': 8, 'MEWS': 10, 'qSOFA': 1, 'Person ID': 1996}
+{'NEWS': 1, 'MEWS': 2, 'qSOFA': 0, 'Person ID': 1997}
+{'qSOFA': 0, 'Person ID': 1998}
+{'NEWS': 6, 'MEWS': 3, 'qSOFA': 0, 'Person ID': 1999}
+{'NEWS': 5, 'MEWS': 0, 'qSOFA': 0, 'Person ID': 2000}
