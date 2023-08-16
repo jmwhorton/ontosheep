@@ -2,8 +2,16 @@ import pandas as pd #for handling csv and csv contents
 from rdflib import Graph, Literal, RDF, URIRef, Namespace #basic RDF handling
 from rdflib.namespace import FOAF , XSD  #most common namespaces
 import urllib.parse #for parsing strings to URI's
+import sys
 
-csv=pd.read_csv('example/input/orgA.csv' ,sep=",",quotechar='"')
+if len(sys.argv) != 3:
+    print("Usage: python csv2rdf.py inputFile outputFile")
+    exit() 
+
+input_path = sys.argv[1]
+output_path = sys.argv[2]
+
+csv=pd.read_csv(input_path ,sep=",",quotechar='"')
 
 g = Graph()
 schema = Namespace('http://www.zayascilia.owl/')
@@ -66,4 +74,4 @@ for index, row in csv.iterrows():
         g.add(((URIRef(schema +  str(row['ID']) + '/glasgow_coma_scale')), OBO.OBI_0002135, Literal(row['Glasgow Coma Scale'], datatype=XSD.integer)))
         g.add(((URIRef(schema +  str(row['ID']) + '/glasgow_coma_scale')), RDF.type, URIRef('http://www.semanticweb.org/zayascilia/ontologies/2022/3/untitled-ontology-8#glasgow_coma_scale_measurement_datum')))
 
-g.serialize('orgA.ttl',format='turtle')
+g.serialize(output_path,format='turtle')
