@@ -1,4 +1,4 @@
-# ontosheep
+# Ontosheep
 
 ## Usage
 
