@@ -12,3 +12,7 @@ Instructions for running a containerized version with a triplestore loaded with 
 6. Import the .ttl files from the example organizations into your triplestore.  If you did not create your own in Step 1, examples are provided: `test-deploy/orgA.ttl` and `test-deploy/orgB.ttl`.
 7. Modify `ews-calculator.py` to point to the address of your triplestore.  As is, the request defined in `ews-calculator.py` works with GraphDB.  The request, parameters, or SPARQL query may need to be modified for other triplestores.
 8. Run `python ews-calculator.py`. Once complete, the output will be stored in `results.txt`.  Your output can be compared to the example output in `test-deploy/example/output/results.txt`.
+
+---
+
+This appication uses two helper modules in separate projects, one for representing [EWSSO](https://github.com/jmwhorton/ontosheep-ews) and one for representing [unit conversions](https://github.com/jmwhorton/ontosheep-conversion).
